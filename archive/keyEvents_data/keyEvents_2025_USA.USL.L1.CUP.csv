@@ -1,0 +1,1038 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13102,726686,1,45138629,70,1,600,10',1,0,Christian Chaney (Charlotte Independence) Goal at 10',Christian Chaney Goal,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,254015,2025-04-26 04:57:01
+13102,726686,2,45138670,98,1,1500,25',1,0,Luis Alvarez (Charlotte Independence) Penalty - Scored at 25',Luis Alvarez Penalty - Scored,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,360318,2025-04-26 04:57:01
+13102,726686,3,45138678,70,1,1620,27',1,0,Oalex Anderson (North Carolina FC) Goal at 27',Oalex Anderson Goal,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,217997,2025-04-26 04:57:01
+13102,726686,4,45138682,94,1,1680,28',0,0,Omar Ciss (Charlotte Independence) Yellow Card at 28',Omar Ciss Yellow Card,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,303617,2025-04-26 04:57:01
+13102,726686,5,45138770,76,2,2700,45',0,0,Evan Conway (North Carolina FC) Substitution at 45',Evan Conway Substitution,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,302900,2025-04-26 04:57:01
+13102,726686,5,45138770,76,2,2700,45',0,0,Evan Conway (North Carolina FC) Substitution at 45',Evan Conway Substitution,9725,0.0,0.0,0.0,0.0,0.0,0.0,2,330015,2025-04-26 04:57:01
+13102,726686,6,45138857,94,2,3900,65',0,0,Rafael Jauregui (Charlotte Independence) Yellow Card at 65',Rafael Jauregui Yellow Card,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,304323,2025-04-26 04:57:01
+13102,726686,8,45138886,76,2,4140,69',0,0,Christopher Jaime (Charlotte Independence) Substitution at 69',Christopher Jaime Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,318882,2025-04-26 04:57:01
+13102,726686,7,45138882,76,2,4140,69',0,0,Alfredo Midence (Charlotte Independence) Substitution at 69',Alfredo Midence Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,381420,2025-04-26 04:57:01
+13102,726686,8,45138886,76,2,4140,69',0,0,Christopher Jaime (Charlotte Independence) Substitution at 69',Christopher Jaime Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,2,303617,2025-04-26 04:57:01
+13102,726686,7,45138882,76,2,4140,69',0,0,Alfredo Midence (Charlotte Independence) Substitution at 69',Alfredo Midence Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,2,254294,2025-04-26 04:57:01
+13102,726686,9,45138907,94,2,4320,72',0,0,Oalex Anderson (North Carolina FC) Yellow Card at 72',Oalex Anderson Yellow Card,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,217997,2025-04-26 04:57:01
+13102,726686,10,45138908,76,2,4380,73',0,0,Rodrigo da Costa (North Carolina FC) Substitution at 73',Rodrigo da Costa Substitution,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,286805,2025-04-26 04:57:01
+13102,726686,11,45138909,76,2,4380,73',0,0,Jaden Servania (North Carolina FC) Substitution at 73',Jaden Servania Substitution,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,288119,2025-04-26 04:57:01
+13102,726686,10,45138908,76,2,4380,73',0,0,Rodrigo da Costa (North Carolina FC) Substitution at 73',Rodrigo da Costa Substitution,9725,0.0,0.0,0.0,0.0,0.0,0.0,2,217997,2025-04-26 04:57:01
+13102,726686,11,45138909,76,2,4380,73',0,0,Jaden Servania (North Carolina FC) Substitution at 73',Jaden Servania Substitution,9725,0.0,0.0,0.0,0.0,0.0,0.0,2,241016,2025-04-26 04:57:01
+13102,726686,12,45138974,76,2,4980,83',0,0,Triston Hodge (North Carolina FC) Substitution at 83',Triston Hodge Substitution,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,236428,2025-04-26 04:57:01
+13102,726686,12,45138974,76,2,4980,83',0,0,Triston Hodge (North Carolina FC) Substitution at 83',Triston Hodge Substitution,9725,0.0,0.0,0.0,0.0,0.0,0.0,2,217000,2025-04-26 04:57:01
+13102,726686,13,45138988,93,2,5160,86',0,0,Michael Maldonado (North Carolina FC) Red Card at 86',Michael Maldonado Red Card,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,317488,2025-04-26 04:57:01
+13102,726686,14,45139002,76,2,5340,89',0,0,Nathan Gray (Charlotte Independence) Substitution at 89',Nathan Gray Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,363004,2025-04-26 04:57:01
+13102,726686,15,45139014,76,2,5340,89',0,0,Souaibou Marou (Charlotte Independence) Substitution at 89',Souaibou Marou Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,315640,2025-04-26 04:57:01
+13102,726686,14,45139002,76,2,5340,89',0,0,Nathan Gray (Charlotte Independence) Substitution at 89',Nathan Gray Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,2,360318,2025-04-26 04:57:01
+13102,726686,15,45139014,76,2,5340,89',0,0,Souaibou Marou (Charlotte Independence) Substitution at 89',Souaibou Marou Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,2,304323,2025-04-26 04:57:01
+13102,726686,16,45139030,94,2,5400,90'+4',0,0,Matt Levy (Charlotte Independence) Yellow Card at 94',Matt Levy Yellow Card,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,280287,2025-04-26 04:57:01
+13102,726686,17,45139034,94,2,5400,90'+5',0,0,Christian Chaney (Charlotte Independence) Yellow Card at 95',Christian Chaney Yellow Card,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,254015,2025-04-26 04:57:01
+13102,726687,1,45151461,94,1,840,14',0,0,Bryan Romero (El Paso Locomotive FC) Yellow Card at 14',Bryan Romero Yellow Card,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,325392,2025-04-27 04:58:48
+13102,726687,2,45152526,76,2,2700,45',0,0,Wilmer Cabrera (El Paso Locomotive FC) Substitution at 45',Wilmer Cabrera Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,82287,2025-04-27 04:58:48
+13102,726687,3,45152844,76,2,2700,45',0,0,Álvaro Quezada (El Paso Locomotive FC) Substitution at 45',Álvaro Quezada Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,318369,2025-04-27 04:58:48
+13102,726687,3,45152844,76,2,2700,45',0,0,Álvaro Quezada (El Paso Locomotive FC) Substitution at 45',Álvaro Quezada Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,325392,2025-04-27 04:58:48
+13102,726687,2,45152526,76,2,2700,45',0,0,Wilmer Cabrera (El Paso Locomotive FC) Substitution at 45',Wilmer Cabrera Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,112829,2025-04-27 04:58:48
+13102,726687,4,45152639,76,2,3420,57',0,0,Roberto Avila (El Paso Locomotive FC) Substitution at 57',Roberto Avila Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,287792,2025-04-27 04:58:48
+13102,726687,5,45152675,76,2,3420,57',0,0,Brayan Padilla (Texoma FC) Substitution at 57',Brayan Padilla Substitution,22527,0.0,0.0,0.0,0.0,0.0,0.0,1,281405,2025-04-27 04:58:48
+13102,726687,6,45152676,76,2,3420,57',0,0,Preston Kilwien (Texoma FC) Substitution at 57',Preston Kilwien Substitution,22527,0.0,0.0,0.0,0.0,0.0,0.0,1,261716,2025-04-27 04:58:48
+13102,726687,4,45152639,76,2,3420,57',0,0,Roberto Avila (El Paso Locomotive FC) Substitution at 57',Roberto Avila Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,287971,2025-04-27 04:58:48
+13102,726687,5,45152675,76,2,3420,57',0,0,Brayan Padilla (Texoma FC) Substitution at 57',Brayan Padilla Substitution,22527,0.0,0.0,0.0,0.0,0.0,0.0,2,288267,2025-04-27 04:58:48
+13102,726687,6,45152676,76,2,3420,57',0,0,Preston Kilwien (Texoma FC) Substitution at 57',Preston Kilwien Substitution,22527,0.0,0.0,0.0,0.0,0.0,0.0,2,361240,2025-04-27 04:58:48
+13102,726687,7,45152640,76,2,3480,58',0,0,Amando Moreno (El Paso Locomotive FC) Substitution at 58',Amando Moreno Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,183750,2025-04-27 04:58:48
+13102,726687,7,45152640,76,2,3480,58',0,0,Amando Moreno (El Paso Locomotive FC) Substitution at 58',Amando Moreno Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,126244,2025-04-27 04:58:48
+13102,726687,8,45152771,76,2,3960,66',0,0,Philip Spengler (Texoma FC) Substitution at 66',Philip Spengler Substitution,22527,0.0,0.0,0.0,0.0,0.0,0.0,1,381488,2025-04-27 04:58:48
+13102,726687,9,45152772,76,2,3960,66',0,0,Lamin Jawneh (Texoma FC) Substitution at 66',Lamin Jawneh Substitution,22527,0.0,0.0,0.0,0.0,0.0,0.0,1,302982,2025-04-27 04:58:48
+13102,726687,10,45153417,94,2,3960,66',0,0,William Perkins (Texoma FC) Yellow Card at 66',William Perkins Yellow Card,22527,0.0,0.0,0.0,0.0,0.0,0.0,1,381574,2025-04-27 04:58:48
+13102,726687,9,45152772,76,2,3960,66',0,0,Lamin Jawneh (Texoma FC) Substitution at 66',Lamin Jawneh Substitution,22527,0.0,0.0,0.0,0.0,0.0,0.0,2,403117,2025-04-27 04:58:48
+13102,726687,8,45152771,76,2,3960,66',0,0,Philip Spengler (Texoma FC) Substitution at 66',Philip Spengler Substitution,22527,0.0,0.0,0.0,0.0,0.0,0.0,2,403118,2025-04-27 04:58:48
+13102,726687,11,45152962,94,2,5100,85',0,0,Lamin Jawneh (Texoma FC) Yellow Card at 85',Lamin Jawneh Yellow Card,22527,0.0,0.0,0.0,0.0,0.0,0.0,1,302982,2025-04-27 04:58:48
+13102,726687,12,45152952,94,2,5220,87',0,0,Kofi Twumasi (El Paso Locomotive FC) Yellow Card at 87',Kofi Twumasi Yellow Card,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,267350,2025-04-27 04:58:48
+13102,726687,13,45152980,76,2,5400,90',0,0,Mario Rodriguez (El Paso Locomotive FC) Substitution at 90',Mario Rodriguez Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,383870,2025-04-27 04:58:48
+13102,726687,13,45152980,76,2,5400,90',0,0,Mario Rodriguez (El Paso Locomotive FC) Substitution at 90',Mario Rodriguez Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,300443,2025-04-27 04:58:48
+13102,726687,13,45152980,76,2,5400,90',0,0,Mario Rodriguez (El Paso Locomotive FC) Substitution at 90',Mario Rodriguez Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,222209,2025-04-27 04:58:48
+13102,726687,14,45153001,94,2,5400,90'+2',0,0,Tony Alfaro (El Paso Locomotive FC) Yellow Card at 92',Tony Alfaro Yellow Card,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,234879,2025-04-27 04:58:48
+13102,726687,13,45152980,76,2,5400,90',0,0,Mario Rodriguez (El Paso Locomotive FC) Substitution at 90',Mario Rodriguez Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,362151,2025-04-27 04:58:48
+13102,726688,1,45148359,94,1,1740,29',0,0,Shandon Wright (Portland Hearts of Pine) Yellow Card at 29',Shandon Wright Yellow Card,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,361236,2025-04-27 04:58:48
+13102,726688,2,45148587,70,1,2460,41',1,0,Jack Panayotou (Hartford Athletic) Goal at 41',Jack Panayotou Goal,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,326775,2025-04-27 04:58:48
+13102,726688,3,45148697,94,1,2700,45'+1',0,0,Jack Panayotou (Hartford Athletic) Yellow Card at 46',Jack Panayotou Yellow Card,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,326775,2025-04-27 04:58:48
+13102,726688,4,45148868,76,2,2700,45',0,0,Thomas Presthus (Hartford Athletic) Substitution at 45',Thomas Presthus Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,229432,2025-04-27 04:58:48
+13102,726688,5,45148891,76,2,2700,45',0,0,Colby Quinones (Portland Hearts of Pine) Substitution at 45',Colby Quinones Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,313284,2025-04-27 04:58:48
+13102,726688,4,45148868,76,2,2700,45',0,0,Thomas Presthus (Hartford Athletic) Substitution at 45',Thomas Presthus Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,2,220237,2025-04-27 04:58:48
+13102,726688,5,45148891,76,2,2700,45',0,0,Colby Quinones (Portland Hearts of Pine) Substitution at 45',Colby Quinones Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,2,361236,2025-04-27 04:58:48
+13102,726688,6,45148937,94,2,2820,47',0,0,Patrick Langlois (Portland Hearts of Pine) Yellow Card at 47',Patrick Langlois Yellow Card,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,276698,2025-04-27 04:58:48
+13102,726688,7,45149138,76,2,3660,61',0,0,Michel Poon-Angeron (Portland Hearts of Pine) Substitution at 61',Michel Poon-Angeron Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,313295,2025-04-27 04:58:48
+13102,726688,8,45149153,76,2,3660,61',0,0,Azaad Liadi (Portland Hearts of Pine) Substitution at 61',Azaad Liadi Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,316332,2025-04-27 04:58:48
+13102,726688,8,45149153,76,2,3660,61',0,0,Azaad Liadi (Portland Hearts of Pine) Substitution at 61',Azaad Liadi Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,2,337618,2025-04-27 04:58:48
+13102,726688,7,45149138,76,2,3660,61',0,0,Michel Poon-Angeron (Portland Hearts of Pine) Substitution at 61',Michel Poon-Angeron Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,2,183747,2025-04-27 04:58:48
+13102,726688,9,45149179,76,2,3780,63',0,0,Michee Ngalina (Hartford Athletic) Substitution at 63',Michee Ngalina Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,272853,2025-04-27 04:58:48
+13102,726688,9,45149179,76,2,3780,63',0,0,Michee Ngalina (Hartford Athletic) Substitution at 63',Michee Ngalina Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,2,401316,2025-04-27 04:58:48
+13102,726688,10,45149201,70,2,3840,64',1,0,Jack Panayotou (Hartford Athletic) Goal at 64',Jack Panayotou Goal,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,326775,2025-04-27 04:58:48
+13102,726688,11,45149239,94,2,4080,68',0,0,Joseph Farrell (Hartford Athletic) Yellow Card at 68',Joseph Farrell Yellow Card,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,236863,2025-04-27 04:58:48
+13102,726688,12,45149293,93,2,4320,72',0,0,Jack Panayotou (Hartford Athletic) Red Card at 72',Jack Panayotou Red Card,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,326775,2025-04-27 04:58:48
+13102,726688,13,45149303,94,2,4440,74',0,0,Samuel Careaga (Hartford Athletic) Yellow Card at 74',Samuel Careaga Yellow Card,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,335672,2025-04-27 04:58:48
+13102,726688,14,45149322,76,2,4500,75',0,0,Junior Moreira (Hartford Athletic) Substitution at 75',Junior Moreira Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,401317,2025-04-27 04:58:48
+13102,726688,14,45149322,76,2,4500,75',0,0,Junior Moreira (Hartford Athletic) Substitution at 75',Junior Moreira Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,2,335672,2025-04-27 04:58:48
+13102,726688,15,45149370,76,2,4800,80',0,0,Nathaniel James (Portland Hearts of Pine) Substitution at 80',Nathaniel James Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,334122,2025-04-27 04:58:48
+13102,726688,15,45149370,76,2,4800,80',0,0,Nathaniel James (Portland Hearts of Pine) Substitution at 80',Nathaniel James Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,2,238078,2025-04-27 04:58:48
+13102,726688,16,45149441,94,2,5040,84',0,0,Gerold Ngnepi (Hartford Athletic) Yellow Card at 84',Gerold Ngnepi Yellow Card,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,318487,2025-04-27 04:58:48
+13102,726688,17,45149504,76,2,5340,89',0,0,Michael Reilly (Portland Hearts of Pine) Substitution at 89',Michael Reilly Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,194534,2025-04-27 04:58:48
+13102,726688,17,45149504,76,2,5340,89',0,0,Michael Reilly (Portland Hearts of Pine) Substitution at 89',Michael Reilly Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,2,318758,2025-04-27 04:58:48
+13102,726688,18,45149564,76,2,5400,90'+3',0,0,Kyle Edwards (Hartford Athletic) Substitution at 93',Kyle Edwards Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,217985,2025-04-27 04:58:48
+13102,726688,18,45149564,76,2,5400,90'+3',0,0,Kyle Edwards (Hartford Athletic) Substitution at 93',Kyle Edwards Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,2,381418,2025-04-27 04:58:48
+13102,726689,1,45150530,70,1,1080,18',1,0,Karsen Henderlong (FC Naples) Goal at 18',Karsen Henderlong Goal,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,295522,2025-04-27 04:58:48
+13102,726689,2,45150845,94,1,2280,38',0,0,Karsen Henderlong (FC Naples) Yellow Card at 38',Karsen Henderlong Yellow Card,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,295522,2025-04-27 04:58:48
+13102,726689,3,45151270,76,2,2700,45',0,0,Houssou Landry (Charleston Battery) Substitution at 45',Houssou Landry Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,319259,2025-04-27 04:58:48
+13102,726689,4,45151293,76,2,2700,45',0,0,Johnny Klein (Charleston Battery) Substitution at 45',Johnny Klein Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,271826,2025-04-27 04:58:48
+13102,726689,3,45151270,76,2,2700,45',0,0,Houssou Landry (Charleston Battery) Substitution at 45',Houssou Landry Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,2,315182,2025-04-27 04:58:48
+13102,726689,4,45151293,76,2,2700,45',0,0,Johnny Klein (Charleston Battery) Substitution at 45',Johnny Klein Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,2,263547,2025-04-27 04:58:48
+13102,726689,5,45151706,76,2,4320,72',0,0,Rubio Rubín (Charleston Battery) Substitution at 72',Rubio Rubín Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,205657,2025-04-27 04:58:48
+13102,726689,6,45151722,76,2,4320,72',0,0,Douglas Martínez (Charleston Battery) Substitution at 72',Douglas Martínez Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,189977,2025-04-27 04:58:48
+13102,726689,6,45151722,76,2,4320,72',0,0,Douglas Martínez (Charleston Battery) Substitution at 72',Douglas Martínez Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,2,280917,2025-04-27 04:58:48
+13102,726689,5,45151706,76,2,4320,72',0,0,Rubio Rubín (Charleston Battery) Substitution at 72',Rubio Rubín Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,2,380211,2025-04-27 04:58:48
+13102,726689,7,45151760,76,2,4560,76',0,0,Marc Torrellas (FC Naples) Substitution at 76',Marc Torrellas Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,337178,2025-04-27 04:58:48
+13102,726689,8,45151761,76,2,4560,76',0,0,Mark Segbres (Charleston Battery) Substitution at 76',Mark Segbres Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,256421,2025-04-27 04:58:48
+13102,726689,8,45151761,76,2,4560,76',0,0,Mark Segbres (Charleston Battery) Substitution at 76',Mark Segbres Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,2,113439,2025-04-27 04:58:48
+13102,726689,7,45151760,76,2,4560,76',0,0,Marc Torrellas (FC Naples) Substitution at 76',Marc Torrellas Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,2,221410,2025-04-27 04:58:48
+13102,726689,10,45151902,76,2,4860,81',0,0,Ian Garrett (FC Naples) Substitution at 81',Ian Garrett Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,338083,2025-04-27 04:58:48
+13102,726689,9,45151860,76,2,4860,81',0,0,Roscoe Rubinstein (FC Naples) Substitution at 81',Roscoe Rubinstein Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,401225,2025-04-27 04:58:48
+13102,726689,9,45151860,76,2,4860,81',0,0,Roscoe Rubinstein (FC Naples) Substitution at 81',Roscoe Rubinstein Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,2,279774,2025-04-27 04:58:48
+13102,726689,10,45151902,76,2,4860,81',0,0,Ian Garrett (FC Naples) Substitution at 81',Ian Garrett Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,2,310211,2025-04-27 04:58:48
+13102,726689,11,45152004,76,2,5220,87',0,0,Gustavo Fernandes (FC Naples) Substitution at 87',Gustavo Fernandes Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,303716,2025-04-27 04:58:48
+13102,726689,11,45152004,76,2,5220,87',0,0,Gustavo Fernandes (FC Naples) Substitution at 87',Gustavo Fernandes Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,2,280823,2025-04-27 04:58:48
+13102,726689,12,45152023,76,2,5280,88',0,0,Rodolfo Sulia (FC Naples) Substitution at 88',Rodolfo Sulia Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,294393,2025-04-27 04:58:48
+13102,726689,12,45152023,76,2,5280,88',0,0,Rodolfo Sulia (FC Naples) Substitution at 88',Rodolfo Sulia Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,2,256396,2025-04-27 04:58:48
+13102,726689,13,45152085,94,2,5400,90',0,0,Jake Dengler (FC Naples) Yellow Card at 90',Jake Dengler Yellow Card,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,288057,2025-04-27 04:58:48
+13102,726689,14,45152212,94,2,5400,90'+5',0,0,Rubio Rubín (Charleston Battery) Yellow Card at 95',Rubio Rubín Yellow Card,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,205657,2025-04-27 04:58:48
+13102,726690,1,45153455,70,1,2700,45'+1',1,0,Juan Sebastian Herrera (Sacramento Republic FC) Goal at 46',Juan Sebastian Herrera Goal,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,135017,2025-04-27 04:58:48
+13102,726690,2,45153553,76,2,2700,45',0,0,Ryan Spaulding (Sacramento Republic FC) Substitution at 45',Ryan Spaulding Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,246392,2025-04-27 04:58:48
+13102,726690,2,45153553,76,2,2700,45',0,0,Ryan Spaulding (Sacramento Republic FC) Substitution at 45',Ryan Spaulding Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,220685,2025-04-27 04:58:48
+13102,726690,4,45153630,94,2,3540,59',0,0,Cristian Parano (Sacramento Republic FC) Yellow Card at 59',Cristian Parano Yellow Card,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,272615,2025-04-27 04:58:48
+13102,726690,3,45153621,94,2,3540,59',0,0,Osvaldo Lay (AV Alta FC) Yellow Card at 59',Osvaldo Lay Yellow Card,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,400673,2025-04-27 04:58:48
+13102,726690,6,45153653,76,2,3840,64',0,0,Alassane Maboumou (AV Alta FC) Substitution at 64',Alassane Maboumou Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,400958,2025-04-27 04:58:48
+13102,726690,7,45153654,76,2,3840,64',0,0,Luis Felipe Fernandes (Sacramento Republic FC) Substitution at 64',Luis Felipe Fernandes Substituti,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,108222,2025-04-27 04:58:48
+13102,726690,5,45153642,76,2,3840,64',0,0,Adam Aoumaich (AV Alta FC) Substitution at 64',Adam Aoumaich Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,350483,2025-04-27 04:58:48
+13102,726690,6,45153653,76,2,3840,64',0,0,Alassane Maboumou (AV Alta FC) Substitution at 64',Alassane Maboumou Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,336552,2025-04-27 04:58:48
+13102,726690,5,45153642,76,2,3840,64',0,0,Adam Aoumaich (AV Alta FC) Substitution at 64',Adam Aoumaich Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,400673,2025-04-27 04:58:48
+13102,726690,7,45153654,76,2,3840,64',0,0,Luis Felipe Fernandes (Sacramento Republic FC) Substitution at 64',Luis Felipe Fernandes Substituti,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,344568,2025-04-27 04:58:48
+13102,726690,7,45153654,76,2,3840,64',0,0,Luis Felipe Fernandes (Sacramento Republic FC) Substitution at 64',Luis Felipe Fernandes Substituti,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,124544,2025-04-27 04:58:48
+13102,726690,7,45153654,76,2,3840,64',0,0,Luis Felipe Fernandes (Sacramento Republic FC) Substitution at 64',Luis Felipe Fernandes Substituti,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,103806,2025-04-27 04:58:48
+13102,726690,8,45153680,76,2,4260,71',0,0,Trevor Amann (Sacramento Republic FC) Substitution at 71',Trevor Amann Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,273568,2025-04-27 04:58:48
+13102,726690,8,45153680,76,2,4260,71',0,0,Trevor Amann (Sacramento Republic FC) Substitution at 71',Trevor Amann Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,135017,2025-04-27 04:58:48
+13102,726690,9,45153685,94,2,4500,75',0,0,Michelle Benítez (Sacramento Republic FC) Yellow Card at 75',Michelle Benítez Yellow Card,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,241490,2025-04-27 04:58:48
+13102,726690,11,45153700,76,2,4800,80',0,0,Javier Mariona (AV Alta FC) Substitution at 80',Javier Mariona Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,324280,2025-04-27 04:58:48
+13102,726690,10,45153692,94,2,4800,80',0,0,Adam Aoumaich (AV Alta FC) Yellow Card at 80',Adam Aoumaich Yellow Card,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,350483,2025-05-02 04:53:41
+13102,726690,11,45153700,76,2,4800,80',0,0,Javier Mariona (AV Alta FC) Substitution at 80',Javier Mariona Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,400669,2025-04-27 04:58:48
+13102,726690,12,45153698,76,2,5040,84',0,0,Lewis Jamieson (Sacramento Republic FC) Substitution at 84',Lewis Jamieson Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,291516,2025-04-27 04:58:48
+13102,726690,13,45153699,76,2,5040,84',0,0,Aaron Edwards (Sacramento Republic FC) Substitution at 84',Aaron Edwards Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,400721,2025-04-27 04:58:48
+13102,726690,13,45153699,76,2,5040,84',0,0,Aaron Edwards (Sacramento Republic FC) Substitution at 84',Aaron Edwards Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,331100,2025-04-27 04:58:48
+13102,726690,13,45153699,76,2,5040,84',0,0,Aaron Edwards (Sacramento Republic FC) Substitution at 84',Aaron Edwards Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,256391,2025-04-27 04:58:48
+13102,726690,12,45153698,76,2,5040,84',0,0,Lewis Jamieson (Sacramento Republic FC) Substitution at 84',Lewis Jamieson Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,231179,2025-04-27 04:58:48
+13102,726691,1,45147967,94,1,600,10',0,0,Ryan Williams (Detroit City FC) Yellow Card at 10',Ryan Williams Yellow Card,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,290275,2025-04-27 04:58:48
+13102,726691,1,45147967,94,1,600,10',0,0,Ryan Williams (Detroit City FC) Yellow Card at 10',Ryan Williams Yellow Card,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,256293,2025-04-27 04:58:48
+13102,726691,1,45147967,94,1,600,10',0,0,Ryan Williams (Detroit City FC) Yellow Card at 10',Ryan Williams Yellow Card,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,255246,2025-04-27 04:58:48
+13102,726691,1,45147967,94,1,600,10',0,0,Ryan Williams (Detroit City FC) Yellow Card at 10',Ryan Williams Yellow Card,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,223443,2025-04-27 04:58:48
+13102,726691,1,45147967,94,1,600,10',0,0,Ryan Williams (Detroit City FC) Yellow Card at 10',Ryan Williams Yellow Card,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,183947,2025-04-27 04:58:48
+13102,726691,2,45148295,94,1,1500,25',0,0,Aidan O'Toole (Pittsburgh Riverhounds) Yellow Card at 25',Aidan O'Toole Yellow Card,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,295341,2025-04-27 04:58:48
+13102,726691,3,45148414,94,1,1980,33',0,0,Sean Suber (Pittsburgh Riverhounds) Yellow Card at 33',Sean Suber Yellow Card,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,299521,2025-04-27 04:58:48
+13102,726691,4,45149213,76,2,3900,65',0,0,Ben Morris (Detroit City FC) Substitution at 65',Ben Morris Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,123674,2025-04-27 04:58:48
+13102,726691,4,45149213,76,2,3900,65',0,0,Ben Morris (Detroit City FC) Substitution at 65',Ben Morris Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,337001,2025-04-27 04:58:48
+13102,726691,6,45149269,76,2,4260,71',0,0,Bertin Jacquesson (Pittsburgh Riverhounds) Substitution at 71',Bertin Jacquesson Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,308961,2025-04-27 04:58:48
+13102,726691,5,45149268,76,2,4260,71',0,0,Max Broughton (Pittsburgh Riverhounds) Substitution at 71',Max Broughton Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,374326,2025-04-27 04:58:48
+13102,726691,5,45149268,76,2,4260,71',0,0,Max Broughton (Pittsburgh Riverhounds) Substitution at 71',Max Broughton Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,2,296261,2025-04-27 04:58:48
+13102,726691,6,45149269,76,2,4260,71',0,0,Bertin Jacquesson (Pittsburgh Riverhounds) Substitution at 71',Bertin Jacquesson Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,2,295341,2025-04-27 04:58:48
+13102,726691,7,45149280,76,2,4380,73',0,0,Haruki Yamazaki (Detroit City FC) Substitution at 73',Haruki Yamazaki Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,384224,2025-04-27 04:58:48
+13102,726691,7,45149280,76,2,4380,73',0,0,Haruki Yamazaki (Detroit City FC) Substitution at 73',Haruki Yamazaki Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,357120,2025-04-27 04:58:48
+13102,726691,7,45149280,76,2,4380,73',0,0,Haruki Yamazaki (Detroit City FC) Substitution at 73',Haruki Yamazaki Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,340762,2025-04-27 04:58:48
+13102,726691,7,45149280,76,2,4380,73',0,0,Haruki Yamazaki (Detroit City FC) Substitution at 73',Haruki Yamazaki Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,331643,2025-04-27 04:58:48
+13102,726691,7,45149280,76,2,4380,73',0,0,Haruki Yamazaki (Detroit City FC) Substitution at 73',Haruki Yamazaki Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,104223,2025-04-27 04:58:48
+13102,726691,8,45149407,76,2,4980,83',0,0,Guillaume Vacter (Pittsburgh Riverhounds) Substitution at 83',Guillaume Vacter Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,403199,2025-04-27 04:58:48
+13102,726691,9,45149424,76,2,4980,83',0,0,Jorge Garcia (Pittsburgh Riverhounds) Substitution at 83',Jorge Garcia Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,162654,2025-04-27 04:58:48
+13102,726691,9,45149424,76,2,4980,83',0,0,Jorge Garcia (Pittsburgh Riverhounds) Substitution at 83',Jorge Garcia Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,89102,2025-04-27 04:58:48
+13102,726691,8,45149407,76,2,4980,83',0,0,Guillaume Vacter (Pittsburgh Riverhounds) Substitution at 83',Guillaume Vacter Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,2,328158,2025-04-27 04:58:48
+13102,726691,9,45149424,76,2,4980,83',0,0,Jorge Garcia (Pittsburgh Riverhounds) Substitution at 83',Jorge Garcia Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,2,293773,2025-04-27 04:58:48
+13102,726691,12,45149574,76,2,5400,90'+3',0,0,Dominic Gasso (Detroit City FC) Substitution at 93',Dominic Gasso Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,345125,2025-04-27 04:58:48
+13102,726691,11,45149555,70,2,5400,90'+1',1,0,Darren Smith (Detroit City FC) Goal at 91',Darren Smith Goal,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,269073,2025-04-27 04:58:48
+13102,726691,11,45149555,70,2,5400,90'+1',1,0,Darren Smith (Detroit City FC) Goal at 91',Darren Smith Goal,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,228981,2025-04-27 04:58:48
+13102,726691,11,45149555,70,2,5400,90'+1',1,0,Darren Smith (Detroit City FC) Goal at 91',Darren Smith Goal,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,223405,2025-04-27 04:58:48
+13102,726691,11,45149555,70,2,5400,90'+1',1,0,Darren Smith (Detroit City FC) Goal at 91',Darren Smith Goal,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,223322,2025-04-27 04:58:48
+13102,726691,10,45149528,94,2,5400,90',0,0,Jackson Walti (Pittsburgh Riverhounds) Yellow Card at 90',Jackson Walti Yellow Card,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,293817,2025-04-27 04:58:48
+13102,726691,12,45149574,76,2,5400,90'+3',0,0,Dominic Gasso (Detroit City FC) Substitution at 93',Dominic Gasso Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,159398,2025-04-27 04:58:48
+13102,726692,1,45150825,70,1,480,8',1,0,Woobens Pacius (Tampa Bay Rowdies) Goal at 8',Woobens Pacius Goal,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,324768,2025-04-27 04:58:48
+13102,726692,2,45151162,70,1,1680,28',1,0,Robert Castellanos (Tampa Bay Rowdies) Goal at 28',Robert Castellanos Goal,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,253176,2025-04-27 04:58:48
+13102,726692,3,45151225,70,1,1920,32',1,0,Manuel Arteaga (Tampa Bay Rowdies) Goal at 32',Manuel Arteaga Goal,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,178264,2025-04-27 04:58:48
+13102,726692,4,45151499,76,1,2700,45'+2',0,0,Nathan Worth (Tampa Bay Rowdies) Substitution at 47',Nathan Worth Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,343042,2025-04-27 04:58:48
+13102,726692,6,45151780,76,2,2700,45',0,0,Michael Lawrence (Miami FC) Substitution at 45',Michael Lawrence Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,362159,2025-04-27 04:58:48
+13102,726692,5,45151778,76,2,2700,45',0,0,Francesco Celeste (Miami FC) Substitution at 45',Francesco Celeste Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,196760,2025-04-27 04:58:48
+13102,726692,4,45151499,76,1,2700,45'+2',0,0,Nathan Worth (Tampa Bay Rowdies) Substitution at 47',Nathan Worth Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,2,259580,2025-04-27 04:58:48
+13102,726692,5,45151778,76,2,2700,45',0,0,Francesco Celeste (Miami FC) Substitution at 45',Francesco Celeste Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,2,309427,2025-04-27 04:58:48
+13102,726692,6,45151780,76,2,2700,45',0,0,Michael Lawrence (Miami FC) Substitution at 45',Michael Lawrence Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,2,336216,2025-04-27 04:58:48
+13102,726692,7,45152083,94,2,3360,56',0,0,Aaron Guillen (Tampa Bay Rowdies) Yellow Card at 56',Aaron Guillen Yellow Card,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,233038,2025-04-27 04:58:48
+13102,726692,8,45152041,98,2,3420,57',1,0,Sebastián Blanco (Miami FC) Penalty - Scored at 57',Sebastián Blanco Penalty - Score,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,76914,2025-04-27 04:58:48
+13102,726692,9,45152126,94,2,3540,59',0,0,Forrest Lasso (Tampa Bay Rowdies) Yellow Card at 59',Forrest Lasso Yellow Card,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,220502,2025-04-27 04:58:48
+13102,726692,10,45152128,70,2,3600,60',1,0,Tobías Zarate (Miami FC) Goal at 60',Tobías Zarate Goal,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,302025,2025-04-27 04:58:48
+13102,726692,11,45152140,76,2,3660,61',0,0,Leo Fernandes (Tampa Bay Rowdies) Substitution at 61',Leo Fernandes Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,301620,2025-04-27 04:58:48
+13102,726692,11,45152140,76,2,3660,61',0,0,Leo Fernandes (Tampa Bay Rowdies) Substitution at 61',Leo Fernandes Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,183797,2025-04-27 04:58:48
+13102,726692,12,45152167,76,2,3660,61',0,0,Endri Mustali (Tampa Bay Rowdies) Substitution at 61',Endri Mustali Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,389362,2025-04-27 04:58:48
+13102,726692,12,45152167,76,2,3660,61',0,0,Endri Mustali (Tampa Bay Rowdies) Substitution at 61',Endri Mustali Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,2,324768,2025-04-27 04:58:48
+13102,726692,11,45152140,76,2,3660,61',0,0,Leo Fernandes (Tampa Bay Rowdies) Substitution at 61',Leo Fernandes Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,2,269577,2025-04-27 04:58:48
+13102,726692,13,45152279,76,2,4080,68',0,0,Lucas Melano (Miami FC) Substitution at 68',Lucas Melano Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,172280,2025-04-27 04:58:48
+13102,726692,13,45152279,76,2,4080,68',0,0,Lucas Melano (Miami FC) Substitution at 68',Lucas Melano Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,2,302025,2025-04-27 04:58:48
+13102,726692,14,45152319,94,2,4140,69',0,0,Lucas Melano (Miami FC) Yellow Card at 69',Lucas Melano Yellow Card,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,172280,2025-04-27 04:58:48
+13102,726692,15,45152406,76,2,4500,75',0,0,Allen Gavilanes (Miami FC) Substitution at 75',Allen Gavilanes Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,288415,2025-04-27 04:58:48
+13102,726692,15,45152406,76,2,4500,75',0,0,Allen Gavilanes (Miami FC) Substitution at 75',Allen Gavilanes Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,2,76914,2025-04-27 04:58:48
+13102,726692,16,45152439,70,2,4620,77',1,0,Lucas Melano (Miami FC) Goal at 77',Lucas Melano Goal,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,172280,2025-04-27 04:58:48
+13102,726692,17,45152548,94,2,4920,82',0,0,Francisco Bonfiglio (Miami FC) Yellow Card at 82',Francisco Bonfiglio Yellow Card,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,379902,2025-04-27 04:58:48
+13102,726692,18,45152590,94,2,5040,84',0,0,Daltyn Knutson (Miami FC) Yellow Card at 84',Daltyn Knutson Yellow Card,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,288188,2025-04-27 04:58:48
+13102,726692,19,45152647,76,2,5220,87',0,0,Kevin Hoyos (Miami FC) Substitution at 87',Kevin Hoyos Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,194159,2025-04-27 04:58:48
+13102,726692,19,45152647,76,2,5220,87',0,0,Kevin Hoyos (Miami FC) Substitution at 87',Kevin Hoyos Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,2,379902,2025-04-27 04:58:48
+13102,726693,1,45150577,94,1,1200,20',0,0,Bruno Rendón (Indy Eleven) Yellow Card at 20',Bruno Rendón Yellow Card,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,339082,2025-04-27 04:58:48
+13102,726693,2,45151344,94,2,3000,50',0,0,James Murphy (Indy Eleven) Yellow Card at 50',James Murphy Yellow Card,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,222806,2025-04-27 04:58:48
+13102,726693,3,45151460,76,2,3360,56',0,0,Elliot Collier (Indy Eleven) Substitution at 56',Elliot Collier Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,256390,2025-04-30 04:56:01
+13102,726693,4,45151482,76,2,3360,56',0,0,Elvis Amoh (Indy Eleven) Substitution at 56',Elvis Amoh Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,290564,2025-04-30 04:56:01
+13102,726693,4,45151482,76,2,3360,56',0,0,Elvis Amoh (Indy Eleven) Substitution at 56',Elvis Amoh Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,2,293807,2025-04-30 04:56:01
+13102,726693,3,45151460,76,2,3360,56',0,0,Elliot Collier (Indy Eleven) Substitution at 56',Elliot Collier Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,2,339082,2025-04-30 04:56:01
+13102,726693,5,45151507,94,2,3540,59',0,0,John Murphy Jr. (Forward Madison FC) Yellow Card at 59',John Murphy Jr. Yellow Card,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,23425,2025-04-27 04:58:48
+13102,726693,6,45151528,94,2,3600,60',0,0,Aodhan Quinn (Indy Eleven) Yellow Card at 60',Aodhan Quinn Yellow Card,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,201508,2025-04-27 04:58:48
+13102,726693,7,45151623,76,2,4020,67',0,0,Aiden Mesias (Forward Madison FC) Substitution at 67',Aiden Mesias Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,302886,2025-04-27 04:58:48
+13102,726693,8,45151645,76,2,4020,67',0,0,Devin Boyce (Forward Madison FC) Substitution at 67',Devin Boyce Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,316342,2025-04-27 04:58:48
+13102,726693,8,45151645,76,2,4020,67',0,0,Devin Boyce (Forward Madison FC) Substitution at 67',Devin Boyce Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,2,243006,2025-04-27 04:58:48
+13102,726693,7,45151623,76,2,4020,67',0,0,Aiden Mesias (Forward Madison FC) Substitution at 67',Aiden Mesias Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,2,276472,2025-04-27 04:58:48
+13102,726693,9,45151646,76,2,4080,68',0,0,Damià Viader (Forward Madison FC) Substitution at 68',Damià Viader Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,316343,2025-04-27 04:58:48
+13102,726693,9,45151646,76,2,4080,68',0,0,Damià Viader (Forward Madison FC) Substitution at 68',Damià Viader Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,2,288047,2025-04-27 04:58:48
+13102,726693,10,45151648,70,2,4140,69',1,0,Aodhan Quinn (Indy Eleven) Goal at 69',Aodhan Quinn Goal,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,201508,2025-04-27 04:58:48
+13102,726693,11,45151694,94,2,4200,70',0,0,Ferrety Sousa (Forward Madison FC) Yellow Card at 70',Ferrety Sousa Yellow Card,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,220460,2025-04-27 04:58:48
+13102,726693,12,45151714,70,2,4320,72',1,0,Jack Blake (Indy Eleven) Goal at 72',Jack Blake Goal,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,181725,2025-04-27 04:58:48
+13102,726693,13,45151748,76,2,4560,76',0,0,Christopher Garcia (Forward Madison FC) Substitution at 76',Christopher Garcia Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,291253,2025-04-27 04:58:48
+13102,726693,13,45151748,76,2,4560,76',0,0,Christopher Garcia (Forward Madison FC) Substitution at 76',Christopher Garcia Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,2,220460,2025-04-27 04:58:48
+13102,726693,14,45151843,76,2,4800,80',0,0,Adrien Graffin (Forward Madison FC) Substitution at 80',Adrien Graffin Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,387062,2025-04-27 04:58:48
+13102,726693,15,45151881,76,2,4800,80',0,0,Josh O'Brien (Indy Eleven) Substitution at 80',Josh O'Brien Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,346266,2025-04-27 04:58:48
+13102,726693,14,45151843,76,2,4800,80',0,0,Adrien Graffin (Forward Madison FC) Substitution at 80',Adrien Graffin Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,2,23425,2025-04-27 04:58:48
+13102,726693,15,45151881,76,2,4800,80',0,0,Josh O'Brien (Indy Eleven) Substitution at 80',Josh O'Brien Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,2,191420,2025-04-27 04:58:48
+13102,726693,16,45151919,70,2,5040,84',1,0,Elvis Amoh (Indy Eleven) Goal at 84',Elvis Amoh Goal,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,290564,2025-04-27 04:58:48
+13102,726693,19,45152169,76,2,5400,90'+3',0,0,Cam Lindley (Indy Eleven) Substitution at 93',Cam Lindley Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,246322,2025-04-27 04:58:48
+13102,726693,18,45152168,94,2,5400,90'+3',0,0,James Musa (Indy Eleven) Yellow Card at 93',James Musa Yellow Card,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,150681,2025-04-27 04:58:48
+13102,726693,17,45152142,70,2,5400,90'+3',1,0,Elvis Amoh (Indy Eleven) Goal at 93',Elvis Amoh Goal,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,290564,2025-04-27 04:58:48
+13102,726693,19,45152169,76,2,5400,90'+3',0,0,Cam Lindley (Indy Eleven) Substitution at 93',Cam Lindley Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,2,227600,2025-04-27 04:58:48
+13102,726694,1,45149944,94,1,1320,22',0,0,Michael Adedokun (Lexington) Yellow Card at 22',Michael Adedokun Yellow Card,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,398656,2025-04-27 04:58:48
+13102,726694,2,45150534,76,2,3720,62',0,0,Ben Mines (Loudoun United FC) Substitution at 62',Ben Mines Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,252814,2025-04-27 04:58:48
+13102,726694,3,45150554,76,2,3720,62',0,0,Zachary Ryan (Loudoun United FC) Substitution at 62',Zachary Ryan Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,252817,2025-04-27 04:58:48
+13102,726694,2,45150534,76,2,3720,62',0,0,Ben Mines (Loudoun United FC) Substitution at 62',Ben Mines Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,288982,2025-04-27 04:58:48
+13102,726694,3,45150554,76,2,3720,62',0,0,Zachary Ryan (Loudoun United FC) Substitution at 62',Zachary Ryan Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,339118,2025-04-27 04:58:48
+13102,726694,4,45150604,94,2,3900,65',0,0,Thomas McCabe (Loudoun United FC) Yellow Card at 65',Thomas McCabe Yellow Card,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,225614,2025-04-27 04:58:48
+13102,726694,5,45150707,94,2,4380,73',0,0,Joe Hafferty (Lexington) Yellow Card at 73',Joe Hafferty Yellow Card,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,254438,2025-04-27 04:58:48
+13102,726694,6,45150842,76,2,4800,80',0,0,Aaron Hurge (Loudoun United FC) Substitution at 80',Aaron Hurge Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,400622,2025-04-27 04:58:48
+13102,726694,6,45150842,76,2,4800,80',0,0,Aaron Hurge (Loudoun United FC) Substitution at 80',Aaron Hurge Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,360088,2025-04-27 04:58:48
+13102,726694,8,45150844,76,2,4860,81',0,0,Cameron Lancaster (Lexington) Substitution at 81',Cameron Lancaster Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,157164,2025-04-27 04:58:48
+13102,726694,7,45150843,76,2,4860,81',0,0,Kieran Sargeant (Lexington) Substitution at 81',Kieran Sargeant Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,380677,2025-04-27 04:58:48
+13102,726694,8,45150844,76,2,4860,81',0,0,Cameron Lancaster (Lexington) Substitution at 81',Cameron Lancaster Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,2,280669,2025-04-27 04:58:48
+13102,726694,7,45150843,76,2,4860,81',0,0,Kieran Sargeant (Lexington) Substitution at 81',Kieran Sargeant Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,2,242993,2025-04-27 04:58:48
+13102,726694,9,45150933,76,2,5100,85',0,0,Jacob Greene (Lexington) Substitution at 85',Jacob Greene Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,289449,2025-04-27 04:58:48
+13102,726694,9,45150933,76,2,5100,85',0,0,Jacob Greene (Lexington) Substitution at 85',Jacob Greene Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,2,284636,2025-04-27 04:58:48
+13102,726694,10,45151039,76,2,5400,90'+1',0,0,Joshua Erlandson (Loudoun United FC) Substitution at 91',Joshua Erlandson Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,402869,2025-04-27 04:58:48
+13102,726694,12,45151111,70,2,5400,90'+6',1,0,Joshua Erlandson (Loudoun United FC) Goal at 96',Joshua Erlandson Goal,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,402869,2025-04-27 04:58:48
+13102,726694,11,45151071,76,2,5400,90'+4',0,0,Edrey Caceres (Lexington) Substitution at 94',Edrey Caceres Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,288122,2025-04-27 04:58:48
+13102,726694,11,45151071,76,2,5400,90'+4',0,0,Edrey Caceres (Lexington) Substitution at 94',Edrey Caceres Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,2,227598,2025-04-27 04:58:48
+13102,726694,10,45151039,76,2,5400,90'+1',0,0,Joshua Erlandson (Loudoun United FC) Substitution at 91',Joshua Erlandson Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,246776,2025-04-27 04:58:48
+13102,726695,1,45151422,94,1,2520,42',0,0,Darwin Espinal (Richmond Kickers) Yellow Card at 42',Darwin Espinal Yellow Card,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,235422,2025-04-27 04:58:48
+13102,726695,2,45151629,94,1,2700,45'+1',0,0,Simon Fitch (Richmond Kickers) Yellow Card at 46',Simon Fitch Yellow Card,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,252989,2025-04-27 04:58:48
+13102,726695,4,45151789,76,2,2700,45',0,0,Emiliano Terzaghi (Richmond Kickers) Substitution at 45',Emiliano Terzaghi Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,159576,2025-04-27 04:58:48
+13102,726695,3,45151526,70,1,2700,45'+3',1,0,Manny Perez (Louisville City FC) Goal at 48',Manny Perez Goal,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,279101,2025-04-27 04:58:48
+13102,726695,4,45151789,76,2,2700,45',0,0,Emiliano Terzaghi (Richmond Kickers) Substitution at 45',Emiliano Terzaghi Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,381429,2025-04-27 04:58:48
+13102,726695,5,45151996,70,2,3300,55',1,0,Ray Serrano Lopez (Louisville City FC) Goal at 55',Ray Serrano Lopez Goal,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,271808,2025-04-27 04:58:48
+13102,726695,6,45152076,70,2,3480,58',1,0,Nils Seufert (Richmond Kickers) Goal at 58',Nils Seufert Goal,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,238514,2025-04-27 04:58:48
+13102,726695,7,45152100,76,2,3540,59',0,0,Adrian Billhardt (Richmond Kickers) Substitution at 59',Adrian Billhardt Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,263546,2025-04-27 04:58:48
+13102,726695,8,45152108,76,2,3540,59',0,0,Maximiliano Schenfeld (Richmond Kickers) Substitution at 59',Maximiliano Schenfeld Substituti,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,273619,2025-04-27 04:58:48
+13102,726695,9,45152137,76,2,3540,59',0,0,Mathew Bolduc (Richmond Kickers) Substitution at 59',Mathew Bolduc Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,236870,2025-04-27 04:58:48
+13102,726695,7,45152100,76,2,3540,59',0,0,Adrian Billhardt (Richmond Kickers) Substitution at 59',Adrian Billhardt Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,235422,2025-04-27 04:58:48
+13102,726695,8,45152108,76,2,3540,59',0,0,Maximiliano Schenfeld (Richmond Kickers) Substitution at 59',Maximiliano Schenfeld Substituti,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,360311,2025-04-27 04:58:48
+13102,726695,9,45152137,76,2,3540,59',0,0,Mathew Bolduc (Richmond Kickers) Substitution at 59',Mathew Bolduc Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,391738,2025-04-27 04:58:48
+13102,726695,10,45152159,70,2,3720,62',1,0,Sam Gleadle (Louisville City FC) Goal at 62',Sam Gleadle Goal,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,271667,2025-04-27 04:58:48
+13102,726695,11,45152195,76,2,3780,63',0,0,Kevon Lambert (Louisville City FC) Substitution at 63',Kevon Lambert Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,252540,2025-04-27 04:58:48
+13102,726695,12,45152196,76,2,3780,63',0,0,Jake Morris (Louisville City FC) Substitution at 63',Jake Morris Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,254299,2025-04-27 04:58:48
+13102,726695,11,45152195,76,2,3780,63',0,0,Kevon Lambert (Louisville City FC) Substitution at 63',Kevon Lambert Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,2,381586,2025-04-27 04:58:48
+13102,726695,12,45152196,76,2,3780,63',0,0,Jake Morris (Louisville City FC) Substitution at 63',Jake Morris Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,2,217145,2025-04-27 04:58:48
+13102,726695,14,45152360,76,2,4320,72',0,0,Adrien Perez (Louisville City FC) Substitution at 72',Adrien Perez Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,274109,2025-04-27 04:58:48
+13102,726695,13,45152359,76,2,4320,72',0,0,Phillip Goodrum (Louisville City FC) Substitution at 72',Phillip Goodrum Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,246409,2025-04-27 04:58:48
+13102,726695,14,45152360,76,2,4320,72',0,0,Adrien Perez (Louisville City FC) Substitution at 72',Adrien Perez Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,2,279101,2025-04-27 04:58:48
+13102,726695,13,45152359,76,2,4320,72',0,0,Phillip Goodrum (Louisville City FC) Substitution at 72',Phillip Goodrum Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,2,271667,2025-04-27 04:58:48
+13102,726695,15,45152408,76,2,4500,75',0,0,James Vaughan (Richmond Kickers) Substitution at 75',James Vaughan Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,51841,2025-04-27 04:58:48
+13102,726695,15,45152408,76,2,4500,75',0,0,James Vaughan (Richmond Kickers) Substitution at 75',James Vaughan Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,288325,2025-04-27 04:58:48
+13102,726695,15,45152408,76,2,4500,75',0,0,James Vaughan (Richmond Kickers) Substitution at 75',James Vaughan Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,296425,2025-04-27 04:58:48
+13102,726695,17,45152410,94,2,4620,77',0,0,James Vaughan (Richmond Kickers) Yellow Card at 77',James Vaughan Yellow Card,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,51841,2025-04-27 04:58:48
+13102,726695,17,45152410,94,2,4620,77',0,0,James Vaughan (Richmond Kickers) Yellow Card at 77',James Vaughan Yellow Card,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,288325,2025-04-27 04:58:48
+13102,726695,16,45152409,94,2,4620,77',0,0,Ray Serrano Lopez (Louisville City FC) Yellow Card at 77',Ray Serrano Lopez Yellow Card,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,271808,2025-04-27 04:58:48
+13102,726695,18,45152648,70,2,5220,87',1,0,Adrien Perez (Louisville City FC) Goal at 87',Adrien Perez Goal,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,274109,2025-04-27 04:58:48
+13102,726695,19,45152677,76,2,5280,88',0,0,Brian Ownby (Louisville City FC) Substitution at 88',Brian Ownby Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,141322,2025-04-27 04:58:48
+13102,726695,19,45152677,76,2,5280,88',0,0,Brian Ownby (Louisville City FC) Substitution at 88',Brian Ownby Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,2,271808,2025-04-27 04:58:48
+13102,726696,1,45152411,94,1,360,6',0,0,Mehdi Ouamri (Union Omaha) Yellow Card at 6',Mehdi Ouamri Yellow Card,20684,0.0,0.0,0.0,0.0,0.0,0.0,1,292447,2025-04-27 04:58:48
+13102,726696,2,45152619,94,1,900,15',0,0,Max Schneider (Union Omaha) Yellow Card at 15',Max Schneider Yellow Card,20684,0.0,0.0,0.0,0.0,0.0,0.0,1,316480,2025-04-27 04:58:48
+13102,726696,3,45152759,94,1,1500,25',0,0,Brent Kallman (Union Omaha) Yellow Card at 25',Brent Kallman Yellow Card,20684,0.0,0.0,0.0,0.0,0.0,0.0,1,235062,2025-04-27 04:58:48
+13102,726696,4,45152861,76,1,2100,35',0,0,Luiz Fernando (New Mexico United) Substitution at 35',Luiz Fernando Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,399418,2025-04-27 04:58:48
+13102,726696,4,45152861,76,1,2100,35',0,0,Luiz Fernando (New Mexico United) Substitution at 35',Luiz Fernando Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,382961,2025-04-27 04:58:48
+13102,726696,4,45152861,76,1,2100,35',0,0,Luiz Fernando (New Mexico United) Substitution at 35',Luiz Fernando Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,357906,2025-04-27 04:58:48
+13102,726696,4,45152861,76,1,2100,35',0,0,Luiz Fernando (New Mexico United) Substitution at 35',Luiz Fernando Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,318150,2025-04-27 04:58:48
+13102,726696,4,45152861,76,1,2100,35',0,0,Luiz Fernando (New Mexico United) Substitution at 35',Luiz Fernando Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,236634,2025-04-27 04:58:48
+13102,726696,4,45152861,76,1,2100,35',0,0,Luiz Fernando (New Mexico United) Substitution at 35',Luiz Fernando Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,218924,2025-04-27 04:58:48
+13102,726696,4,45152861,76,1,2100,35',0,0,Luiz Fernando (New Mexico United) Substitution at 35',Luiz Fernando Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,218337,2025-04-27 04:58:48
+13102,726696,4,45152861,76,1,2100,35',0,0,Luiz Fernando (New Mexico United) Substitution at 35',Luiz Fernando Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,99244,2025-04-27 04:58:48
+13102,726696,4,45152861,76,1,2100,35',0,0,Luiz Fernando (New Mexico United) Substitution at 35',Luiz Fernando Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,308788,2025-04-27 04:58:48
+13102,726696,5,45152921,98,1,2520,42',1,0,Jon-Talen Maples (New Mexico United) Penalty - Scored at 42',Jon-Talen Maples Penalty - Score,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,319390,2025-04-27 04:58:48
+13102,726696,6,45153142,76,2,2700,45',0,0,Sergio Ors (Union Omaha) Substitution at 45',Sergio Ors Substitution,20684,0.0,0.0,0.0,0.0,0.0,0.0,1,329832,2025-04-27 04:58:48
+13102,726696,6,45153142,76,2,2700,45',0,0,Sergio Ors (Union Omaha) Substitution at 45',Sergio Ors Substitution,20684,0.0,0.0,0.0,0.0,0.0,0.0,2,292447,2025-04-27 04:58:48
+13102,726696,7,45153130,94,2,2760,46',0,0,Will Seymore (New Mexico United) Yellow Card at 46',Will Seymore Yellow Card,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,253004,2025-04-27 04:58:48
+13102,726696,8,45153288,76,2,3900,65',0,0,Anthony Herbert (New Mexico United) Substitution at 65',Anthony Herbert Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,299501,2025-04-27 04:58:48
+13102,726696,9,45153299,76,2,3900,65',0,0,Daniel Bruce (New Mexico United) Substitution at 65',Daniel Bruce Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,246376,2025-04-27 04:58:48
+13102,726696,8,45153288,76,2,3900,65',0,0,Anthony Herbert (New Mexico United) Substitution at 65',Anthony Herbert Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,378655,2025-04-27 04:58:48
+13102,726696,9,45153299,76,2,3900,65',0,0,Daniel Bruce (New Mexico United) Substitution at 65',Daniel Bruce Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,225606,2025-04-27 04:58:48
+13102,726696,10,45153339,76,2,4260,71',0,0,Laurence Wootton (Union Omaha) Substitution at 71',Laurence Wootton Substitution,20684,0.0,0.0,0.0,0.0,0.0,0.0,1,382773,2025-04-27 04:58:48
+13102,726696,10,45153339,76,2,4260,71',0,0,Laurence Wootton (Union Omaha) Substitution at 71',Laurence Wootton Substitution,20684,0.0,0.0,0.0,0.0,0.0,0.0,2,273717,2025-04-27 04:58:48
+13102,726696,11,45153369,94,2,4440,74',0,0,Josué Gómez (Union Omaha) Yellow Card at 74',Josué Gómez Yellow Card,20684,0.0,0.0,0.0,0.0,0.0,0.0,1,240151,2025-05-03 04:54:22
+13102,726696,12,45153413,76,2,4860,81',0,0,Kemy Amiche (Union Omaha) Substitution at 81',Kemy Amiche Substitution,20684,0.0,0.0,0.0,0.0,0.0,0.0,1,350527,2025-05-03 04:54:22
+13102,726696,12,45153413,76,2,4860,81',0,0,Kemy Amiche (Union Omaha) Substitution at 81',Kemy Amiche Substitution,20684,0.0,0.0,0.0,0.0,0.0,0.0,2,128060,2025-05-03 04:54:22
+13102,726696,13,45153442,94,2,5160,86',0,0,Mukwelle Akale (New Mexico United) Yellow Card at 86',Mukwelle Akale Yellow Card,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,340591,2025-04-27 04:58:48
+13102,726696,15,45153476,70,2,5400,90'+3',1,0,Marlon Vargas (New Mexico United) Goal at 93',Marlon Vargas Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,271847,2025-04-27 04:58:48
+13102,726696,14,45153473,76,2,5400,90'+1',0,0,Brandon Knapp (Union Omaha) Substitution at 91',Brandon Knapp Substitution,20684,0.0,0.0,0.0,0.0,0.0,0.0,1,294056,2025-04-27 04:58:48
+13102,726696,16,45153486,93,2,5400,90'+4',0,0,Brent Kallman (Union Omaha) Red Card at 94',Brent Kallman Red Card,20684,0.0,0.0,0.0,0.0,0.0,0.0,1,235062,2025-05-03 04:54:22
+13102,726696,14,45153473,76,2,5400,90'+1',0,0,Brandon Knapp (Union Omaha) Substitution at 91',Brandon Knapp Substitution,20684,0.0,0.0,0.0,0.0,0.0,0.0,2,316480,2025-04-27 04:58:48
+13102,726697,1,45150332,70,1,120,2',1,0,Taylor Calheira (FC Tulsa) Goal at 2',Taylor Calheira Goal,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,381688,2025-04-27 04:58:48
+13102,726697,2,45150675,94,1,1680,28',0,0,Boubacar Diallo (FC Tulsa) Yellow Card at 28',Boubacar Diallo Yellow Card,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,24020,2025-04-27 04:58:48
+13102,726697,3,45150769,70,1,2040,34',1,0,Mikkel Gøling (One Knoxville) Goal at 34',Mikkel Gøling Goal,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,401619,2025-04-27 04:58:48
+13102,726697,7,45151318,76,2,2700,45',0,0,Kempes Waldemar Tekiela (One Knoxville) Substitution at 45',Kempes Waldemar Tekiela Substitu,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,289861,2025-04-27 04:58:48
+13102,726697,4,45151267,76,2,2700,45',0,0,Jamie Webber (FC Tulsa) Substitution at 45',Jamie Webber Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,269292,2025-04-27 04:58:48
+13102,726697,6,45151317,76,2,2700,45',0,0,Dani Fernández (One Knoxville) Substitution at 45',Dani Fernández Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,360312,2025-04-27 04:58:48
+13102,726697,6,45151317,76,2,2700,45',0,0,Dani Fernández (One Knoxville) Substitution at 45',Dani Fernández Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,353494,2025-04-27 04:58:48
+13102,726697,6,45151317,76,2,2700,45',0,0,Dani Fernández (One Knoxville) Substitution at 45',Dani Fernández Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,264122,2025-04-27 04:58:48
+13102,726697,5,45151294,76,2,2700,45',0,0,Lucas Stauffer (FC Tulsa) Substitution at 45',Lucas Stauffer Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,253252,2025-04-27 04:58:48
+13102,726697,6,45151317,76,2,2700,45',0,0,Dani Fernández (One Knoxville) Substitution at 45',Dani Fernández Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,2,273705,2025-04-27 04:58:48
+13102,726697,4,45151267,76,2,2700,45',0,0,Jamie Webber (FC Tulsa) Substitution at 45',Jamie Webber Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,2,361245,2025-04-27 04:58:48
+13102,726697,5,45151294,76,2,2700,45',0,0,Lucas Stauffer (FC Tulsa) Substitution at 45',Lucas Stauffer Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,2,245519,2025-04-27 04:58:48
+13102,726697,7,45151318,76,2,2700,45',0,0,Kempes Waldemar Tekiela (One Knoxville) Substitution at 45',Kempes Waldemar Tekiela Substitu,21821,0.0,0.0,0.0,0.0,0.0,0.0,2,381409,2025-04-27 04:58:48
+13102,726697,8,45151670,76,2,3900,65',0,0,Kalil ElMedkhar (FC Tulsa) Substitution at 65',Kalil ElMedkhar Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,264411,2025-04-27 04:58:48
+13102,726697,8,45151670,76,2,3900,65',0,0,Kalil ElMedkhar (FC Tulsa) Substitution at 65',Kalil ElMedkhar Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,2,381688,2025-04-27 04:58:48
+13102,726697,9,45151671,76,2,3960,66',0,0,Al Hassan Toure (FC Tulsa) Substitution at 66',Al Hassan Toure Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,291694,2025-04-27 04:58:48
+13102,726697,9,45151671,76,2,3960,66',0,0,Al Hassan Toure (FC Tulsa) Substitution at 66',Al Hassan Toure Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,2,339839,2025-04-27 04:58:48
+13102,726697,10,45151725,94,2,4200,70',0,0,Abdoulaye Cissoko (FC Tulsa) Yellow Card at 70',Abdoulaye Cissoko Yellow Card,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,141815,2025-04-27 04:58:48
+13102,726697,11,45151731,98,2,4320,72',1,0,Kempes Waldemar Tekiela (One Knoxville) Penalty - Scored at 72',Kempes Waldemar Tekiela Penalty ,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,289861,2025-04-27 04:58:48
+13102,726697,12,45151767,94,2,4380,73',0,0,Lamar Batista (FC Tulsa) Yellow Card at 73',Lamar Batista Yellow Card,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,245793,2025-04-27 04:58:48
+13102,726697,13,45151847,94,2,4620,77',0,0,Stavros Zarokostas (One Knoxville) Yellow Card at 77',Stavros Zarokostas Yellow Card,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,294802,2025-04-27 04:58:48
+13102,726697,14,45151870,76,2,4800,80',0,0,Callum Johnson (One Knoxville) Substitution at 80',Callum Johnson Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,243359,2025-04-27 04:58:48
+13102,726697,14,45151870,76,2,4800,80',0,0,Callum Johnson (One Knoxville) Substitution at 80',Callum Johnson Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,2,294802,2025-04-27 04:58:48
+13102,726697,15,45151922,76,2,4860,81',0,0,Edwin Laszo (FC Tulsa) Substitution at 81',Edwin Laszo Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,313020,2025-04-27 04:58:48
+13102,726697,15,45151922,76,2,4860,81',0,0,Edwin Laszo (FC Tulsa) Substitution at 81',Edwin Laszo Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,2,310557,2025-04-27 04:58:48
+13102,726697,16,45152109,93,2,5340,89',0,0,Lamar Batista (FC Tulsa) Red Card at 89',Lamar Batista Red Card,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,245793,2025-04-27 04:58:48
+13102,726697,18,45152231,70,2,5400,90'+5',1,0,Al Hassan Toure (FC Tulsa) Goal at 95',Al Hassan Toure Goal,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,291694,2025-04-27 04:58:48
+13102,726697,17,45152153,94,2,5400,90'+2',0,0,Mark Doyle (One Knoxville) Yellow Card at 92',Mark Doyle Yellow Card,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,317341,2025-04-27 04:58:48
+13102,726698,1,45153208,70,1,840,14',1,0,Rory O'Driscoll (Las Vegas Lights FC) Goal at 14',Rory O'Driscoll Goal,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,298140,2025-04-27 04:58:48
+13102,726698,2,45153231,76,1,960,16',0,0,Christopher Pearson (Las Vegas Lights FC) Substitution at 16',Christopher Pearson Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,338070,2025-04-27 04:58:48
+13102,726698,2,45153231,76,1,960,16',0,0,Christopher Pearson (Las Vegas Lights FC) Substitution at 16',Christopher Pearson Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,298140,2025-04-27 04:58:48
+13102,726698,3,45153289,94,1,1440,24',0,0,Maliek Howell (Las Vegas Lights FC) Yellow Card at 24',Maliek Howell Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,282410,2025-04-27 04:58:48
+13102,726698,4,45153365,70,1,2040,34',1,0,Christian Pinzon (Las Vegas Lights FC) Goal at 34',Christian Pinzon Goal,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,346190,2025-04-27 04:58:48
+13102,726698,5,45153436,94,1,2640,44',0,0,Joseph-Claude Gyau (Las Vegas Lights FC) Yellow Card at 44',Joseph-Claude Gyau Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,170229,2025-04-27 04:58:48
+13102,726698,7,45153540,76,2,2700,45',0,0,Ryan Doghman (Orange County SC) Substitution at 45',Ryan Doghman Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,360144,2025-04-27 04:58:48
+13102,726698,6,45153444,98,1,2700,45'+3',1,0,Cameron Dunbar (Orange County SC) Penalty - Scored at 48',Cameron Dunbar Penalty - Scored,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,291252,2025-04-27 04:58:48
+13102,726698,7,45153540,76,2,2700,45',0,0,Ryan Doghman (Orange County SC) Substitution at 45',Ryan Doghman Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,2,388567,2025-04-27 04:58:48
+13102,726698,8,45153601,98,2,3360,56',1,0,Johnny Rodriguez (Las Vegas Lights FC) Penalty - Scored at 56',Johnny Rodriguez Penalty - Score,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,296273,2025-04-27 04:58:48
+13102,726698,9,45153619,76,2,3420,57',0,0,Bryce Jamison (Orange County SC) Substitution at 57',Bryce Jamison Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,350873,2025-04-27 04:58:48
+13102,726698,9,45153619,76,2,3420,57',0,0,Bryce Jamison (Orange County SC) Substitution at 57',Bryce Jamison Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,2,291252,2025-04-27 04:58:48
+13102,726698,10,45153620,76,2,3480,58',0,0,Lyam Mackinnon (Orange County SC) Substitution at 58',Lyam Mackinnon Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,360863,2025-04-27 04:58:48
+13102,726698,10,45153620,76,2,3480,58',0,0,Lyam Mackinnon (Orange County SC) Substitution at 58',Lyam Mackinnon Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,2,369873,2025-04-27 04:58:48
+13102,726698,11,45153655,94,2,3900,65',0,0,Johnny Rodriguez (Las Vegas Lights FC) Yellow Card at 65',Johnny Rodriguez Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,296273,2025-04-27 04:58:48
+13102,726698,12,45153671,76,2,4200,70',0,0,Ousmane Sylla (Orange County SC) Substitution at 70',Ousmane Sylla Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,380793,2025-04-27 04:58:48
+13102,726698,12,45153671,76,2,4200,70',0,0,Ousmane Sylla (Orange County SC) Substitution at 70',Ousmane Sylla Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,257286,2025-04-27 04:58:48
+13102,726698,12,45153671,76,2,4200,70',0,0,Ousmane Sylla (Orange County SC) Substitution at 70',Ousmane Sylla Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,247926,2025-04-27 04:58:48
+13102,726698,12,45153671,76,2,4200,70',0,0,Ousmane Sylla (Orange County SC) Substitution at 70',Ousmane Sylla Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,2,291746,2025-04-27 04:58:48
+13102,726698,13,45153674,76,2,4260,71',0,0,Shawn Smart (Las Vegas Lights FC) Substitution at 71',Shawn Smart Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,348644,2025-04-27 04:58:48
+13102,726698,14,45153681,94,2,4260,71',0,0,Christian Pinzon (Las Vegas Lights FC) Yellow Card at 71',Christian Pinzon Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,346190,2025-04-27 04:58:48
+13102,726698,13,45153674,76,2,4260,71',0,0,Shawn Smart (Las Vegas Lights FC) Substitution at 71',Shawn Smart Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,170229,2025-04-27 04:58:48
+13102,726698,15,45153682,94,2,4380,73',0,0,Raiko Arozarena (Las Vegas Lights FC) Yellow Card at 73',Raiko Arozarena Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,276479,2025-04-27 04:58:48
+13102,726698,16,45153688,76,2,4620,77',0,0,Vaughn Covil (Las Vegas Lights FC) Substitution at 77',Vaughn Covil Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,291997,2025-04-27 04:58:48
+13102,726698,16,45153688,76,2,4620,77',0,0,Vaughn Covil (Las Vegas Lights FC) Substitution at 77',Vaughn Covil Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,293819,2025-04-27 04:58:48
+13102,726698,16,45153688,76,2,4620,77',0,0,Vaughn Covil (Las Vegas Lights FC) Substitution at 77',Vaughn Covil Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,279283,2025-04-27 04:58:48
+13102,726698,17,45153690,174,2,4740,79',0,0,Lyam Mackinnon (Orange County SC) Penalty - Saved at 79',Lyam Mackinnon Penalty - Saved,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,360863,2025-04-27 04:58:48
+13102,726698,18,45153713,76,2,5400,90',0,0,Gavin Karam (Orange County SC) Substitution at 90',Gavin Karam Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,401625,2025-04-27 04:58:48
+13102,726698,19,45153716,94,2,5400,90'+1',0,0,Christopher Pearson (Las Vegas Lights FC) Yellow Card at 91',Christopher Pearson Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,338070,2025-04-27 04:58:48
+13102,726698,18,45153713,76,2,5400,90',0,0,Gavin Karam (Orange County SC) Substitution at 90',Gavin Karam Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,2,271815,2025-04-27 04:58:48
+13102,726699,1,45153221,94,1,960,16',0,0,Mitchell Taintor (San Antonio FC) Yellow Card at 16',Mitchell Taintor Yellow Card,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,252903,2025-04-27 04:58:48
+13102,726699,2,45153431,76,1,2580,43',0,0,Harvey Neville (Phoenix Rising FC) Substitution at 43',Harvey Neville Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,307210,2025-04-27 04:58:48
+13102,726699,2,45153431,76,1,2580,43',0,0,Harvey Neville (Phoenix Rising FC) Substitution at 43',Harvey Neville Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,2,381414,2025-04-27 04:58:48
+13102,726699,3,45153638,70,2,3780,63',1,0,Juan Agudelo (San Antonio FC) Goal at 63',Juan Agudelo Goal,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,146370,2025-04-27 04:58:48
+13102,726699,4,45153658,76,2,4020,67',0,0,Jearl Margaritha (Phoenix Rising FC) Substitution at 67',Jearl Margaritha Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,301441,2025-04-27 04:58:48
+13102,726699,4,45153658,76,2,4020,67',0,0,Jearl Margaritha (Phoenix Rising FC) Substitution at 67',Jearl Margaritha Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,2,387693,2025-04-27 04:58:48
+13102,726699,5,45153659,76,2,4080,68',0,0,Damian Rivera (Phoenix Rising FC) Substitution at 68',Damian Rivera Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,299185,2025-04-27 04:58:48
+13102,726699,5,45153659,76,2,4080,68',0,0,Damian Rivera (Phoenix Rising FC) Substitution at 68',Damian Rivera Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,2,319548,2025-04-27 04:58:48
+13102,726699,7,45153691,76,2,4560,76',0,0,Jorge Hernandez (San Antonio FC) Substitution at 76',Jorge Hernandez Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,303762,2025-04-27 04:58:48
+13102,726699,7,45153691,76,2,4560,76',0,0,Jorge Hernandez (San Antonio FC) Substitution at 76',Jorge Hernandez Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,288723,2025-04-27 04:58:48
+13102,726699,7,45153691,76,2,4560,76',0,0,Jorge Hernandez (San Antonio FC) Substitution at 76',Jorge Hernandez Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,284928,2025-04-27 04:58:48
+13102,726699,7,45153691,76,2,4560,76',0,0,Jorge Hernandez (San Antonio FC) Substitution at 76',Jorge Hernandez Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,209587,2025-04-27 04:58:48
+13102,726699,7,45153691,76,2,4560,76',0,0,Jorge Hernandez (San Antonio FC) Substitution at 76',Jorge Hernandez Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,175903,2025-04-27 04:58:48
+13102,726699,6,45153683,76,2,4560,76',0,0,Luis Paredes (San Antonio FC) Substitution at 76',Luis Paredes Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,334105,2025-04-27 04:58:48
+13102,726699,6,45153683,76,2,4560,76',0,0,Luis Paredes (San Antonio FC) Substitution at 76',Luis Paredes Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,2,381240,2025-04-27 04:58:48
+13102,726699,6,45153683,76,2,4560,76',0,0,Luis Paredes (San Antonio FC) Substitution at 76',Luis Paredes Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,2,279079,2025-04-27 04:58:48
+13102,726699,7,45153691,76,2,4560,76',0,0,Jorge Hernandez (San Antonio FC) Substitution at 76',Jorge Hernandez Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,2,253255,2025-04-27 04:58:48
+13102,726699,9,45153689,76,2,4620,77',0,0,Nelson Blanco (San Antonio FC) Substitution at 77',Nelson Blanco Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,266855,2025-04-27 04:58:48
+13102,726699,8,45153684,94,2,4620,77',0,0,Juan Osorio (San Antonio FC) Yellow Card at 77',Juan Osorio Yellow Card,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,87581,2025-04-27 04:58:48
+13102,726699,9,45153689,76,2,4620,77',0,0,Nelson Blanco (San Antonio FC) Substitution at 77',Nelson Blanco Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,2,234682,2025-04-27 04:58:48
+13102,726699,10,45153697,94,2,4980,83',0,0,Dmitri Erofeev (San Antonio FC) Yellow Card at 83',Dmitri Erofeev Yellow Card,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,400728,2025-04-29 04:59:57
+13102,726699,11,45153701,76,2,5040,84',0,0,Alex Greive (San Antonio FC) Substitution at 84',Alex Greive Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,297651,2025-05-03 04:54:22
+13102,726699,11,45153701,76,2,5040,84',0,0,Alex Greive (San Antonio FC) Substitution at 84',Alex Greive Substitution,18265,0.0,0.0,0.0,0.0,0.0,0.0,2,400728,2025-05-03 04:54:22
+13102,726699,12,45153711,76,2,5160,86',0,0,Dariusz Formella (Phoenix Rising FC) Substitution at 86',Dariusz Formella Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,191170,2025-04-27 04:58:48
+13102,726699,12,45153711,76,2,5160,86',0,0,Dariusz Formella (Phoenix Rising FC) Substitution at 86',Dariusz Formella Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,2,386212,2025-04-27 04:58:48
+13102,726699,13,45153717,94,2,5400,90'+3',0,0,Alex Greive (San Antonio FC) Yellow Card at 93',Alex Greive Yellow Card,18265,0.0,0.0,0.0,0.0,0.0,0.0,1,297651,2025-04-27 04:58:48
+13102,726700,1,45151122,94,1,1200,20',0,0,Ivan Agyaakwah (Greenville Triumph) Yellow Card at 20',Ivan Agyaakwah Yellow Card,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,369005,2025-04-27 04:58:48
+13102,726700,2,45151086,98,1,1320,22',1,0,Mason Tunbridge (South Georgia Tormenta FC) Penalty - Scored at 22',Mason Tunbridge Penalty - Scored,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,348717,2025-04-27 04:58:48
+13102,726700,3,45151328,94,1,2100,35',0,0,Samuel Jones (South Georgia Tormenta FC) Yellow Card at 35',Samuel Jones Yellow Card,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,248958,2025-04-27 04:58:48
+13102,726700,4,45151298,113,1,2220,37',0,0,Evan Lee (Greenville Triumph) Penalty - Missed at 37',Evan Lee Penalty - Missed,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,236639,2025-04-27 04:58:48
+13102,726700,6,45151858,76,2,2700,45',0,0,Aaron Walker (South Georgia Tormenta FC) Substitution at 45',Aaron Walker Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,252979,2025-04-27 04:58:48
+13102,726700,5,45151549,70,1,2700,45'+4',1,0,Mason Tunbridge (South Georgia Tormenta FC) Goal at 49',Mason Tunbridge Goal,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,348717,2025-04-27 04:58:48
+13102,726700,6,45151858,76,2,2700,45',0,0,Aaron Walker (South Georgia Tormenta FC) Substitution at 45',Aaron Walker Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,2,348717,2025-04-27 04:58:48
+13102,726700,7,45152272,94,2,3840,64',0,0,Osacar Jimenez (South Georgia Tormenta FC) Yellow Card at 64',Osacar Jimenez Yellow Card,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,252982,2025-04-27 04:58:48
+13102,726700,9,45152331,76,2,4020,67',0,0,Ropapa Mensah (Greenville Triumph) Substitution at 67',Ropapa Mensah Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,254297,2025-04-27 04:58:48
+13102,726700,8,45152300,76,2,4020,67',0,0,Michael Gonzalez (Greenville Triumph) Substitution at 67',Michael Gonzalez Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,288064,2025-04-27 04:58:48
+13102,726700,8,45152300,76,2,4020,67',0,0,Michael Gonzalez (Greenville Triumph) Substitution at 67',Michael Gonzalez Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,2,236639,2025-04-27 04:58:48
+13102,726700,9,45152331,76,2,4020,67',0,0,Ropapa Mensah (Greenville Triumph) Substitution at 67',Ropapa Mensah Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,2,369005,2025-04-27 04:58:48
+13102,726700,10,45152387,76,2,4260,71',0,0,Callum Stretch (South Georgia Tormenta FC) Substitution at 71',Callum Stretch Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,295349,2025-04-27 04:58:48
+13102,726700,11,45152388,76,2,4260,71',0,0,Jonathan Nyandjo (South Georgia Tormenta FC) Substitution at 71',Jonathan Nyandjo Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,315564,2025-04-27 04:58:48
+13102,726700,11,45152388,76,2,4260,71',0,0,Jonathan Nyandjo (South Georgia Tormenta FC) Substitution at 71',Jonathan Nyandjo Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,2,265386,2025-04-27 04:58:48
+13102,726700,10,45152387,76,2,4260,71',0,0,Callum Stretch (South Georgia Tormenta FC) Substitution at 71',Callum Stretch Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,2,252982,2025-04-27 04:58:48
+13102,726700,12,45152584,76,2,4800,80',0,0,Handwalla Bwana (South Georgia Tormenta FC) Substitution at 80',Handwalla Bwana Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,256518,2025-04-27 04:58:48
+13102,726700,12,45152584,76,2,4800,80',0,0,Handwalla Bwana (South Georgia Tormenta FC) Substitution at 80',Handwalla Bwana Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,2,361285,2025-04-27 04:58:48
+13102,726700,13,45152623,76,2,4920,82',0,0,Ben Zakowski (Greenville Triumph) Substitution at 82',Ben Zakowski Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,381433,2025-04-27 04:58:48
+13102,726700,14,45152624,76,2,4920,82',0,0,Nzuhri Biggar (Greenville Triumph) Substitution at 82',Nzuhri Biggar Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,402453,2025-04-27 04:58:48
+13102,726700,13,45152623,76,2,4920,82',0,0,Ben Zakowski (Greenville Triumph) Substitution at 82',Ben Zakowski Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,2,121216,2025-04-27 04:58:48
+13102,726700,14,45152624,76,2,4920,82',0,0,Nzuhri Biggar (Greenville Triumph) Substitution at 82',Nzuhri Biggar Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,2,227211,2025-04-27 04:58:48
+13102,726700,15,45152678,70,2,5160,86',1,0,Rodrigo Robles (Greenville Triumph) Goal at 86',Rodrigo Robles Goal,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,324971,2025-04-27 04:58:48
+13102,726700,16,45152794,76,2,5400,90'+6',0,0,Conor Doyle (South Georgia Tormenta FC) Substitution at 96',Conor Doyle Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,150495,2025-04-27 04:58:48
+13102,726700,16,45152794,76,2,5400,90'+6',0,0,Conor Doyle (South Georgia Tormenta FC) Substitution at 96',Conor Doyle Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,2,326111,2025-04-27 04:58:48
+13102,726701,1,45159586,70,1,1500,25',1,0,Frank Nodarse (Rhode Island FC) Goal at 25',Frank Nodarse Goal,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,316346,2025-04-28 04:56:18
+13102,726701,2,45159603,70,1,1680,28',1,0,Jerome Williams (Rhode Island FC) Goal at 28',Jerome Williams Goal,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,256238,2025-04-28 04:56:18
+13102,726701,2,45159603,70,1,1680,28',1,0,Jerome Williams (Rhode Island FC) Goal at 28',Jerome Williams Goal,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,193247,2025-04-28 04:56:18
+13102,726701,3,45159660,94,1,2040,34',0,0,Daniel Bouman (Westchester SC) Yellow Card at 34',Daniel Bouman Yellow Card,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,291611,2025-04-28 04:56:18
+13102,726701,4,45159696,70,1,2220,37',1,0,Maxi Rodriguez (Rhode Island FC) Goal at 37',Maxi Rodriguez Goal,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,24460,2025-04-28 04:56:18
+13102,726701,4,45159696,70,1,2220,37',1,0,Maxi Rodriguez (Rhode Island FC) Goal at 37',Maxi Rodriguez Goal,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,111864,2025-04-28 04:56:18
+13102,726701,5,45160188,94,2,3360,56',0,0,Koen Blommestijn (Westchester SC) Yellow Card at 56',Koen Blommestijn Yellow Card,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,306431,2025-04-28 04:56:18
+13102,726701,6,45160275,76,2,3720,62',0,0,Prince Saydee (Westchester SC) Substitution at 62',Prince Saydee Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,281907,2025-04-28 04:56:18
+13102,726701,6,45160275,76,2,3720,62',0,0,Prince Saydee (Westchester SC) Substitution at 62',Prince Saydee Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,2,259552,2025-04-28 04:56:18
+13102,726701,7,45160321,70,2,3900,65',1,0,Jerome Williams (Rhode Island FC) Goal at 65',Jerome Williams Goal,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,256238,2025-04-28 04:56:18
+13102,726701,7,45160321,70,2,3900,65',1,0,Jerome Williams (Rhode Island FC) Goal at 65',Jerome Williams Goal,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,193247,2025-04-28 04:56:18
+13102,726701,8,45160341,76,2,3960,66',0,0,Dean Guezen (Westchester SC) Substitution at 66',Dean Guezen Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,304577,2025-04-28 04:56:18
+13102,726701,8,45160341,76,2,3960,66',0,0,Dean Guezen (Westchester SC) Substitution at 66',Dean Guezen Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,2,291611,2025-04-28 04:56:18
+13102,726701,9,45160456,76,2,4440,74',0,0,Joseph Brito (Rhode Island FC) Substitution at 74',Joseph Brito Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,338778,2025-04-28 04:56:18
+13102,726701,11,45160458,76,2,4440,74',0,0,Taimu Okiyoshi (Rhode Island FC) Substitution at 74',Taimu Okiyoshi Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,337738,2025-04-28 04:56:18
+13102,726701,10,45160457,76,2,4440,74',0,0,Amos Shapiro-Thompson (Rhode Island FC) Substitution at 74',Amos Shapiro-Thompson Substituti,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,297831,2025-04-28 04:56:18
+13102,726701,11,45160458,76,2,4440,74',0,0,Taimu Okiyoshi (Rhode Island FC) Substitution at 74',Taimu Okiyoshi Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,24460,2025-04-28 04:56:18
+13102,726701,9,45160456,76,2,4440,74',0,0,Joseph Brito (Rhode Island FC) Substitution at 74',Joseph Brito Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,256238,2025-04-28 04:56:18
+13102,726701,9,45160456,76,2,4440,74',0,0,Joseph Brito (Rhode Island FC) Substitution at 74',Joseph Brito Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,193247,2025-04-28 04:56:18
+13102,726701,10,45160457,76,2,4440,74',0,0,Amos Shapiro-Thompson (Rhode Island FC) Substitution at 74',Amos Shapiro-Thompson Substituti,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,316346,2025-04-28 04:56:18
+13102,726701,11,45160458,76,2,4440,74',0,0,Taimu Okiyoshi (Rhode Island FC) Substitution at 74',Taimu Okiyoshi Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,111864,2025-04-28 04:56:18
+13102,726701,12,45160510,76,2,4620,77',0,0,Ermin Mackic (Westchester SC) Substitution at 77',Ermin Mackic Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,400963,2025-04-28 04:56:18
+13102,726701,12,45160510,76,2,4620,77',0,0,Ermin Mackic (Westchester SC) Substitution at 77',Ermin Mackic Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,2,306431,2025-04-28 04:56:18
+13102,726701,14,45160765,94,2,4740,79',0,0,Jonathan Bolanos (Westchester SC) Yellow Card at 79',Jonathan Bolanos Yellow Card,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,38846,2025-04-28 04:56:18
+13102,726701,13,45160556,76,2,4740,79',0,0,Kevin Vang (Rhode Island FC) Substitution at 79',Kevin Vang Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,299970,2025-04-28 04:56:18
+13102,726701,13,45160556,76,2,4740,79',0,0,Kevin Vang (Rhode Island FC) Substitution at 79',Kevin Vang Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,292944,2025-04-28 04:56:18
+13102,726701,15,45160645,70,2,5100,85',1,0,Jonathan Bolanos (Westchester SC) Goal at 85',Jonathan Bolanos Goal,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,38846,2025-04-28 04:56:18
+13102,726701,16,45160732,76,2,5400,90'+1',0,0,Cole Dewhurst (Rhode Island FC) Substitution at 91',Cole Dewhurst Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,317570,2025-04-28 04:56:18
+13102,726701,16,45160732,76,2,5400,90'+1',0,0,Cole Dewhurst (Rhode Island FC) Substitution at 91',Cole Dewhurst Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,256384,2025-04-28 04:56:18
+13102,726702,1,45162169,70,1,600,10',1,0,Daniel Trejo (Birmingham Legion FC) Goal at 10',Daniel Trejo Goal,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,288146,2025-04-28 04:56:18
+13102,726702,2,45162496,94,1,1920,32',0,0,Ricardo Jerez (Chattanooga Red Wolves) Yellow Card at 32',Ricardo Jerez Yellow Card,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,116861,2025-04-28 04:56:18
+13102,726702,3,45162640,94,1,2520,42',0,0,Ronaldo Damus (Birmingham Legion FC) Yellow Card at 42',Ronaldo Damus Yellow Card,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,245140,2025-04-28 04:56:18
+13102,726702,4,45162980,76,2,2700,45',0,0,Santiago Suarez (Birmingham Legion FC) Substitution at 45',Santiago Suarez Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,337028,2025-04-28 04:56:18
+13102,726702,4,45162980,76,2,2700,45',0,0,Santiago Suarez (Birmingham Legion FC) Substitution at 45',Santiago Suarez Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,217008,2025-04-28 04:56:18
+13102,726702,5,45163145,76,2,3480,58',0,0,Omar Hernandez (Chattanooga Red Wolves) Substitution at 58',Omar Hernandez Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,288012,2025-04-28 04:56:18
+13102,726702,5,45163145,76,2,3480,58',0,0,Omar Hernandez (Chattanooga Red Wolves) Substitution at 58',Omar Hernandez Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,350564,2025-04-28 04:56:18
+13102,726702,6,45163180,76,2,3660,61',0,0,Preston Tabortetaka (Birmingham Legion FC) Substitution at 61',Preston Tabortetaka Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,257381,2025-04-28 04:56:18
+13102,726702,6,45163180,76,2,3660,61',0,0,Preston Tabortetaka (Birmingham Legion FC) Substitution at 61',Preston Tabortetaka Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,381970,2025-04-28 04:56:18
+13102,726702,7,45163225,94,2,3780,63',0,0,Declan Watters (Chattanooga Red Wolves) Yellow Card at 63',Declan Watters Yellow Card,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,267210,2025-04-28 04:56:18
+13102,726702,8,45163236,93,2,3900,65',0,0,Michael Knapp (Chattanooga Red Wolves) Red Card at 65',Michael Knapp Red Card,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,318477,2025-04-28 04:56:18
+13102,726702,9,45163326,70,2,4260,71',1,0,Preston Tabortetaka (Birmingham Legion FC) Goal at 71',Preston Tabortetaka Goal,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,257381,2025-04-28 04:56:18
+13102,726702,10,45163330,76,2,4320,72',0,0,Omar Gómez (Chattanooga Red Wolves) Substitution at 72',Omar Gómez Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,3400,2025-04-28 04:56:18
+13102,726702,11,45163331,76,2,4320,72',0,0,Alhassan (Chattanooga Red Wolves) Substitution at 72',Alhassan Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,402247,2025-04-28 04:56:18
+13102,726702,11,45163331,76,2,4320,72',0,0,Alhassan (Chattanooga Red Wolves) Substitution at 72',Alhassan Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,302930,2025-04-28 04:56:18
+13102,726702,10,45163330,76,2,4320,72',0,0,Omar Gómez (Chattanooga Red Wolves) Substitution at 72',Omar Gómez Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,338831,2025-04-28 04:56:18
+13102,726702,12,45163451,70,2,4740,79',1,0,Ronaldo Damus (Birmingham Legion FC) Goal at 79',Ronaldo Damus Goal,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,245140,2025-04-28 04:56:18
+13102,726702,14,45163535,76,2,5040,84',0,0,Samuel McIllhatton (Birmingham Legion FC) Substitution at 84',Samuel McIllhatton Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,259491,2025-04-28 04:56:18
+13102,726702,16,45163537,76,2,5040,84',0,0,Wynand Wessels (Chattanooga Red Wolves) Substitution at 84',Wynand Wessels Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,360624,2025-04-28 04:56:18
+13102,726702,15,45163536,76,2,5040,84',0,0,Yanis Lelin (Chattanooga Red Wolves) Substitution at 84',Yanis Lelin Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,324965,2025-04-28 04:56:18
+13102,726702,13,45163522,76,2,5040,84',0,0,Roman Torres (Birmingham Legion FC) Substitution at 84',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,358389,2025-04-28 04:56:18
+13102,726702,13,45163522,76,2,5040,84',0,0,Roman Torres (Birmingham Legion FC) Substitution at 84',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,318381,2025-04-28 04:56:18
+13102,726702,13,45163522,76,2,5040,84',0,0,Roman Torres (Birmingham Legion FC) Substitution at 84',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,120417,2025-04-28 04:56:18
+13102,726702,16,45163537,76,2,5040,84',0,0,Wynand Wessels (Chattanooga Red Wolves) Substitution at 84',Wynand Wessels Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,242652,2025-04-28 04:56:18
+13102,726702,15,45163536,76,2,5040,84',0,0,Yanis Lelin (Chattanooga Red Wolves) Substitution at 84',Yanis Lelin Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,299119,2025-04-28 04:56:18
+13102,726702,13,45163522,76,2,5040,84',0,0,Roman Torres (Birmingham Legion FC) Substitution at 84',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,403151,2025-04-28 04:56:18
+13102,726702,13,45163522,76,2,5040,84',0,0,Roman Torres (Birmingham Legion FC) Substitution at 84',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,399670,2025-04-28 04:56:18
+13102,726702,13,45163522,76,2,5040,84',0,0,Roman Torres (Birmingham Legion FC) Substitution at 84',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,173742,2025-04-28 04:56:18
+13102,726702,13,45163522,76,2,5040,84',0,0,Roman Torres (Birmingham Legion FC) Substitution at 84',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,171796,2025-04-28 04:56:18
+13102,726702,14,45163535,76,2,5040,84',0,0,Samuel McIllhatton (Birmingham Legion FC) Substitution at 84',Samuel McIllhatton Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,159387,2025-04-28 04:56:18
+13102,726702,18,45163572,94,2,5160,86',0,0,Pedro Hernandez (Chattanooga Red Wolves) Yellow Card at 86',Pedro Hernandez Yellow Card,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,338759,2025-04-28 04:56:18
+13102,726702,18,45163572,94,2,5160,86',0,0,Pedro Hernandez (Chattanooga Red Wolves) Yellow Card at 86',Pedro Hernandez Yellow Card,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,298723,2025-04-28 04:56:18
+13102,726702,17,45163571,94,2,5160,86',0,0,Fernando Delgado (Birmingham Legion FC) Yellow Card at 86',Fernando Delgado Yellow Card,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,93084,2025-04-28 04:56:18
+13102,726702,19,45163582,76,2,5280,88',0,0,Finn Calloway (Birmingham Legion FC) Substitution at 88',Finn Calloway Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,380982,2025-04-28 04:56:18
+13102,726702,19,45163582,76,2,5280,88',0,0,Finn Calloway (Birmingham Legion FC) Substitution at 88',Finn Calloway Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,288146,2025-04-28 04:56:18
+13102,726702,20,45163642,94,2,5400,90'+2',0,0,Ramiz Hamouda (Birmingham Legion FC) Yellow Card at 92',Ramiz Hamouda Yellow Card,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,382589,2025-04-28 04:56:18
+13102,726702,21,45163659,70,2,5400,90'+4',1,0,Eric Kinzner (Chattanooga Red Wolves) Goal at 94',Eric Kinzner Goal,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,302995,2025-04-28 04:56:18
+13102,726703,1,45164161,70,1,1500,25',1,0,Luis Gil (Spokane Velocity FC) Goal at 25',Luis Gil Goal,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,146469,2025-04-28 04:56:18
+13102,726703,2,45164405,70,1,2580,43',1,0,Anuar Peláez (Spokane Velocity FC) Goal at 43',Anuar Peláez Goal,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,336944,2025-04-28 04:56:18
+13102,726703,4,45164473,94,1,2700,45'+2',0,0,Kai Greene (Oakland Roots) Yellow Card at 47',Kai Greene Yellow Card,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,252993,2025-04-28 04:56:18
+13102,726703,5,45164595,76,2,2700,45',0,0,Ilya Alekseev (Oakland Roots) Substitution at 45',Ilya Alekseev Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,360608,2025-04-28 04:56:18
+13102,726703,6,45164596,76,2,2700,45',0,0,Tyler Gibson (Oakland Roots) Substitution at 45',Tyler Gibson Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,235448,2025-04-28 04:56:18
+13102,726703,3,45164423,94,1,2700,45',0,0,Anuar Peláez (Spokane Velocity FC) Yellow Card at 45',Anuar Peláez Yellow Card,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,336944,2025-04-28 04:56:18
+13102,726703,6,45164596,76,2,2700,45',0,0,Tyler Gibson (Oakland Roots) Substitution at 45',Tyler Gibson Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,360131,2025-04-28 04:56:18
+13102,726703,6,45164596,76,2,2700,45',0,0,Tyler Gibson (Oakland Roots) Substitution at 45',Tyler Gibson Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,344736,2025-04-28 04:56:18
+13102,726703,5,45164595,76,2,2700,45',0,0,Ilya Alekseev (Oakland Roots) Substitution at 45',Ilya Alekseev Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,212484,2025-04-28 04:56:18
+13102,726703,7,45164646,70,2,3120,52',1,0,Gagi Margvelashvili (Oakland Roots) Goal at 52',Gagi Margvelashvili Goal,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,289202,2025-04-28 04:56:18
+13102,726703,8,45164734,76,2,4020,67',0,0,Justin Rasmussen (Oakland Roots) Substitution at 67',Justin Rasmussen Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,333735,2025-04-28 04:56:18
+13102,726703,8,45164734,76,2,4020,67',0,0,Justin Rasmussen (Oakland Roots) Substitution at 67',Justin Rasmussen Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,302983,2025-04-28 04:56:18
+13102,726703,9,45164787,94,2,4140,69',0,0,Carlos Merancio (Spokane Velocity FC) Yellow Card at 69',Carlos Merancio Yellow Card,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,316335,2025-04-28 04:56:18
+13102,726703,10,45164786,76,2,4200,70',0,0,Masango Akale (Spokane Velocity FC) Substitution at 70',Masango Akale Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,286799,2025-04-28 04:56:18
+13102,726703,10,45164786,76,2,4200,70',0,0,Masango Akale (Spokane Velocity FC) Substitution at 70',Masango Akale Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,2,235447,2025-04-28 04:56:18
+13102,726703,11,45164795,76,2,4320,72',0,0,Panos Armenakas (Oakland Roots) Substitution at 72',Panos Armenakas Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,225503,2025-04-28 04:56:18
+13102,726703,12,45164796,76,2,4320,72',0,0,Ali Elmasnaouy (Oakland Roots) Substitution at 72',Ali Elmasnaouy Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,360628,2025-04-28 04:56:18
+13102,726703,12,45164796,76,2,4320,72',0,0,Ali Elmasnaouy (Oakland Roots) Substitution at 72',Ali Elmasnaouy Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,281589,2025-04-28 04:56:18
+13102,726703,11,45164795,76,2,4320,72',0,0,Panos Armenakas (Oakland Roots) Substitution at 72',Panos Armenakas Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,296278,2025-04-28 04:56:18
+13102,726703,13,45164918,76,2,5100,85',0,0,Meredith Bryce (Spokane Velocity FC) Substitution at 85',Meredith Bryce Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,401666,2025-04-28 04:56:18
+13102,726703,14,45164927,76,2,5100,85',0,0,Javier Martin Gil (Spokane Velocity FC) Substitution at 85',Javier Martin Gil Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,381421,2025-04-28 04:56:18
+13102,726703,14,45164927,76,2,5100,85',0,0,Javier Martin Gil (Spokane Velocity FC) Substitution at 85',Javier Martin Gil Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,2,257198,2025-04-28 04:56:18
+13102,726703,13,45164918,76,2,5100,85',0,0,Meredith Bryce (Spokane Velocity FC) Substitution at 85',Meredith Bryce Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,2,146469,2025-04-28 04:56:18
+13102,726703,15,45165007,76,2,5400,90'+4',0,0,Marcelo Lage (Spokane Velocity FC) Substitution at 94',Marcelo Lage Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,325725,2025-04-28 04:56:18
+13102,726703,16,45165026,76,2,5400,90'+4',0,0,Neco Brett (Spokane Velocity FC) Substitution at 94',Neco Brett Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,234444,2025-04-28 04:56:18
+13102,726703,15,45165007,76,2,5400,90'+4',0,0,Marcelo Lage (Spokane Velocity FC) Substitution at 94',Marcelo Lage Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,2,243765,2025-04-28 04:56:18
+13102,726703,16,45165026,76,2,5400,90'+4',0,0,Neco Brett (Spokane Velocity FC) Substitution at 94',Neco Brett Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,2,336944,2025-04-28 04:56:18
+13102,726704,1,45173338,70,1,240,4',1,0,Christopher Pearson (Las Vegas Lights FC) Goal at 4',Christopher Pearson Goal,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,338070,2025-05-01 04:55:44
+13102,726704,2,45173355,94,1,780,13',0,0,Sebastian Cruz (AV Alta FC) Yellow Card at 13',Sebastian Cruz Yellow Card,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,271891,2025-05-01 04:55:44
+13102,726704,3,45173423,70,2,2820,47',1,0,Eduardo Blancas (AV Alta FC) Goal at 47',Eduardo Blancas Goal,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,400669,2025-05-01 04:55:44
+13102,726704,4,45173424,94,2,3180,53',0,0,Adam Aoumaich (AV Alta FC) Yellow Card at 53',Adam Aoumaich Yellow Card,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,350483,2025-05-01 04:55:44
+13102,726704,5,45173425,94,2,3300,55',0,0,Jack Singer (Las Vegas Lights FC) Yellow Card at 55',Jack Singer Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,360874,2025-05-01 04:55:44
+13102,726704,8,45173428,94,2,3780,63',0,0,Edison Azcona (Las Vegas Lights FC) Yellow Card at 63',Edison Azcona Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,313043,2025-05-01 04:55:44
+13102,726704,6,45173426,76,2,3780,63',0,0,Valentin Noël (Las Vegas Lights FC) Substitution at 63',Valentin Noël Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,293819,2025-05-01 04:55:44
+13102,726704,6,45173426,76,2,3780,63',0,0,Valentin Noël (Las Vegas Lights FC) Substitution at 63',Valentin Noël Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,279283,2025-05-01 04:55:44
+13102,726704,7,45173427,76,2,3780,63',0,0,Christian Pinzon (Las Vegas Lights FC) Substitution at 63',Christian Pinzon Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,346190,2025-05-01 04:55:44
+13102,726704,6,45173426,76,2,3780,63',0,0,Valentin Noël (Las Vegas Lights FC) Substitution at 63',Valentin Noël Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,338070,2025-05-01 04:55:44
+13102,726704,7,45173427,76,2,3780,63',0,0,Christian Pinzon (Las Vegas Lights FC) Substitution at 63',Christian Pinzon Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,341336,2025-05-01 04:55:44
+13102,726704,10,45173430,76,2,4200,70',0,0,Javier Mariona (AV Alta FC) Substitution at 70',Javier Mariona Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,324280,2025-05-01 04:55:44
+13102,726704,9,45173429,76,2,4200,70',0,0,Johnny Rodriguez (Las Vegas Lights FC) Substitution at 70',Johnny Rodriguez Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,296273,2025-05-01 04:55:44
+13102,726704,9,45173429,76,2,4200,70',0,0,Johnny Rodriguez (Las Vegas Lights FC) Substitution at 70',Johnny Rodriguez Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,303507,2025-05-01 04:55:44
+13102,726704,10,45173430,76,2,4200,70',0,0,Javier Mariona (AV Alta FC) Substitution at 70',Javier Mariona Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,350483,2025-05-01 04:55:44
+13102,726704,11,45173431,70,2,4380,73',1,0,Nighte Pickering (Las Vegas Lights FC) Goal at 73',Nighte Pickering Goal,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,346970,2025-05-01 04:55:44
+13102,726704,13,45173433,76,2,4620,77',0,0,Harrison Robledo (AV Alta FC) Substitution at 77',Harrison Robledo Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,336552,2025-05-01 04:55:44
+13102,726704,12,45173432,94,2,4620,77',0,0,Johnny Rodriguez (Las Vegas Lights FC) Yellow Card at 77',Johnny Rodriguez Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,296273,2025-05-01 04:55:44
+13102,726704,14,45173434,76,2,4620,77',0,0,Alexis Cerritos (AV Alta FC) Substitution at 77',Alexis Cerritos Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,266820,2025-05-01 04:55:44
+13102,726704,13,45173433,76,2,4620,77',0,0,Harrison Robledo (AV Alta FC) Substitution at 77',Harrison Robledo Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,288154,2025-05-01 04:55:44
+13102,726704,14,45173434,76,2,4620,77',0,0,Alexis Cerritos (AV Alta FC) Substitution at 77',Alexis Cerritos Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,400958,2025-05-01 04:55:44
+13102,726704,15,45173435,94,2,5100,85',0,0,Eduardo Blancas (AV Alta FC) Yellow Card at 85',Eduardo Blancas Yellow Card,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,400669,2025-05-01 04:55:44
+13102,726704,16,45173436,76,2,5220,87',0,0,Miguel Ibarra (AV Alta FC) Substitution at 87',Miguel Ibarra Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,133285,2025-05-02 04:53:41
+13102,726704,16,45173436,76,2,5220,87',0,0,Miguel Ibarra (AV Alta FC) Substitution at 87',Miguel Ibarra Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,400669,2025-05-02 04:53:41
+13102,726705,1,45313352,94,1,360,6',0,0,Hayden White (Indy Eleven) Yellow Card at 6',Hayden White Yellow Card,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,191420,2025-05-25 04:53:44
+13102,726705,3,45313915,76,2,2700,45',0,0,Abel Caputo (One Knoxville) Substitution at 45',Abel Caputo Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,317505,2025-05-25 04:53:44
+13102,726705,2,45313914,76,2,2700,45',0,0,Nicola Rosamilia (One Knoxville) Substitution at 45',Nicola Rosamilia Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,400959,2025-05-25 04:53:44
+13102,726705,3,45313915,76,2,2700,45',0,0,Abel Caputo (One Knoxville) Substitution at 45',Abel Caputo Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,2,243359,2025-05-25 04:53:44
+13102,726705,2,45313914,76,2,2700,45',0,0,Nicola Rosamilia (One Knoxville) Substitution at 45',Nicola Rosamilia Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,2,255820,2025-05-25 04:53:44
+13102,726705,4,45313939,70,2,2820,47',1,0,Elvis Amoh (Indy Eleven) Goal at 47',Elvis Amoh Goal,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,290564,2025-05-25 04:53:44
+13102,726705,5,45314175,76,2,3720,62',0,0,Josh O'Brien (Indy Eleven) Substitution at 62',Josh O'Brien Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,346266,2025-05-25 04:53:44
+13102,726705,8,45314193,76,2,3720,62',0,0,Edward Kizza (Indy Eleven) Substitution at 62',Edward Kizza Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,293807,2025-05-25 04:53:44
+13102,726705,6,45314191,76,2,3720,62',0,0,Angelo Kelly-Rosales (One Knoxville) Substitution at 62',Angelo Kelly-Rosales Substitutio,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,271824,2025-05-25 04:53:44
+13102,726705,7,45314192,76,2,3720,62',0,0,Romario Williams (Indy Eleven) Substitution at 62',Romario Williams Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,159298,2025-05-25 04:53:44
+13102,726705,5,45314175,76,2,3720,62',0,0,Josh O'Brien (Indy Eleven) Substitution at 62',Josh O'Brien Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,2,301848,2025-05-25 04:53:44
+13102,726705,6,45314191,76,2,3720,62',0,0,Angelo Kelly-Rosales (One Knoxville) Substitution at 62',Angelo Kelly-Rosales Substitutio,21821,0.0,0.0,0.0,0.0,0.0,0.0,2,144441,2025-05-25 04:53:44
+13102,726705,7,45314192,76,2,3720,62',0,0,Romario Williams (Indy Eleven) Substitution at 62',Romario Williams Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,2,290564,2025-05-25 04:53:44
+13102,726705,8,45314193,76,2,3720,62',0,0,Edward Kizza (Indy Eleven) Substitution at 62',Edward Kizza Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,2,191420,2025-05-25 04:53:44
+13102,726705,9,45314236,76,2,4200,70',0,0,Elliot Collier (Indy Eleven) Substitution at 70',Elliot Collier Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,256390,2025-05-25 04:53:44
+13102,726705,9,45314236,76,2,4200,70',0,0,Elliot Collier (Indy Eleven) Substitution at 70',Elliot Collier Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,2,227600,2025-05-25 04:53:44
+13102,726705,10,45314279,76,2,4500,75',0,0,Babacar Diene (One Knoxville) Substitution at 75',Babacar Diene Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,381409,2025-05-25 04:53:44
+13102,726705,10,45314279,76,2,4500,75',0,0,Babacar Diene (One Knoxville) Substitution at 75',Babacar Diene Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,2,294802,2025-05-25 04:53:44
+13102,726705,11,45314317,94,2,4680,78',0,0,Jack Blake (Indy Eleven) Yellow Card at 78',Jack Blake Yellow Card,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,181725,2025-05-25 04:53:44
+13102,726705,12,45314363,94,2,4800,80',0,0,Jordan Skelton (One Knoxville) Yellow Card at 80',Jordan Skelton Yellow Card,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,273705,2025-05-25 04:53:44
+13102,726705,13,45314349,76,2,4860,81',0,0,Cam Lindley (Indy Eleven) Substitution at 81',Cam Lindley Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,246322,2025-05-25 04:53:44
+13102,726705,13,45314349,76,2,4860,81',0,0,Cam Lindley (Indy Eleven) Substitution at 81',Cam Lindley Substitution,17360,0.0,0.0,0.0,0.0,0.0,0.0,2,181725,2025-05-25 04:53:44
+13102,726705,14,45314472,76,2,5160,86',0,0,Heath Martin (One Knoxville) Substitution at 86',Heath Martin Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,278973,2025-05-25 04:53:44
+13102,726705,14,45314472,76,2,5160,86',0,0,Heath Martin (One Knoxville) Substitution at 86',Heath Martin Substitution,21821,0.0,0.0,0.0,0.0,0.0,0.0,2,248963,2025-05-25 04:53:44
+13102,726705,15,45314565,93,2,5400,90'+1',0,0,Jordan Skelton (One Knoxville) Red Card at 91',Jordan Skelton Red Card,21821,0.0,0.0,0.0,0.0,0.0,0.0,1,273705,2025-05-25 04:53:44
+13102,726705,16,45314612,94,2,5400,90'+3',0,0,Cam Lindley (Indy Eleven) Yellow Card at 93',Cam Lindley Yellow Card,17360,0.0,0.0,0.0,0.0,0.0,0.0,1,246322,2025-05-25 04:53:44
+13102,726706,1,45333270,70,1,240,4',1,0,Pierce Gallaway (Monterey Bay) Goal at 4',Pierce Gallaway Goal,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,374034,2025-05-29 04:49:02
+13102,726706,2,45333309,94,1,420,7',0,0,Jack Denton (Spokane Velocity FC) Yellow Card at 7',Jack Denton Yellow Card,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,243765,2025-05-29 04:49:02
+13102,726706,3,45333505,94,1,960,16',0,0,Nil Vinyals (Spokane Velocity FC) Yellow Card at 16',Nil Vinyals Yellow Card,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,273649,2025-05-29 04:49:02
+13102,726706,4,45333605,76,1,1440,24',0,0,Mayele Malango (Monterey Bay) Substitution at 24',Mayele Malango Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,316375,2025-05-29 04:49:02
+13102,726706,4,45333605,76,1,1440,24',0,0,Mayele Malango (Monterey Bay) Substitution at 24',Mayele Malango Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,2,284051,2025-05-29 04:49:02
+13102,726706,5,45333868,76,2,2700,45',0,0,Joel Garcia Jr. (Monterey Bay) Substitution at 45',Joel Garcia Jr. Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,400662,2025-05-29 04:49:02
+13102,726706,6,45333873,76,2,2700,45',0,0,Masango Akale (Spokane Velocity FC) Substitution at 45',Masango Akale Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,286799,2025-05-29 04:49:02
+13102,726706,6,45333873,76,2,2700,45',0,0,Masango Akale (Spokane Velocity FC) Substitution at 45',Masango Akale Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,2,273649,2025-05-29 04:49:02
+13102,726706,5,45333868,76,2,2700,45',0,0,Joel Garcia Jr. (Monterey Bay) Substitution at 45',Joel Garcia Jr. Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,2,317500,2025-05-29 04:49:02
+13102,726706,7,45333906,76,2,3180,53',0,0,Nico Gordon (Monterey Bay) Substitution at 53',Nico Gordon Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,303895,2025-05-29 04:49:02
+13102,726706,8,45333907,76,2,3180,53',0,0,Anton Søjberg (Monterey Bay) Substitution at 53',Anton Søjberg Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,385517,2025-05-29 04:49:02
+13102,726706,7,45333906,76,2,3180,53',0,0,Nico Gordon (Monterey Bay) Substitution at 53',Nico Gordon Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,2,302885,2025-05-29 04:49:02
+13102,726706,8,45333907,76,2,3180,53',0,0,Anton Søjberg (Monterey Bay) Substitution at 53',Anton Søjberg Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,2,146667,2025-05-29 04:49:02
+13102,726706,9,45333923,94,2,3420,57',0,0,Anton Søjberg (Monterey Bay) Yellow Card at 57',Anton Søjberg Yellow Card,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,385517,2025-05-29 04:49:02
+13102,726706,10,45333937,76,2,3720,62',0,0,Diego Gutiérrez (Monterey Bay) Substitution at 62',Diego Gutiérrez Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,82672,2025-05-29 04:49:02
+13102,726706,10,45333937,76,2,3720,62',0,0,Diego Gutiérrez (Monterey Bay) Substitution at 62',Diego Gutiérrez Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,339012,2025-05-29 04:49:02
+13102,726706,10,45333937,76,2,3720,62',0,0,Diego Gutiérrez (Monterey Bay) Substitution at 62',Diego Gutiérrez Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,336548,2025-05-29 04:49:02
+13102,726706,10,45333937,76,2,3720,62',0,0,Diego Gutiérrez (Monterey Bay) Substitution at 62',Diego Gutiérrez Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,312084,2025-05-29 04:49:02
+13102,726706,10,45333937,76,2,3720,62',0,0,Diego Gutiérrez (Monterey Bay) Substitution at 62',Diego Gutiérrez Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,2,156322,2025-05-29 04:49:02
+13102,726706,12,45333945,76,2,3840,64',0,0,Shavon John-Brown (Spokane Velocity FC) Substitution at 64',Shavon John-Brown Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,256294,2025-05-29 04:49:02
+13102,726706,11,45333944,76,2,3840,64',0,0,Neco Brett (Spokane Velocity FC) Substitution at 64',Neco Brett Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,234444,2025-05-29 04:49:02
+13102,726706,11,45333944,76,2,3840,64',0,0,Neco Brett (Spokane Velocity FC) Substitution at 64',Neco Brett Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,2,336944,2025-05-29 04:49:02
+13102,726706,12,45333945,76,2,3840,64',0,0,Shavon John-Brown (Spokane Velocity FC) Substitution at 64',Shavon John-Brown Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,2,235447,2025-05-29 04:49:02
+13102,726706,13,45333964,94,2,4260,71',0,0,Grant Robinson (Monterey Bay) Yellow Card at 71',Grant Robinson Yellow Card,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,208370,2025-05-29 04:49:02
+13102,726706,15,45333981,76,2,4800,80',0,0,Collin Fernandez (Spokane Velocity FC) Substitution at 80',Collin Fernandez Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,215184,2025-05-29 04:49:02
+13102,726706,14,45333980,76,2,4800,80',0,0,Lucky Opara (Spokane Velocity FC) Substitution at 80',Lucky Opara Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,1,313001,2025-05-29 04:49:02
+13102,726706,15,45333981,76,2,4800,80',0,0,Collin Fernandez (Spokane Velocity FC) Substitution at 80',Collin Fernandez Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,2,243765,2025-05-29 04:49:02
+13102,726706,14,45333980,76,2,4800,80',0,0,Lucky Opara (Spokane Velocity FC) Substitution at 80',Lucky Opara Substitution,22130,0.0,0.0,0.0,0.0,0.0,0.0,2,381421,2025-05-29 04:49:02
+13102,726706,16,45334105,94,2,5400,90'+6',0,0,Sam Gomez (Monterey Bay) Yellow Card at 96',Sam Gomez Yellow Card,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,295732,2025-05-29 04:49:02
+13102,726707,1,45343171,94,1,1860,31',0,0,Bobosi Byaruhanga (Oakland Roots) Yellow Card at 31',Bobosi Byaruhanga Yellow Card,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,313077,2025-06-01 04:59:44
+13102,726707,2,45343191,94,1,2340,39',0,0,Osvaldo Lay (AV Alta FC) Yellow Card at 39',Osvaldo Lay Yellow Card,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,400673,2025-06-01 04:59:44
+13102,726707,3,45343356,70,2,3420,57',1,0,Sebastian Cruz (AV Alta FC) Goal at 57',Sebastian Cruz Goal,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,271891,2025-06-01 04:59:44
+13102,726707,4,45343358,76,2,3480,58',0,0,Peter Wilson (Oakland Roots) Substitution at 58',Peter Wilson Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,80925,2025-06-01 04:59:44
+13102,726707,5,45343371,76,2,3480,58',0,0,Morey Doner (Oakland Roots) Substitution at 58',Morey Doner Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,337108,2025-06-01 04:59:44
+13102,726707,4,45343358,76,2,3480,58',0,0,Peter Wilson (Oakland Roots) Substitution at 58',Peter Wilson Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,318482,2025-06-01 04:59:44
+13102,726707,5,45343371,76,2,3480,58',0,0,Morey Doner (Oakland Roots) Substitution at 58',Morey Doner Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,212484,2025-06-01 04:59:44
+13102,726707,6,45343387,70,2,3720,62',1,0,Morey Doner (Oakland Roots) Goal at 62',Morey Doner Goal,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,337108,2025-06-02 04:55:15
+13102,726707,8,45343396,70,2,3780,63',1,0,Peter Wilson (Oakland Roots) Goal at 63',Peter Wilson Goal,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,80925,2025-06-01 04:59:44
+13102,726707,7,45343394,76,2,3780,63',0,0,Jerry Desdunes (AV Alta FC) Substitution at 63',Jerry Desdunes Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,338830,2025-06-01 04:59:44
+13102,726707,7,45343394,76,2,3780,63',0,0,Jerry Desdunes (AV Alta FC) Substitution at 63',Jerry Desdunes Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,133285,2025-06-01 04:59:44
+13102,726707,9,45343402,76,2,3900,65',0,0,Baboucarr Njie (Oakland Roots) Substitution at 65',Baboucarr Njie Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,302983,2025-06-01 04:59:44
+13102,726707,10,45343417,76,2,3900,65',0,0,Wolfgang Prentice (Oakland Roots) Substitution at 65',Wolfgang Prentice Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,296278,2025-06-01 04:59:44
+13102,726707,9,45343402,76,2,3900,65',0,0,Baboucarr Njie (Oakland Roots) Substitution at 65',Baboucarr Njie Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,360608,2025-06-01 04:59:44
+13102,726707,10,45343417,76,2,3900,65',0,0,Wolfgang Prentice (Oakland Roots) Substitution at 65',Wolfgang Prentice Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,281589,2025-06-01 04:59:44
+13102,726707,11,45343418,76,2,4020,67',0,0,Alassane Maboumou (AV Alta FC) Substitution at 67',Alassane Maboumou Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,400958,2025-06-01 04:59:44
+13102,726707,11,45343418,76,2,4020,67',0,0,Alassane Maboumou (AV Alta FC) Substitution at 67',Alassane Maboumou Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,400673,2025-06-01 04:59:44
+13102,726707,12,45343422,76,2,4080,68',0,0,Adam Aoumaich (AV Alta FC) Substitution at 68',Adam Aoumaich Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,350483,2025-06-01 04:59:44
+13102,726707,12,45343422,76,2,4080,68',0,0,Adam Aoumaich (AV Alta FC) Substitution at 68',Adam Aoumaich Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,336552,2025-06-01 04:59:44
+13102,726707,13,45343438,94,2,4200,70',0,0,Gagi Margvelashvili (Oakland Roots) Yellow Card at 70',Gagi Margvelashvili Yellow Card,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,289202,2025-06-01 04:59:44
+13102,726707,14,45343457,76,2,4560,76',0,0,Camden Riley (Oakland Roots) Substitution at 76',Camden Riley Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,1,256475,2025-06-01 04:59:44
+13102,726707,14,45343457,76,2,4560,76',0,0,Camden Riley (Oakland Roots) Substitution at 76',Camden Riley Substitution,20687,0.0,0.0,0.0,0.0,0.0,0.0,2,289202,2025-06-01 04:59:44
+13102,726707,15,45343482,76,2,4680,78',0,0,Elijah Martin (AV Alta FC) Substitution at 78',Elijah Martin Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,256471,2025-06-01 04:59:44
+13102,726707,15,45343482,76,2,4680,78',0,0,Elijah Martin (AV Alta FC) Substitution at 78',Elijah Martin Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,403709,2025-06-01 04:59:44
+13102,726707,16,45343483,76,2,4740,79',0,0,Christian Ortiz (AV Alta FC) Substitution at 79',Christian Ortiz Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,95831,2025-06-01 04:59:44
+13102,726707,16,45343483,76,2,4740,79',0,0,Christian Ortiz (AV Alta FC) Substitution at 79',Christian Ortiz Substitution,22526,0.0,0.0,0.0,0.0,0.0,0.0,2,324280,2025-06-01 04:59:44
+13102,726707,17,45343586,70,2,5400,90'+5',1,0,Alassane Maboumou (AV Alta FC) Goal at 95',Alassane Maboumou Goal,22526,0.0,0.0,0.0,0.0,0.0,0.0,1,400958,2025-06-02 04:55:15
+13102,726708,1,45340778,94,1,1260,21',0,0,Matías Romero (Miami FC) Yellow Card at 21',Matías Romero Yellow Card,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,361661,2025-06-01 04:59:44
+13102,726708,1,45340778,94,1,1260,21',0,0,Matías Romero (Miami FC) Yellow Card at 21',Matías Romero Yellow Card,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,335539,2025-06-01 04:59:44
+13102,726708,1,45340778,94,1,1260,21',0,0,Matías Romero (Miami FC) Yellow Card at 21',Matías Romero Yellow Card,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,314354,2025-06-01 04:59:44
+13102,726708,1,45340778,94,1,1260,21',0,0,Matías Romero (Miami FC) Yellow Card at 21',Matías Romero Yellow Card,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,276282,2025-06-01 04:59:44
+13102,726708,2,45340936,94,1,1740,29',0,0,Diego Mercado (Miami FC) Yellow Card at 29',Diego Mercado Yellow Card,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,268844,2025-06-01 04:59:44
+13102,726708,3,45341053,70,1,2160,36',1,0,Jonathan Ricketts (Miami FC) Goal at 36',Jonathan Ricketts Goal,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,302870,2025-06-01 04:59:44
+13102,726708,4,45341201,70,1,2640,44',1,0,Kevin O'Connor (FC Naples) Goal at 44',Kevin O'Connor Goal,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,221410,2025-06-01 04:59:44
+13102,726708,5,45341384,70,2,2820,47',1,0,Julian Cisneros (FC Naples) Goal at 47',Julian Cisneros Goal,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,337046,2025-06-01 04:59:44
+13102,726708,6,45341437,70,2,3000,50',1,0,Diego Mercado (Miami FC) Goal at 50',Diego Mercado Goal,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,268844,2025-06-01 04:59:44
+13102,726708,7,45341558,94,2,3300,55',0,0,Jake Dengler (FC Naples) Yellow Card at 55',Jake Dengler Yellow Card,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,288057,2025-06-01 04:59:44
+13102,726708,8,45341777,76,2,3960,66',0,0,Michael Lawrence (Miami FC) Substitution at 66',Michael Lawrence Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,362159,2025-06-01 04:59:44
+13102,726708,9,45341778,76,2,3960,66',0,0,Francesco Celeste (Miami FC) Substitution at 66',Francesco Celeste Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,196760,2025-06-01 04:59:44
+13102,726708,8,45341777,76,2,3960,66',0,0,Michael Lawrence (Miami FC) Substitution at 66',Michael Lawrence Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,2,172280,2025-06-01 04:59:44
+13102,726708,9,45341778,76,2,3960,66',0,0,Francesco Celeste (Miami FC) Substitution at 66',Francesco Celeste Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,2,309427,2025-06-01 04:59:44
+13102,726708,10,45341878,76,2,4260,71',0,0,Luka Prpa (FC Naples) Substitution at 71',Luka Prpa Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,256396,2025-06-01 04:59:44
+13102,726708,10,45341878,76,2,4260,71',0,0,Luka Prpa (FC Naples) Substitution at 71',Luka Prpa Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,2,337178,2025-06-01 04:59:44
+13102,726708,11,45341998,70,2,4560,76',1,0,Michael Lawrence (Miami FC) Goal at 76',Michael Lawrence Goal,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,362159,2025-06-01 04:59:44
+13102,726708,12,45342047,76,2,4740,79',0,0,Brandon Bent (Miami FC) Substitution at 79',Brandon Bent Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,400972,2025-06-01 04:59:44
+13102,726708,13,45342050,76,2,4740,79',0,0,Tobías Zarate (Miami FC) Substitution at 79',Tobías Zarate Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,1,302025,2025-06-01 04:59:44
+13102,726708,12,45342047,76,2,4740,79',0,0,Brandon Bent (Miami FC) Substitution at 79',Brandon Bent Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,2,76914,2025-06-01 04:59:44
+13102,726708,13,45342050,76,2,4740,79',0,0,Tobías Zarate (Miami FC) Substitution at 79',Tobías Zarate Substitution,18159,0.0,0.0,0.0,0.0,0.0,0.0,2,398994,2025-06-01 04:59:44
+13102,726708,14,45342103,76,2,4920,82',0,0,Justin Weiss (FC Naples) Substitution at 82',Justin Weiss Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,400671,2025-06-01 04:59:44
+13102,726708,14,45342103,76,2,4920,82',0,0,Justin Weiss (FC Naples) Substitution at 82',Justin Weiss Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,2,280823,2025-06-01 04:59:44
+13102,726708,16,45342284,76,2,5340,89',0,0,Ian Cerro (FC Naples) Substitution at 89',Ian Cerro Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,339143,2025-06-01 04:59:44
+13102,726708,15,45342252,76,2,5340,89',0,0,Tyler Pasnik (FC Naples) Substitution at 89',Tyler Pasnik Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,366591,2025-06-01 04:59:44
+13102,726708,16,45342284,76,2,5340,89',0,0,Ian Cerro (FC Naples) Substitution at 89',Ian Cerro Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,2,279774,2025-06-01 04:59:44
+13102,726708,15,45342252,76,2,5340,89',0,0,Tyler Pasnik (FC Naples) Substitution at 89',Tyler Pasnik Substitution,22525,0.0,0.0,0.0,0.0,0.0,0.0,2,295522,2025-06-01 04:59:44
+13102,726708,17,45342395,94,2,5400,90'+4',0,0,Brecc Evans (FC Naples) Yellow Card at 94',Brecc Evans Yellow Card,22525,0.0,0.0,0.0,0.0,0.0,0.0,1,302984,2025-06-01 04:59:44
+13102,726709,1,45339633,70,1,300,5',1,0,Azaad Liadi (Portland Hearts of Pine) Goal at 5',Azaad Liadi Goal,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,316332,2025-06-01 04:59:44
+13102,726709,2,45339700,70,1,1680,28',1,0,Ollie Wright (Portland Hearts of Pine) Goal at 28',Ollie Wright Goal,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,318758,2025-06-01 04:59:44
+13102,726709,5,45339954,76,2,2700,45',0,0,Ben Morris (Detroit City FC) Substitution at 45',Ben Morris Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,123674,2025-06-01 04:59:44
+13102,726709,3,45339801,94,1,2700,45'+2',0,0,Kashope Oladapo (Portland Hearts of Pine) Yellow Card at 47',Kashope Oladapo Yellow Card,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,261517,2025-06-01 04:59:44
+13102,726709,8,45339959,76,2,2700,45',0,0,Mohamed Mohamed (Portland Hearts of Pine) Substitution at 45',Mohamed Mohamed Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,303493,2025-06-01 04:59:44
+13102,726709,6,45339955,76,2,2700,45',0,0,Shane Wiedt (Detroit City FC) Substitution at 45',Shane Wiedt Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,230629,2025-06-01 04:59:44
+13102,726709,7,45339958,76,2,2700,45',0,0,Sebastián Guenzatti (Detroit City FC) Substitution at 45',Sebastián Guenzatti Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,220469,2025-06-01 04:59:44
+13102,726709,4,45339948,76,2,2700,45',0,0,Sean Vinberg (Portland Hearts of Pine) Substitution at 45',Sean Vinberg Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,389331,2025-06-01 04:59:44
+13102,726709,4,45339948,76,2,2700,45',0,0,Sean Vinberg (Portland Hearts of Pine) Substitution at 45',Sean Vinberg Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,2,400672,2025-06-01 04:59:44
+13102,726709,6,45339955,76,2,2700,45',0,0,Shane Wiedt (Detroit City FC) Substitution at 45',Shane Wiedt Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,303618,2025-06-01 04:59:44
+13102,726709,8,45339959,76,2,2700,45',0,0,Mohamed Mohamed (Portland Hearts of Pine) Substitution at 45',Mohamed Mohamed Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,2,313284,2025-06-01 04:59:44
+13102,726709,7,45339958,76,2,2700,45',0,0,Sebastián Guenzatti (Detroit City FC) Substitution at 45',Sebastián Guenzatti Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,337001,2025-06-01 04:59:44
+13102,726709,5,45339954,76,2,2700,45',0,0,Ben Morris (Detroit City FC) Substitution at 45',Ben Morris Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,287359,2025-06-01 04:59:44
+13102,726709,9,45340007,70,2,3120,52',1,0,Sebastián Guenzatti (Detroit City FC) Goal at 52',Sebastián Guenzatti Goal,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,220469,2025-06-01 04:59:44
+13102,726709,10,45340052,76,2,3540,59',0,0,Masashi Wada (Portland Hearts of Pine) Substitution at 59',Masashi Wada Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,238078,2025-06-01 04:59:44
+13102,726709,10,45340052,76,2,3540,59',0,0,Masashi Wada (Portland Hearts of Pine) Substitution at 59',Masashi Wada Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,2,334122,2025-06-01 04:59:44
+13102,726709,11,45340072,76,2,4080,68',0,0,Matthew Sheldon (Detroit City FC) Substitution at 68',Matthew Sheldon Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,254018,2025-06-01 04:59:44
+13102,726709,11,45340072,76,2,4080,68',0,0,Matthew Sheldon (Detroit City FC) Substitution at 68',Matthew Sheldon Substitution,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,384224,2025-06-01 04:59:44
+13102,726709,12,45340083,94,2,4320,72',0,0,Jay Chapman (Detroit City FC) Yellow Card at 72',Jay Chapman Yellow Card,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,159398,2025-06-01 04:59:44
+13102,726709,13,45340106,76,2,4560,76',0,0,Walter Varela (Portland Hearts of Pine) Substitution at 76',Walter Varela Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,337618,2025-06-01 04:59:44
+13102,726709,13,45340106,76,2,4560,76',0,0,Walter Varela (Portland Hearts of Pine) Substitution at 76',Walter Varela Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,2,318758,2025-06-01 04:59:44
+13102,726709,14,45340126,70,2,4740,79',1,0,Walter Varela (Portland Hearts of Pine) Goal at 79',Walter Varela Goal,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,337618,2025-06-01 04:59:44
+13102,726709,15,45340138,76,2,4740,79',0,0,Jordan Adebayo-Smith (Detroit City FC) Substitution at 79',Jordan Adebayo-Smith Substitutio,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,279779,2025-06-01 04:59:44
+13102,726709,15,45340138,76,2,4740,79',0,0,Jordan Adebayo-Smith (Detroit City FC) Substitution at 79',Jordan Adebayo-Smith Substitutio,19179,0.0,0.0,0.0,0.0,0.0,0.0,2,159398,2025-06-01 04:59:44
+13102,726709,16,45340139,70,2,4860,81',1,0,Darren Smith (Detroit City FC) Goal at 81',Darren Smith Goal,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,269073,2025-06-01 04:59:44
+13102,726709,16,45340139,70,2,4860,81',1,0,Darren Smith (Detroit City FC) Goal at 81',Darren Smith Goal,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,228981,2025-06-01 04:59:44
+13102,726709,16,45340139,70,2,4860,81',1,0,Darren Smith (Detroit City FC) Goal at 81',Darren Smith Goal,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,223405,2025-06-01 04:59:44
+13102,726709,16,45340139,70,2,4860,81',1,0,Darren Smith (Detroit City FC) Goal at 81',Darren Smith Goal,19179,0.0,0.0,0.0,0.0,0.0,0.0,1,223322,2025-06-01 04:59:44
+13102,726709,17,45340153,76,2,4920,82',0,0,Titus Washington (Portland Hearts of Pine) Substitution at 82',Titus Washington Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,400676,2025-06-01 04:59:44
+13102,726709,17,45340153,76,2,4920,82',0,0,Titus Washington (Portland Hearts of Pine) Substitution at 82',Titus Washington Substitution,22528,0.0,0.0,0.0,0.0,0.0,0.0,2,316332,2025-06-01 04:59:44
+13102,726709,18,45340180,70,2,5100,85',1,0,Mohamed Mohamed (Portland Hearts of Pine) Goal at 85',Mohamed Mohamed Goal,22528,0.0,0.0,0.0,0.0,0.0,0.0,1,303493,2025-06-01 04:59:44
+13102,726710,1,45339431,94,1,1320,22',0,0,Gerold Ngnepi (Hartford Athletic) Yellow Card at 22',Gerold Ngnepi Yellow Card,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,318487,2025-06-01 04:59:44
+13102,726710,2,45339448,98,1,1440,24',1,0,Juan Carlos Obregón Jr (Westchester SC) Penalty - Scored at 24',Juan Carlos Obregón Jr Penalty -,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,296169,2025-06-01 04:59:44
+13102,726710,3,45339471,76,1,1740,29',0,0,Andrew Jean-Baptiste (Westchester SC) Substitution at 29',Andrew Jean-Baptiste Substitutio,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,171687,2025-06-01 04:59:44
+13102,726710,3,45339471,76,1,1740,29',0,0,Andrew Jean-Baptiste (Westchester SC) Substitution at 29',Andrew Jean-Baptiste Substitutio,22524,0.0,0.0,0.0,0.0,0.0,0.0,2,193663,2025-06-01 04:59:44
+13102,726710,4,45339657,70,2,3060,51',1,0,Samuel Careaga (Hartford Athletic) Goal at 51',Samuel Careaga Goal,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,335672,2025-06-01 04:59:44
+13102,726710,5,45339658,94,2,3180,53',0,0,Sebastian Anderson (Hartford Athletic) Yellow Card at 53',Sebastian Anderson Yellow Card,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,280510,2025-06-01 04:59:44
+13102,726710,6,45339664,94,2,3300,55',0,0,Joseph Farrell (Hartford Athletic) Yellow Card at 55',Joseph Farrell Yellow Card,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,236863,2025-06-01 04:59:44
+13102,726710,7,45339665,98,2,3360,56',1,0,Juan Carlos Obregón Jr (Westchester SC) Penalty - Scored at 56',Juan Carlos Obregón Jr Penalty -,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,296169,2025-06-01 04:59:44
+13102,726710,9,45339686,76,2,3840,64',0,0,Jonathan Bolanos (Westchester SC) Substitution at 64',Jonathan Bolanos Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,38846,2025-06-01 04:59:44
+13102,726710,8,45339677,76,2,3840,64',0,0,Koen Blommestijn (Westchester SC) Substitution at 64',Koen Blommestijn Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,306431,2025-06-01 04:59:44
+13102,726710,8,45339677,76,2,3840,64',0,0,Koen Blommestijn (Westchester SC) Substitution at 64',Koen Blommestijn Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,2,296169,2025-06-01 04:59:44
+13102,726710,9,45339686,76,2,3840,64',0,0,Jonathan Bolanos (Westchester SC) Substitution at 64',Jonathan Bolanos Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,2,281907,2025-06-01 04:59:44
+13102,726710,10,45339697,76,2,3960,66',0,0,Marlon Hairston (Hartford Athletic) Substitution at 66',Marlon Hairston Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,200844,2025-06-01 04:59:44
+13102,726710,10,45339697,76,2,3960,66',0,0,Marlon Hairston (Hartford Athletic) Substitution at 66',Marlon Hairston Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,2,303091,2025-06-01 04:59:44
+13102,726710,11,45339702,94,2,4080,68',0,0,Dieng Mamadou (Hartford Athletic) Yellow Card at 68',Dieng Mamadou Yellow Card,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,381418,2025-06-01 04:59:44
+13102,726710,12,45339704,76,2,4140,69',0,0,Jonathan Jimenez (Hartford Athletic) Substitution at 69',Jonathan Jimenez Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,334150,2025-06-01 04:59:44
+13102,726710,12,45339704,76,2,4140,69',0,0,Jonathan Jimenez (Hartford Athletic) Substitution at 69',Jonathan Jimenez Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,185781,2025-06-01 04:59:44
+13102,726710,12,45339704,76,2,4140,69',0,0,Jonathan Jimenez (Hartford Athletic) Substitution at 69',Jonathan Jimenez Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,141490,2025-06-01 04:59:44
+13102,726710,12,45339704,76,2,4140,69',0,0,Jonathan Jimenez (Hartford Athletic) Substitution at 69',Jonathan Jimenez Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,2,401316,2025-06-01 04:59:44
+13102,726710,13,45339726,70,2,4500,75',1,0,Samuel Careaga (Hartford Athletic) Goal at 75',Samuel Careaga Goal,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,335672,2025-06-01 04:59:44
+13102,726710,14,45339769,76,2,4860,81',0,0,Samory Powder (Westchester SC) Substitution at 81',Samory Powder Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,338526,2025-06-01 04:59:44
+13102,726710,15,45339773,76,2,4860,81',0,0,Ermin Mackic (Westchester SC) Substitution at 81',Ermin Mackic Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,400963,2025-06-01 04:59:44
+13102,726710,14,45339769,76,2,4860,81',0,0,Samory Powder (Westchester SC) Substitution at 81',Samory Powder Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,2,304577,2025-06-01 04:59:44
+13102,726710,15,45339773,76,2,4860,81',0,0,Ermin Mackic (Westchester SC) Substitution at 81',Ermin Mackic Substitution,22524,0.0,0.0,0.0,0.0,0.0,0.0,2,291611,2025-06-01 04:59:44
+13102,726710,16,45339781,94,2,4980,83',0,0,Andrew Jean-Baptiste (Westchester SC) Yellow Card at 83',Andrew Jean-Baptiste Yellow Card,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,171687,2025-06-01 04:59:44
+13102,726710,17,45339807,70,2,5280,88',1,0,Dieng Mamadou (Hartford Athletic) Goal at 88',Dieng Mamadou Goal,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,381418,2025-06-01 04:59:44
+13102,726710,19,45339837,94,2,5400,90'+2',0,0,Jonathan Bolanos (Westchester SC) Yellow Card at 92',Jonathan Bolanos Yellow Card,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,38846,2025-06-01 04:59:44
+13102,726710,20,45339860,94,2,5400,90'+4',0,0,Koen Blommestijn (Westchester SC) Yellow Card at 94',Koen Blommestijn Yellow Card,22524,0.0,0.0,0.0,0.0,0.0,0.0,1,306431,2025-06-01 04:59:44
+13102,726710,18,45339829,76,2,5400,90'+1',0,0,Junior Moreira (Hartford Athletic) Substitution at 91',Junior Moreira Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,1,401317,2025-06-01 04:59:44
+13102,726710,18,45339829,76,2,5400,90'+1',0,0,Junior Moreira (Hartford Athletic) Substitution at 91',Junior Moreira Substitution,19411,0.0,0.0,0.0,0.0,0.0,0.0,2,217985,2025-06-01 04:59:44
+13102,726711,1,45340449,70,1,1080,18',1,0,Michael Adedokun (Lexington) Goal at 18',Michael Adedokun Goal,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,398656,2025-06-01 04:59:44
+13102,726711,2,45340492,94,1,1380,23',0,0,Joe Hafferty (Lexington) Yellow Card at 23',Joe Hafferty Yellow Card,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,254438,2025-06-01 04:59:44
+13102,726711,3,45340525,94,1,1740,29',0,0,Anton Sorenson (Charlotte Independence) Yellow Card at 29',Anton Sorenson Yellow Card,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,304133,2025-06-01 04:59:44
+13102,726711,4,45340572,94,1,2100,35',0,0,Omar Ciss (Charlotte Independence) Yellow Card at 35',Omar Ciss Yellow Card,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,303617,2025-06-01 04:59:44
+13102,726711,5,45340759,94,1,2700,45'+2',0,0,Javen Romero (Charlotte Independence) Yellow Card at 47',Javen Romero Yellow Card,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,326304,2025-06-01 04:59:44
+13102,726711,6,45341154,70,2,3000,50',1,0,Cory Burke (Lexington) Goal at 50',Cory Burke Goal,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,227598,2025-06-01 04:59:44
+13102,726711,7,45341205,94,2,3240,54',0,0,Cory Burke (Lexington) Yellow Card at 54',Cory Burke Yellow Card,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,227598,2025-06-01 04:59:44
+13102,726711,8,45341210,70,2,3300,55',1,0,Christian Chaney (Charlotte Independence) Goal at 55',Christian Chaney Goal,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,254015,2025-06-01 04:59:44
+13102,726711,9,45341340,76,2,4020,67',0,0,Hugo Mbongue (Lexington) Substitution at 67',Hugo Mbongue Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,319427,2025-06-01 04:59:44
+13102,726711,9,45341340,76,2,4020,67',0,0,Hugo Mbongue (Lexington) Substitution at 67',Hugo Mbongue Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,2,227598,2025-06-01 04:59:44
+13102,726711,10,45341351,76,2,4080,68',0,0,Gael Gibert (Lexington) Substitution at 68',Gael Gibert Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,400967,2025-06-01 04:59:44
+13102,726711,11,45341352,76,2,4080,68',0,0,Juan Moreno (Charlotte Independence) Substitution at 68',Juan Moreno Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,227196,2025-06-01 04:59:44
+13102,726711,12,45341353,76,2,4080,68',0,0,Fabrice Ngah (Charlotte Independence) Substitution at 68',Fabrice Ngah Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,254294,2025-06-01 04:59:44
+13102,726711,10,45341351,76,2,4080,68',0,0,Gael Gibert (Lexington) Substitution at 68',Gael Gibert Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,2,398656,2025-06-01 04:59:44
+13102,726711,11,45341352,76,2,4080,68',0,0,Juan Moreno (Charlotte Independence) Substitution at 68',Juan Moreno Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,2,304323,2025-06-01 04:59:44
+13102,726711,12,45341353,76,2,4080,68',0,0,Fabrice Ngah (Charlotte Independence) Substitution at 68',Fabrice Ngah Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,2,304133,2025-06-01 04:59:44
+13102,726711,13,45341354,76,2,4200,70',0,0,Devon Williams (Lexington) Substitution at 70',Devon Williams Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,222782,2025-06-01 04:59:44
+13102,726711,13,45341354,76,2,4200,70',0,0,Devon Williams (Lexington) Substitution at 70',Devon Williams Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,2,333740,2025-06-01 04:59:44
+13102,726711,14,45341406,76,2,4500,75',0,0,Jon Bakero (Charlotte Independence) Substitution at 75',Jon Bakero Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,249719,2025-06-01 04:59:44
+13102,726711,14,45341406,76,2,4500,75',0,0,Jon Bakero (Charlotte Independence) Substitution at 75',Jon Bakero Substitution,17826,0.0,0.0,0.0,0.0,0.0,0.0,2,360319,2025-06-01 04:59:44
+13102,726711,15,45341458,76,2,4680,78',0,0,Eliot Goldthorp (Lexington) Substitution at 78',Eliot Goldthorp Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,280669,2025-06-01 04:59:44
+13102,726711,16,45341482,76,2,4680,78',0,0,Jacob Greene (Lexington) Substitution at 78',Jacob Greene Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,289449,2025-06-01 04:59:44
+13102,726711,16,45341482,76,2,4680,78',0,0,Jacob Greene (Lexington) Substitution at 78',Jacob Greene Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,2,398193,2025-06-01 04:59:44
+13102,726711,15,45341458,76,2,4680,78',0,0,Eliot Goldthorp (Lexington) Substitution at 78',Eliot Goldthorp Substitution,21822,0.0,0.0,0.0,0.0,0.0,0.0,2,381420,2025-06-01 04:59:44
+13102,726711,17,45341573,93,2,4920,82',0,0,Nicolas Firmino (Lexington) Red Card at 82',Nicolas Firmino Red Card,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,284636,2025-06-01 04:59:44
+13102,726711,18,45341739,94,2,5400,90',0,0,Nick Spielman (Charlotte Independence) Yellow Card at 90',Nick Spielman Yellow Card,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,339148,2025-06-01 04:59:44
+13102,726711,20,45341784,70,2,5400,90'+3',1,0,Christian Chaney (Charlotte Independence) Goal at 93',Christian Chaney Goal,17826,0.0,0.0,0.0,0.0,0.0,0.0,1,254015,2025-06-01 04:59:44
+13102,726711,19,45341759,94,2,5400,90'+2',0,0,Marcus Epps (Lexington) Yellow Card at 92',Marcus Epps Yellow Card,21822,0.0,0.0,0.0,0.0,0.0,0.0,1,242993,2025-06-01 04:59:44
+13102,726712,1,45340307,70,1,120,2',1,0,Matthew Bentley (Chattanooga Red Wolves) Goal at 2',Matthew Bentley Goal,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,302930,2025-06-01 04:59:44
+13102,726712,2,45340637,94,1,2400,40',0,0,Damià Viader (Forward Madison FC) Yellow Card at 40',Damià Viader Yellow Card,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,316343,2025-06-01 04:59:44
+13102,726712,3,45340676,94,1,2580,43',0,0,John Murphy Jr. (Forward Madison FC) Yellow Card at 43',John Murphy Jr. Yellow Card,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,23425,2025-06-01 04:59:44
+13102,726712,5,45341023,76,2,2700,45',0,0,José Carrera-Garcia (Forward Madison FC) Substitution at 45',José Carrera-Garcia Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,256487,2025-06-01 04:59:44
+13102,726712,4,45341022,76,2,2700,45',0,0,Gharett Morris (Chattanooga Red Wolves) Substitution at 45',Gharett Morris Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,360568,2025-06-01 04:59:44
+13102,726712,4,45341022,76,2,2700,45',0,0,Gharett Morris (Chattanooga Red Wolves) Substitution at 45',Gharett Morris Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,242652,2025-06-01 04:59:44
+13102,726712,5,45341023,76,2,2700,45',0,0,José Carrera-Garcia (Forward Madison FC) Substitution at 45',José Carrera-Garcia Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,2,288236,2025-06-01 04:59:44
+13102,726712,6,45341024,94,2,2760,46',0,0,Omar Gómez (Chattanooga Red Wolves) Yellow Card at 46',Omar Gómez Yellow Card,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,3400,2025-06-01 04:59:44
+13102,726712,7,45341105,76,2,3120,52',0,0,Owen Green (Chattanooga Red Wolves) Substitution at 52',Owen Green Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,338831,2025-06-01 04:59:44
+13102,726712,7,45341105,76,2,3120,52',0,0,Owen Green (Chattanooga Red Wolves) Substitution at 52',Owen Green Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,3400,2025-06-01 04:59:44
+13102,726712,8,45341258,76,2,3720,62',0,0,Ferrety Sousa (Forward Madison FC) Substitution at 62',Ferrety Sousa Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,220460,2025-06-01 04:59:44
+13102,726712,9,45341271,76,2,3720,62',0,0,Nazeem Bartman (Forward Madison FC) Substitution at 62',Nazeem Bartman Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,243006,2025-06-01 04:59:44
+13102,726712,9,45341271,76,2,3720,62',0,0,Nazeem Bartman (Forward Madison FC) Substitution at 62',Nazeem Bartman Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,2,291253,2025-06-01 04:59:44
+13102,726712,8,45341258,76,2,3720,62',0,0,Ferrety Sousa (Forward Madison FC) Substitution at 62',Ferrety Sousa Substitution,19995,0.0,0.0,0.0,0.0,0.0,0.0,2,288047,2025-06-01 04:59:44
+13102,726712,10,45341328,76,2,4080,68',0,0,Zahir Vasquez (Chattanooga Red Wolves) Substitution at 68',Zahir Vasquez Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,350564,2025-06-01 04:59:44
+13102,726712,10,45341328,76,2,4080,68',0,0,Zahir Vasquez (Chattanooga Red Wolves) Substitution at 68',Zahir Vasquez Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,288012,2025-06-01 04:59:44
+13102,726712,11,45341344,98,2,4260,71',1,0,Devin Boyce (Forward Madison FC) Penalty - Scored at 71',Devin Boyce Penalty - Scored,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,316342,2025-06-01 04:59:44
+13102,726712,12,45341424,94,2,4680,78',0,0,Ferrety Sousa (Forward Madison FC) Yellow Card at 78',Ferrety Sousa Yellow Card,19995,0.0,0.0,0.0,0.0,0.0,0.0,1,220460,2025-06-01 04:59:44
+13102,726712,14,45341449,76,2,4740,79',0,0,Alhassan (Chattanooga Red Wolves) Substitution at 79',Alhassan Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,402247,2025-06-01 04:59:44
+13102,726712,13,45341448,76,2,4740,79',0,0,Yanis Lelin (Chattanooga Red Wolves) Substitution at 79',Yanis Lelin Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,1,324965,2025-06-01 04:59:44
+13102,726712,14,45341449,76,2,4740,79',0,0,Alhassan (Chattanooga Red Wolves) Substitution at 79',Alhassan Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,338759,2025-06-01 04:59:44
+13102,726712,14,45341449,76,2,4740,79',0,0,Alhassan (Chattanooga Red Wolves) Substitution at 79',Alhassan Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,298723,2025-06-01 04:59:44
+13102,726712,13,45341448,76,2,4740,79',0,0,Yanis Lelin (Chattanooga Red Wolves) Substitution at 79',Yanis Lelin Substitution,20000,0.0,0.0,0.0,0.0,0.0,0.0,2,337096,2025-06-01 04:59:44
+13102,726713,1,45342542,70,1,1920,32',1,0,Quenzi Huerman (Colorado Springs Switchbacks FC) Goal at 32',Quenzi Huerman Goal,17830,0.0,0.0,0.0,0.0,0.0,0.0,1,381416,2025-06-01 04:59:44
+13102,726713,2,45342581,94,1,2460,41',0,0,Quenzi Huerman (Colorado Springs Switchbacks FC) Yellow Card at 41',Quenzi Huerman Yellow Card,17830,0.0,0.0,0.0,0.0,0.0,0.0,1,381416,2025-06-01 04:59:44
+13102,726713,4,45342917,76,2,3600,60',0,0,Anthony Fontana (Colorado Springs Switchbacks FC) Substitution at 60',Anthony Fontana Substitution,17830,0.0,0.0,0.0,0.0,0.0,0.0,1,255419,2025-06-01 04:59:44
+13102,726713,3,45342916,76,2,3600,60',0,0,Matthew Real (Colorado Springs Switchbacks FC) Substitution at 60',Matthew Real Substitution,17830,0.0,0.0,0.0,0.0,0.0,0.0,1,252812,2025-06-01 04:59:44
+13102,726713,3,45342916,76,2,3600,60',0,0,Matthew Real (Colorado Springs Switchbacks FC) Substitution at 60',Matthew Real Substitution,17830,0.0,0.0,0.0,0.0,0.0,0.0,2,336999,2025-06-01 04:59:44
+13102,726713,4,45342917,76,2,3600,60',0,0,Anthony Fontana (Colorado Springs Switchbacks FC) Substitution at 60',Anthony Fontana Substitution,17830,0.0,0.0,0.0,0.0,0.0,0.0,2,381416,2025-06-01 04:59:44
+13102,726713,5,45342945,76,2,3840,64',0,0,Wilmer Cabrera (El Paso Locomotive FC) Substitution at 64',Wilmer Cabrera Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,82287,2025-06-01 04:59:44
+13102,726713,6,45342946,76,2,3840,64',0,0,Ricky Ruiz (El Paso Locomotive FC) Substitution at 64',Ricky Ruiz Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,273871,2025-06-01 04:59:44
+13102,726713,8,45342958,76,2,3840,64',0,0,Frank Daroma (El Paso Locomotive FC) Substitution at 64',Frank Daroma Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,318798,2025-06-01 04:59:44
+13102,726713,7,45342947,76,2,3840,64',0,0,Amando Moreno (El Paso Locomotive FC) Substitution at 64',Amando Moreno Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,183750,2025-06-01 04:59:44
+13102,726713,7,45342947,76,2,3840,64',0,0,Amando Moreno (El Paso Locomotive FC) Substitution at 64',Amando Moreno Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,126244,2025-06-01 04:59:44
+13102,726713,6,45342946,76,2,3840,64',0,0,Ricky Ruiz (El Paso Locomotive FC) Substitution at 64',Ricky Ruiz Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,383870,2025-06-01 04:59:44
+13102,726713,6,45342946,76,2,3840,64',0,0,Ricky Ruiz (El Paso Locomotive FC) Substitution at 64',Ricky Ruiz Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,300443,2025-06-01 04:59:44
+13102,726713,6,45342946,76,2,3840,64',0,0,Ricky Ruiz (El Paso Locomotive FC) Substitution at 64',Ricky Ruiz Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,222209,2025-06-01 04:59:44
+13102,726713,5,45342945,76,2,3840,64',0,0,Wilmer Cabrera (El Paso Locomotive FC) Substitution at 64',Wilmer Cabrera Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,188112,2025-06-01 04:59:44
+13102,726713,8,45342958,76,2,3840,64',0,0,Frank Daroma (El Paso Locomotive FC) Substitution at 64',Frank Daroma Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,267350,2025-06-01 04:59:44
+13102,726713,9,45342991,94,2,4200,70',0,0,Robert Coronado (El Paso Locomotive FC) Yellow Card at 70',Robert Coronado Yellow Card,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,286746,2025-06-01 04:59:44
+13102,726713,10,45343007,94,2,4200,70',0,0,Garven-Michee Metusala (Colorado Springs Switchbacks FC) Yellow Card at 70',Garven-Michee Metusala Yellow Ca,17830,0.0,0.0,0.0,0.0,0.0,0.0,1,320621,2025-06-01 04:59:44
+13102,726713,11,45343012,94,2,4260,71',0,0,Amando Moreno (El Paso Locomotive FC) Yellow Card at 71',Amando Moreno Yellow Card,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,183750,2025-06-01 04:59:44
+13102,726713,12,45343018,76,2,4500,75',0,0,Justin Dhillon (Colorado Springs Switchbacks FC) Substitution at 75',Justin Dhillon Substitution,17830,0.0,0.0,0.0,0.0,0.0,0.0,1,220523,2025-06-01 04:59:44
+13102,726713,12,45343018,76,2,4500,75',0,0,Justin Dhillon (Colorado Springs Switchbacks FC) Substitution at 75',Justin Dhillon Substitution,17830,0.0,0.0,0.0,0.0,0.0,0.0,2,296431,2025-06-01 04:59:44
+13102,726713,13,45343034,94,2,4560,76',0,0,Marco Micaletto (Colorado Springs Switchbacks FC) Yellow Card at 76',Marco Micaletto Yellow Card,17830,0.0,0.0,0.0,0.0,0.0,0.0,1,256234,2025-06-01 04:59:44
+13102,726713,14,45343054,76,2,4740,79',0,0,Omar Mora (El Paso Locomotive FC) Substitution at 79',Omar Mora Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,1,112829,2025-06-01 04:59:44
+13102,726713,14,45343054,76,2,4740,79',0,0,Omar Mora (El Paso Locomotive FC) Substitution at 79',Omar Mora Substitution,19407,0.0,0.0,0.0,0.0,0.0,0.0,2,287971,2025-06-01 04:59:44
+13102,726713,15,45343078,94,2,5040,84',0,0,Justin Dhillon (Colorado Springs Switchbacks FC) Yellow Card at 84',Justin Dhillon Yellow Card,17830,0.0,0.0,0.0,0.0,0.0,0.0,1,220523,2025-06-01 04:59:44
+13102,726713,16,45343100,94,2,5220,87',0,0,Aidan Rocha (Colorado Springs Switchbacks FC) Yellow Card at 87',Aidan Rocha Yellow Card,17830,0.0,0.0,0.0,0.0,0.0,0.0,1,296230,2025-06-01 04:59:44
+13102,726714,1,45341596,94,1,900,15',0,0,Boubacar Diallo (FC Tulsa) Yellow Card at 15',Boubacar Diallo Yellow Card,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,24020,2025-06-01 04:59:44
+13102,726714,2,45342580,94,2,3060,51',0,0,Marcos Serrato (FC Tulsa) Yellow Card at 51',Marcos Serrato Yellow Card,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,203858,2025-06-01 04:59:44
+13102,726714,3,45342651,98,2,3540,59',1,0,Ronaldo Damus (Birmingham Legion FC) Penalty - Scored at 59',Ronaldo Damus Penalty - Scored,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,245140,2025-06-01 04:59:44
+13102,726714,4,45342904,94,2,3540,59',0,0,Johan Penaranda (FC Tulsa) Yellow Card at 59',Johan Penaranda Yellow Card,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,293816,2025-06-01 04:59:44
+13102,726714,5,45342668,94,2,3600,60',0,0,Preston Tabortetaka (Birmingham Legion FC) Yellow Card at 60',Preston Tabortetaka Yellow Card,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,257381,2025-06-01 04:59:44
+13102,726714,7,45342687,76,2,3660,61',0,0,Giordano Colli (FC Tulsa) Substitution at 61',Giordano Colli Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,310557,2025-06-01 04:59:44
+13102,726714,6,45342673,76,2,3660,61',0,0,Stefan Lukic (FC Tulsa) Substitution at 61',Stefan Lukic Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,339839,2025-06-01 04:59:44
+13102,726714,7,45342687,76,2,3660,61',0,0,Giordano Colli (FC Tulsa) Substitution at 61',Giordano Colli Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,2,203858,2025-06-01 04:59:44
+13102,726714,6,45342673,76,2,3660,61',0,0,Stefan Lukic (FC Tulsa) Substitution at 61',Stefan Lukic Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,2,381688,2025-06-01 04:59:44
+13102,726714,8,45342693,70,2,3720,62',1,0,Kalil ElMedkhar (FC Tulsa) Goal at 62',Kalil ElMedkhar Goal,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,264411,2025-06-01 04:59:44
+13102,726714,9,45342737,70,2,4080,68',1,0,Sebastian Tregarthen (Birmingham Legion FC) Goal at 68',Sebastian Tregarthen Goal,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,381970,2025-06-01 04:59:44
+13102,726714,10,45342747,76,2,4140,69',0,0,Alex Dalou (FC Tulsa) Substitution at 69',Alex Dalou Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,361245,2025-06-01 04:59:44
+13102,726714,12,45342749,76,2,4140,69',0,0,Daniel Trejo (Birmingham Legion FC) Substitution at 69',Daniel Trejo Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,288146,2025-06-01 04:59:44
+13102,726714,11,45342748,76,2,4140,69',0,0,Roman Torres (Birmingham Legion FC) Substitution at 69',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,358389,2025-06-01 04:59:44
+13102,726714,11,45342748,76,2,4140,69',0,0,Roman Torres (Birmingham Legion FC) Substitution at 69',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,318381,2025-06-01 04:59:44
+13102,726714,11,45342748,76,2,4140,69',0,0,Roman Torres (Birmingham Legion FC) Substitution at 69',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,120417,2025-06-01 04:59:44
+13102,726714,11,45342748,76,2,4140,69',0,0,Roman Torres (Birmingham Legion FC) Substitution at 69',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,403151,2025-06-01 04:59:44
+13102,726714,11,45342748,76,2,4140,69',0,0,Roman Torres (Birmingham Legion FC) Substitution at 69',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,399670,2025-06-01 04:59:44
+13102,726714,11,45342748,76,2,4140,69',0,0,Roman Torres (Birmingham Legion FC) Substitution at 69',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,173742,2025-06-01 04:59:44
+13102,726714,11,45342748,76,2,4140,69',0,0,Roman Torres (Birmingham Legion FC) Substitution at 69',Roman Torres Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,171796,2025-06-01 04:59:44
+13102,726714,10,45342747,76,2,4140,69',0,0,Alex Dalou (FC Tulsa) Substitution at 69',Alex Dalou Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,2,141815,2025-06-01 04:59:44
+13102,726714,12,45342749,76,2,4140,69',0,0,Daniel Trejo (Birmingham Legion FC) Substitution at 69',Daniel Trejo Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,381970,2025-06-01 04:59:44
+13102,726714,13,45342750,76,2,4200,70',0,0,Tyler Pasher (Birmingham Legion FC) Substitution at 70',Tyler Pasher Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,159387,2025-06-01 04:59:44
+13102,726714,13,45342750,76,2,4200,70',0,0,Tyler Pasher (Birmingham Legion FC) Substitution at 70',Tyler Pasher Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,257381,2025-06-01 04:59:44
+13102,726714,15,45342816,94,2,4680,78',0,0,Samuel McIllhatton (Birmingham Legion FC) Yellow Card at 78',Samuel McIllhatton Yellow Card,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,259491,2025-06-01 04:59:44
+13102,726714,14,45342807,76,2,4680,78',0,0,Andrew Booth (FC Tulsa) Substitution at 78',Andrew Booth Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,229863,2025-06-01 04:59:44
+13102,726714,16,45342817,76,2,4680,78',0,0,Lucas Stauffer (FC Tulsa) Substitution at 78',Lucas Stauffer Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,1,253252,2025-06-01 04:59:44
+13102,726714,14,45342807,76,2,4680,78',0,0,Andrew Booth (FC Tulsa) Substitution at 78',Andrew Booth Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,2,24020,2025-06-01 04:59:44
+13102,726714,16,45342817,76,2,4680,78',0,0,Lucas Stauffer (FC Tulsa) Substitution at 78',Lucas Stauffer Substitution,18446,0.0,0.0,0.0,0.0,0.0,0.0,2,245519,2025-06-01 04:59:44
+13102,726714,17,45342827,76,2,4800,80',0,0,Kameron Lacey (Birmingham Legion FC) Substitution at 80',Kameron Lacey Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,299518,2025-06-01 04:59:44
+13102,726714,17,45342827,76,2,4800,80',0,0,Kameron Lacey (Birmingham Legion FC) Substitution at 80',Kameron Lacey Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,245140,2025-06-01 04:59:44
+13102,726714,18,45342869,76,2,5220,87',0,0,Ereku Temitayo (Birmingham Legion FC) Substitution at 87',Ereku Temitayo Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,1,401240,2025-06-01 04:59:44
+13102,726714,18,45342869,76,2,5220,87',0,0,Ereku Temitayo (Birmingham Legion FC) Substitution at 87',Ereku Temitayo Substitution,19405,0.0,0.0,0.0,0.0,0.0,0.0,2,259491,2025-06-01 04:59:44
+13102,726715,1,45340023,70,1,840,14',1,0,Abdellatif Aboukoura (Loudoun United FC) Goal at 14',Abdellatif Aboukoura Goal,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,318549,2025-06-01 04:59:44
+13102,726715,2,45340057,70,1,1200,20',1,0,Adrien Perez (Louisville City FC) Goal at 20',Adrien Perez Goal,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,274109,2025-06-01 04:59:44
+13102,726715,3,45340074,94,1,1680,28',0,0,Aiden Mcfadden (Louisville City FC) Yellow Card at 28',Aiden Mcfadden Yellow Card,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,267206,2025-06-01 04:59:44
+13102,726715,4,45340078,94,1,1680,28',0,0,Florian Valot (Loudoun United FC) Yellow Card at 28',Florian Valot Yellow Card,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,246776,2025-06-01 04:59:44
+13102,726715,6,45340340,76,2,2700,45',0,0,Evan Davila (Louisville City FC) Substitution at 45',Evan Davila Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,381586,2025-06-01 04:59:44
+13102,726715,5,45340322,76,2,2700,45',0,0,Amadou Dia (Louisville City FC) Substitution at 45',Amadou Dia Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,217145,2025-06-01 04:59:44
+13102,726715,5,45340322,76,2,2700,45',0,0,Amadou Dia (Louisville City FC) Substitution at 45',Amadou Dia Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,2,271808,2025-06-01 04:59:44
+13102,726715,6,45340340,76,2,2700,45',0,0,Evan Davila (Louisville City FC) Substitution at 45',Evan Davila Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,2,279101,2025-06-01 04:59:44
+13102,726715,7,45340383,76,2,3120,52',0,0,Niall McCabe (Louisville City FC) Substitution at 52',Niall McCabe Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,220435,2025-06-01 04:59:44
+13102,726715,7,45340383,76,2,3120,52',0,0,Niall McCabe (Louisville City FC) Substitution at 52',Niall McCabe Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,2,252540,2025-06-01 04:59:44
+13102,726715,8,45340455,70,2,3540,59',1,0,Zachary Ryan (Loudoun United FC) Goal at 59',Zachary Ryan Goal,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,252817,2025-06-01 04:59:44
+13102,726715,10,45340520,76,2,4080,68',0,0,Ben Mines (Loudoun United FC) Substitution at 68',Ben Mines Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,252814,2025-06-01 04:59:44
+13102,726715,9,45340508,76,2,4080,68',0,0,Riley Bidois (Loudoun United FC) Substitution at 68',Riley Bidois Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,339118,2025-06-01 04:59:44
+13102,726715,10,45340520,76,2,4080,68',0,0,Ben Mines (Loudoun United FC) Substitution at 68',Ben Mines Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,385615,2025-06-01 04:59:44
+13102,726715,10,45340520,76,2,4080,68',0,0,Ben Mines (Loudoun United FC) Substitution at 68',Ben Mines Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,370133,2025-06-01 04:59:44
+13102,726715,10,45340520,76,2,4080,68',0,0,Ben Mines (Loudoun United FC) Substitution at 68',Ben Mines Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,355525,2025-06-01 04:59:44
+13102,726715,10,45340520,76,2,4080,68',0,0,Ben Mines (Loudoun United FC) Substitution at 68',Ben Mines Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,271447,2025-06-01 04:59:44
+13102,726715,10,45340520,76,2,4080,68',0,0,Ben Mines (Loudoun United FC) Substitution at 68',Ben Mines Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,198678,2025-06-01 04:59:44
+13102,726715,10,45340520,76,2,4080,68',0,0,Ben Mines (Loudoun United FC) Substitution at 68',Ben Mines Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,177694,2025-06-01 04:59:44
+13102,726715,9,45340508,76,2,4080,68',0,0,Riley Bidois (Loudoun United FC) Substitution at 68',Riley Bidois Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,252817,2025-06-01 04:59:44
+13102,726715,11,45340531,76,2,4260,71',0,0,Isaac Cano (Louisville City FC) Substitution at 71',Isaac Cano Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,360092,2025-06-01 04:59:44
+13102,726715,11,45340531,76,2,4260,71',0,0,Isaac Cano (Louisville City FC) Substitution at 71',Isaac Cano Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,2,274109,2025-06-01 04:59:44
+13102,726715,12,45340566,94,2,4560,76',0,0,Sean Totsch (Louisville City FC) Yellow Card at 76',Sean Totsch Yellow Card,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,220387,2025-06-01 04:59:44
+13102,726715,13,45340585,94,2,4620,77',0,0,Kwame Awuah (Loudoun United FC) Yellow Card at 77',Kwame Awuah Yellow Card,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,253497,2025-06-01 04:59:44
+13102,726715,14,45340629,94,2,4740,79',0,0,Thomas McCabe (Loudoun United FC) Yellow Card at 79',Thomas McCabe Yellow Card,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,225614,2025-06-01 04:59:44
+13102,726715,15,45340657,94,2,4980,83',0,0,Ben Mines (Loudoun United FC) Yellow Card at 83',Ben Mines Yellow Card,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,252814,2025-06-01 04:59:44
+13102,726715,17,45340685,76,2,4980,83',0,0,Josh Jones (Louisville City FC) Substitution at 83',Josh Jones Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,400974,2025-06-01 04:59:44
+13102,726715,17,45340685,76,2,4980,83',0,0,Josh Jones (Louisville City FC) Substitution at 83',Josh Jones Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,326800,2025-06-01 04:59:44
+13102,726715,17,45340685,76,2,4980,83',0,0,Josh Jones (Louisville City FC) Substitution at 83',Josh Jones Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,179622,2025-06-01 04:59:44
+13102,726715,16,45340658,94,2,4980,83',0,0,Kyle Adams (Louisville City FC) Yellow Card at 83',Kyle Adams Yellow Card,17832,0.0,0.0,0.0,0.0,0.0,0.0,1,246738,2025-06-01 04:59:44
+13102,726715,17,45340685,76,2,4980,83',0,0,Josh Jones (Louisville City FC) Substitution at 83',Josh Jones Substitution,17832,0.0,0.0,0.0,0.0,0.0,0.0,2,293822,2025-06-01 04:59:44
+13102,726715,18,45340715,76,2,5100,85',0,0,Robert Dambrot (Loudoun United FC) Substitution at 85',Robert Dambrot Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,1,291685,2025-06-01 04:59:44
+13102,726715,18,45340715,76,2,5100,85',0,0,Robert Dambrot (Loudoun United FC) Substitution at 85',Robert Dambrot Substitution,19410,0.0,0.0,0.0,0.0,0.0,0.0,2,318549,2025-06-01 04:59:44
+13102,726716,1,45340049,94,1,1020,17',0,0,Tyler Polak (Greenville Triumph) Yellow Card at 17',Tyler Polak Yellow Card,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,171649,2025-06-01 04:59:44
+13102,726716,2,45340171,70,1,2640,44',1,0,Ben Zakowski (Greenville Triumph) Goal at 44',Ben Zakowski Goal,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,381433,2025-06-01 04:59:44
+13102,726716,3,45340315,76,2,2700,45',0,0,Michael Edwards (Charleston Battery) Substitution at 45',Michael Edwards Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,66579,2025-06-01 04:59:44
+13102,726716,4,45340316,76,2,2700,45',0,0,Toby Sims (Greenville Triumph) Substitution at 45',Toby Sims Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,337071,2025-06-01 04:59:44
+13102,726716,5,45340325,76,2,2700,45',0,0,Evan Lee (Greenville Triumph) Substitution at 45',Evan Lee Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,236639,2025-06-01 04:59:44
+13102,726716,4,45340316,76,2,2700,45',0,0,Toby Sims (Greenville Triumph) Substitution at 45',Toby Sims Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,2,308817,2025-06-01 04:59:44
+13102,726716,5,45340325,76,2,2700,45',0,0,Evan Lee (Greenville Triumph) Substitution at 45',Evan Lee Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,2,324971,2025-06-01 04:59:44
+13102,726716,3,45340315,76,2,2700,45',0,0,Michael Edwards (Charleston Battery) Substitution at 45',Michael Edwards Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,2,271826,2025-06-01 04:59:44
+13102,726716,6,45340440,76,2,3540,59',0,0,Ezekiel Soto (Greenville Triumph) Substitution at 59',Ezekiel Soto Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,372118,2025-06-01 04:59:44
+13102,726716,6,45340440,76,2,3540,59',0,0,Ezekiel Soto (Greenville Triumph) Substitution at 59',Ezekiel Soto Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,2,288064,2025-06-01 04:59:44
+13102,726716,7,45340463,76,2,3720,62',0,0,Chris Allan (Charleston Battery) Substitution at 62',Chris Allan Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,113439,2025-06-01 04:59:44
+13102,726716,7,45340463,76,2,3720,62',0,0,Chris Allan (Charleston Battery) Substitution at 62',Chris Allan Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,2,319259,2025-06-01 04:59:44
+13102,726716,10,45340466,76,2,3780,63',0,0,Devin Benton (Greenville Triumph) Substitution at 63',Devin Benton Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,325969,2025-06-01 04:59:44
+13102,726716,8,45340464,76,2,3780,63',0,0,Arturo Rodriguez (Charleston Battery) Substitution at 63',Arturo Rodriguez Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,403699,2025-06-01 04:59:44
+13102,726716,8,45340464,76,2,3780,63',0,0,Arturo Rodriguez (Charleston Battery) Substitution at 63',Arturo Rodriguez Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,303086,2025-06-01 04:59:44
+13102,726716,8,45340464,76,2,3780,63',0,0,Arturo Rodriguez (Charleston Battery) Substitution at 63',Arturo Rodriguez Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,197601,2025-06-01 04:59:44
+13102,726716,9,45340465,76,2,3780,63',0,0,Matt Myers (Charleston Battery) Substitution at 63',Matt Myers Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,380211,2025-06-01 04:59:44
+13102,726716,10,45340466,76,2,3780,63',0,0,Devin Benton (Greenville Triumph) Substitution at 63',Devin Benton Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,2,361322,2025-06-01 04:59:44
+13102,726716,8,45340464,76,2,3780,63',0,0,Arturo Rodriguez (Charleston Battery) Substitution at 63',Arturo Rodriguez Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,2,263547,2025-06-01 04:59:44
+13102,726716,9,45340465,76,2,3780,63',0,0,Matt Myers (Charleston Battery) Substitution at 63',Matt Myers Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,2,256421,2025-06-01 04:59:44
+13102,726716,11,45340524,94,2,4320,72',0,0,Aaron Molloy (Charleston Battery) Yellow Card at 72',Aaron Molloy Yellow Card,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,257202,2025-06-01 04:59:44
+13102,726716,12,45340544,94,2,4500,75',0,0,Ezekiel Soto (Greenville Triumph) Yellow Card at 75',Ezekiel Soto Yellow Card,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,372118,2025-06-01 04:59:44
+13102,726716,13,45340560,76,2,4680,78',0,0,Langston Blackstock (Charleston Battery) Substitution at 78',Langston Blackstock Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,1,280917,2025-06-01 04:59:44
+13102,726716,13,45340560,76,2,4680,78',0,0,Langston Blackstock (Charleston Battery) Substitution at 78',Langston Blackstock Substitution,9729,0.0,0.0,0.0,0.0,0.0,0.0,2,189977,2025-06-01 04:59:44
+13102,726716,14,45340683,76,2,5160,86',0,0,Ropapa Mensah (Greenville Triumph) Substitution at 86',Ropapa Mensah Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,1,254297,2025-06-01 04:59:44
+13102,726716,14,45340683,76,2,5160,86',0,0,Ropapa Mensah (Greenville Triumph) Substitution at 86',Ropapa Mensah Substitution,19964,0.0,0.0,0.0,0.0,0.0,0.0,2,121216,2025-06-01 04:59:44
+13102,726717,1,45342881,94,1,960,16',0,0,Sami Guediri (Monterey Bay) Yellow Card at 16',Sami Guediri Yellow Card,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,287963,2025-06-01 04:59:44
+13102,726717,2,45342970,70,1,1620,27',1,0,Pedro Guimaraes (Orange County SC) Goal at 27',Pedro Guimaraes Goal,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,388567,2025-06-01 04:59:44
+13102,726717,3,45343011,94,1,1920,32',0,0,Carlos Guzmán (Monterey Bay) Yellow Card at 32',Carlos Guzmán Yellow Card,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,394919,2025-06-01 04:59:44
+13102,726717,3,45343011,94,1,1920,32',0,0,Carlos Guzmán (Monterey Bay) Yellow Card at 32',Carlos Guzmán Yellow Card,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,168260,2025-06-01 04:59:44
+13102,726717,4,45343023,70,1,2160,36',1,0,Paul Gindiri (Monterey Bay) Goal at 36',Paul Gindiri Goal,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,286797,2025-06-01 04:59:44
+13102,726717,5,45343175,76,2,2700,45',0,0,Grant Robinson (Monterey Bay) Substitution at 45',Grant Robinson Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,208370,2025-06-01 04:59:44
+13102,726717,5,45343175,76,2,2700,45',0,0,Grant Robinson (Monterey Bay) Substitution at 45',Grant Robinson Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,2,287963,2025-06-01 04:59:44
+13102,726717,6,45343194,94,2,3060,51',0,0,Pedro Guimaraes (Orange County SC) Yellow Card at 51',Pedro Guimaraes Yellow Card,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,388567,2025-06-01 04:59:44
+13102,726717,8,45343275,76,2,3720,62',0,0,Diego Gutiérrez (Monterey Bay) Substitution at 62',Diego Gutiérrez Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,82672,2025-06-01 04:59:44
+13102,726717,8,45343275,76,2,3720,62',0,0,Diego Gutiérrez (Monterey Bay) Substitution at 62',Diego Gutiérrez Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,339012,2025-06-01 04:59:44
+13102,726717,8,45343275,76,2,3720,62',0,0,Diego Gutiérrez (Monterey Bay) Substitution at 62',Diego Gutiérrez Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,336548,2025-06-01 04:59:44
+13102,726717,8,45343275,76,2,3720,62',0,0,Diego Gutiérrez (Monterey Bay) Substitution at 62',Diego Gutiérrez Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,312084,2025-06-01 04:59:44
+13102,726717,7,45343273,76,2,3720,62',0,0,Xavi Gnaulati (Monterey Bay) Substitution at 62',Xavi Gnaulati Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,318485,2025-06-01 04:59:44
+13102,726717,8,45343275,76,2,3720,62',0,0,Diego Gutiérrez (Monterey Bay) Substitution at 62',Diego Gutiérrez Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,2,337068,2025-06-01 04:59:44
+13102,726717,7,45343273,76,2,3720,62',0,0,Xavi Gnaulati (Monterey Bay) Substitution at 62',Xavi Gnaulati Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,2,385517,2025-06-01 04:59:44
+13102,726717,9,45343280,70,2,4020,67',1,0,Paul Gindiri (Monterey Bay) Goal at 67',Paul Gindiri Goal,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,286797,2025-06-01 04:59:44
+13102,726717,11,45343284,76,2,4080,68',0,0,Benjamin Barjolo (Orange County SC) Substitution at 68',Benjamin Barjolo Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,369873,2025-06-01 04:59:44
+13102,726717,10,45343283,76,2,4080,68',0,0,Mouhamadou War (Orange County SC) Substitution at 68',Mouhamadou War Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,382412,2025-06-01 04:59:44
+13102,726717,11,45343284,76,2,4080,68',0,0,Benjamin Barjolo (Orange County SC) Substitution at 68',Benjamin Barjolo Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,2,350873,2025-06-01 04:59:44
+13102,726717,10,45343283,76,2,4080,68',0,0,Mouhamadou War (Orange County SC) Substitution at 68',Mouhamadou War Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,2,360863,2025-06-01 04:59:44
+13102,726717,13,45343289,94,2,4260,71',0,0,Colin Shutler (Orange County SC) Yellow Card at 71',Colin Shutler Yellow Card,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,249405,2025-06-01 04:59:44
+13102,726717,12,45343288,94,2,4260,71',0,0,Paul Gindiri (Monterey Bay) Yellow Card at 71',Paul Gindiri Yellow Card,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,286797,2025-06-01 04:59:44
+13102,726717,14,45343290,76,2,4560,76',0,0,Mayele Malango (Monterey Bay) Substitution at 76',Mayele Malango Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,316375,2025-06-01 04:59:44
+13102,726717,15,45343293,76,2,4560,76',0,0,Jacob Muir (Monterey Bay) Substitution at 76',Jacob Muir Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,331306,2025-06-01 04:59:44
+13102,726717,15,45343293,76,2,4560,76',0,0,Jacob Muir (Monterey Bay) Substitution at 76',Jacob Muir Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,2,400662,2025-06-01 04:59:44
+13102,726717,14,45343290,76,2,4560,76',0,0,Mayele Malango (Monterey Bay) Substitution at 76',Mayele Malango Substitution,21370,0.0,0.0,0.0,0.0,0.0,0.0,2,156322,2025-06-01 04:59:44
+13102,726717,16,45343300,76,2,4620,77',0,0,Ousmane Sylla (Orange County SC) Substitution at 77',Ousmane Sylla Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,380793,2025-06-01 04:59:44
+13102,726717,16,45343300,76,2,4620,77',0,0,Ousmane Sylla (Orange County SC) Substitution at 77',Ousmane Sylla Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,257286,2025-06-01 04:59:44
+13102,726717,16,45343300,76,2,4620,77',0,0,Ousmane Sylla (Orange County SC) Substitution at 77',Ousmane Sylla Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,247926,2025-06-01 04:59:44
+13102,726717,16,45343300,76,2,4620,77',0,0,Ousmane Sylla (Orange County SC) Substitution at 77',Ousmane Sylla Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,2,350049,2025-06-01 04:59:44
+13102,726717,17,45343328,94,2,4920,82',0,0,Grant Robinson (Monterey Bay) Yellow Card at 82',Grant Robinson Yellow Card,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,208370,2025-06-01 04:59:44
+13102,726717,18,45343352,70,2,5100,85',1,0,Adam Larsson (Monterey Bay) Goal at 85',Adam Larsson Goal,21370,0.0,0.0,0.0,0.0,0.0,0.0,1,146667,2025-06-01 04:59:44
+13102,726717,19,45343361,76,2,5220,87',0,0,Gavin Karam (Orange County SC) Substitution at 87',Gavin Karam Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,401625,2025-06-01 04:59:44
+13102,726717,20,45343362,76,2,5220,87',0,0,Nicola Ciotta (Orange County SC) Substitution at 87',Nicola Ciotta Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,404657,2025-06-01 04:59:44
+13102,726717,19,45343361,76,2,5220,87',0,0,Gavin Karam (Orange County SC) Substitution at 87',Gavin Karam Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,2,291746,2025-06-01 04:59:44
+13102,726717,20,45343362,76,2,5220,87',0,0,Nicola Ciotta (Orange County SC) Substitution at 87',Nicola Ciotta Substitution,18455,0.0,0.0,0.0,0.0,0.0,0.0,2,388567,2025-06-01 04:59:44
+13102,726717,21,45343397,70,2,5400,90'+3',1,0,Cameron Dunbar (Orange County SC) Goal at 93',Cameron Dunbar Goal,18455,0.0,0.0,0.0,0.0,0.0,0.0,1,291252,2025-06-01 04:59:44
+13102,726718,1,45343055,94,1,480,8',0,0,Ousman Jabang (New Mexico United) Yellow Card at 8',Ousman Jabang Yellow Card,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,308788,2025-06-01 04:59:44
+13102,726718,2,45343074,94,1,780,13',0,0,John Scearce (Phoenix Rising FC) Yellow Card at 13',John Scearce Yellow Card,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,296122,2025-06-01 04:59:44
+13102,726718,3,45343077,70,1,840,14',1,0,Mukwelle Akale (New Mexico United) Goal at 14',Mukwelle Akale Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,340591,2025-06-01 04:59:44
+13102,726718,4,45343208,98,1,2400,40',1,0,Ihsan Sacko (Phoenix Rising FC) Penalty - Scored at 40',Ihsan Sacko Penalty - Scored,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,240157,2025-06-01 04:59:44
+13102,726718,5,45343227,94,1,2640,44',0,0,Jearl Margaritha (Phoenix Rising FC) Yellow Card at 44',Jearl Margaritha Yellow Card,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,301441,2025-06-01 04:59:44
+13102,726718,7,45343301,76,2,2700,45',0,0,Marlon Vargas (New Mexico United) Substitution at 45',Marlon Vargas Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,271847,2025-06-01 04:59:44
+13102,726718,6,45343252,70,1,2700,45'+2',1,0,Hope Avayevu (Phoenix Rising FC) Goal at 47',Hope Avayevu Goal,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,317487,2025-06-01 04:59:44
+13102,726718,7,45343301,76,2,2700,45',0,0,Marlon Vargas (New Mexico United) Substitution at 45',Marlon Vargas Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,255237,2025-06-01 04:59:44
+13102,726718,8,45343377,70,2,3420,57',1,0,Luiz Fernando (New Mexico United) Goal at 57',Luiz Fernando Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,399418,2025-06-01 04:59:44
+13102,726718,8,45343377,70,2,3420,57',1,0,Luiz Fernando (New Mexico United) Goal at 57',Luiz Fernando Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,382961,2025-06-01 04:59:44
+13102,726718,8,45343377,70,2,3420,57',1,0,Luiz Fernando (New Mexico United) Goal at 57',Luiz Fernando Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,357906,2025-06-01 04:59:44
+13102,726718,8,45343377,70,2,3420,57',1,0,Luiz Fernando (New Mexico United) Goal at 57',Luiz Fernando Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,318150,2025-06-01 04:59:44
+13102,726718,8,45343377,70,2,3420,57',1,0,Luiz Fernando (New Mexico United) Goal at 57',Luiz Fernando Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,236634,2025-06-01 04:59:44
+13102,726718,8,45343377,70,2,3420,57',1,0,Luiz Fernando (New Mexico United) Goal at 57',Luiz Fernando Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,218924,2025-06-01 04:59:44
+13102,726718,8,45343377,70,2,3420,57',1,0,Luiz Fernando (New Mexico United) Goal at 57',Luiz Fernando Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,218337,2025-06-01 04:59:44
+13102,726718,8,45343377,70,2,3420,57',1,0,Luiz Fernando (New Mexico United) Goal at 57',Luiz Fernando Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,99244,2025-06-01 04:59:44
+13102,726718,11,45343386,76,2,3480,58',0,0,Tomas Pondeca (New Mexico United) Substitution at 58',Tomas Pondeca Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,378655,2025-06-01 04:59:44
+13102,726718,9,45343384,76,2,3480,58',0,0,McKinze Gaines (New Mexico United) Substitution at 58',McKinze Gaines Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,225606,2025-06-01 04:59:44
+13102,726718,10,45343385,76,2,3480,58',0,0,Daniel Bruce (New Mexico United) Substitution at 58',Daniel Bruce Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,246376,2025-06-01 04:59:44
+13102,726718,9,45343384,76,2,3480,58',0,0,McKinze Gaines (New Mexico United) Substitution at 58',McKinze Gaines Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,399418,2025-06-01 04:59:44
+13102,726718,9,45343384,76,2,3480,58',0,0,McKinze Gaines (New Mexico United) Substitution at 58',McKinze Gaines Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,382961,2025-06-01 04:59:44
+13102,726718,9,45343384,76,2,3480,58',0,0,McKinze Gaines (New Mexico United) Substitution at 58',McKinze Gaines Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,357906,2025-06-01 04:59:44
+13102,726718,9,45343384,76,2,3480,58',0,0,McKinze Gaines (New Mexico United) Substitution at 58',McKinze Gaines Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,318150,2025-06-01 04:59:44
+13102,726718,9,45343384,76,2,3480,58',0,0,McKinze Gaines (New Mexico United) Substitution at 58',McKinze Gaines Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,236634,2025-06-01 04:59:44
+13102,726718,9,45343384,76,2,3480,58',0,0,McKinze Gaines (New Mexico United) Substitution at 58',McKinze Gaines Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,218924,2025-06-01 04:59:44
+13102,726718,9,45343384,76,2,3480,58',0,0,McKinze Gaines (New Mexico United) Substitution at 58',McKinze Gaines Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,218337,2025-06-01 04:59:44
+13102,726718,9,45343384,76,2,3480,58',0,0,McKinze Gaines (New Mexico United) Substitution at 58',McKinze Gaines Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,99244,2025-06-01 04:59:44
+13102,726718,11,45343386,76,2,3480,58',0,0,Tomas Pondeca (New Mexico United) Substitution at 58',Tomas Pondeca Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,308788,2025-06-01 04:59:44
+13102,726718,10,45343385,76,2,3480,58',0,0,Daniel Bruce (New Mexico United) Substitution at 58',Daniel Bruce Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,234954,2025-06-01 04:59:44
+13102,726718,12,45343414,70,2,3780,63',1,0,McKinze Gaines (New Mexico United) Goal at 63',McKinze Gaines Goal,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,225606,2025-06-01 04:59:44
+13102,726718,14,45343449,70,2,4200,70',1,0,John Scearce (Phoenix Rising FC) Goal at 70',John Scearce Goal,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,296122,2025-06-01 04:59:44
+13102,726718,13,45343448,76,2,4200,70',0,0,Mohamed Traore (Phoenix Rising FC) Substitution at 70',Mohamed Traore Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,163216,2025-06-01 04:59:44
+13102,726718,13,45343448,76,2,4200,70',0,0,Mohamed Traore (Phoenix Rising FC) Substitution at 70',Mohamed Traore Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,2,273474,2025-06-01 04:59:44
+13102,726718,15,45343468,76,2,4440,74',0,0,Will Seymore (New Mexico United) Substitution at 74',Will Seymore Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,1,253004,2025-06-01 04:59:44
+13102,726718,15,45343468,76,2,4440,74',0,0,Will Seymore (New Mexico United) Substitution at 74',Will Seymore Substitution,19408,0.0,0.0,0.0,0.0,0.0,0.0,2,252816,2025-06-01 04:59:44
+13102,726718,16,45343499,76,2,4680,78',0,0,Dariusz Formella (Phoenix Rising FC) Substitution at 78',Dariusz Formella Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,191170,2025-06-01 04:59:44
+13102,726718,16,45343499,76,2,4680,78',0,0,Dariusz Formella (Phoenix Rising FC) Substitution at 78',Dariusz Formella Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,2,290745,2025-06-01 04:59:44
+13102,726718,17,45343569,76,2,5400,90',0,0,Charlie Dennis (Phoenix Rising FC) Substitution at 90',Charlie Dennis Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,1,288190,2025-06-02 04:55:15
+13102,726718,17,45343569,76,2,5400,90',0,0,Charlie Dennis (Phoenix Rising FC) Substitution at 90',Charlie Dennis Substitution,17850,0.0,0.0,0.0,0.0,0.0,0.0,2,317487,2025-06-02 04:55:15
+13102,726719,1,45340355,94,1,360,6',0,0,Maxi Rodriguez (Rhode Island FC) Yellow Card at 6',Maxi Rodriguez Yellow Card,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,24460,2025-06-01 04:59:44
+13102,726719,1,45340355,94,1,360,6',0,0,Maxi Rodriguez (Rhode Island FC) Yellow Card at 6',Maxi Rodriguez Yellow Card,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,111864,2025-06-01 04:59:44
+13102,726719,2,45340454,70,1,1140,19',1,0,Jojea Kwizera (Rhode Island FC) Goal at 19',Jojea Kwizera Goal,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,292944,2025-06-01 04:59:44
+13102,726719,3,45340591,94,1,2220,37',0,0,Jackson Walti (Pittsburgh Riverhounds) Yellow Card at 37',Jackson Walti Yellow Card,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,293817,2025-06-01 04:59:44
+13102,726719,4,45340684,94,1,2520,42',0,0,Clay Holstad (Rhode Island FC) Yellow Card at 42',Clay Holstad Yellow Card,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,279821,2025-06-01 04:59:44
+13102,726719,5,45340747,94,1,2700,45'+1',0,0,Albert Dikwa Lega (Rhode Island FC) Yellow Card at 46',Albert Dikwa Lega Yellow Card,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,252987,2025-06-01 04:59:44
+13102,726719,6,45341267,76,2,3660,61',0,0,Zachary Herivaux (Rhode Island FC) Substitution at 61',Zachary Herivaux Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,218846,2025-06-01 04:59:44
+13102,726719,6,45341267,76,2,3660,61',0,0,Zachary Herivaux (Rhode Island FC) Substitution at 61',Zachary Herivaux Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,24460,2025-06-01 04:59:44
+13102,726719,6,45341267,76,2,3660,61',0,0,Zachary Herivaux (Rhode Island FC) Substitution at 61',Zachary Herivaux Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,111864,2025-06-01 04:59:44
+13102,726719,7,45341304,94,2,3840,64',0,0,Guillaume Vacter (Pittsburgh Riverhounds) Yellow Card at 64',Guillaume Vacter Yellow Card,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,403199,2025-06-01 04:59:44
+13102,726719,8,45341318,76,2,4020,67',0,0,Jorge Garcia (Pittsburgh Riverhounds) Substitution at 67',Jorge Garcia Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,162654,2025-06-01 04:59:44
+13102,726719,8,45341318,76,2,4020,67',0,0,Jorge Garcia (Pittsburgh Riverhounds) Substitution at 67',Jorge Garcia Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,89102,2025-06-01 04:59:44
+13102,726719,9,45341331,76,2,4020,67',0,0,Bradley Sample (Pittsburgh Riverhounds) Substitution at 67',Bradley Sample Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,293773,2025-06-01 04:59:44
+13102,726719,9,45341331,76,2,4020,67',0,0,Bradley Sample (Pittsburgh Riverhounds) Substitution at 67',Bradley Sample Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,2,308961,2025-06-01 04:59:44
+13102,726719,8,45341318,76,2,4020,67',0,0,Jorge Garcia (Pittsburgh Riverhounds) Substitution at 67',Jorge Garcia Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,2,276365,2025-06-01 04:59:44
+13102,726719,10,45341358,94,2,4260,71',0,0,Zachary Herivaux (Rhode Island FC) Yellow Card at 71',Zachary Herivaux Yellow Card,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,218846,2025-06-01 04:59:44
+13102,726719,12,45341363,76,2,4380,73',0,0,Joseph Brito (Rhode Island FC) Substitution at 73',Joseph Brito Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,338778,2025-06-01 04:59:44
+13102,726719,11,45341362,76,2,4380,73',0,0,Karifa Yao (Rhode Island FC) Substitution at 73',Karifa Yao Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,288980,2025-06-01 04:59:44
+13102,726719,11,45341362,76,2,4380,73',0,0,Karifa Yao (Rhode Island FC) Substitution at 73',Karifa Yao Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,297831,2025-06-01 04:59:44
+13102,726719,12,45341363,76,2,4380,73',0,0,Joseph Brito (Rhode Island FC) Substitution at 73',Joseph Brito Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,316340,2025-06-01 04:59:44
+13102,726719,13,45341420,76,2,4620,77',0,0,Abdul Illal Osumanu (Pittsburgh Riverhounds) Substitution at 77',Abdul Illal Osumanu Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,1,303723,2025-06-01 04:59:44
+13102,726719,13,45341420,76,2,4620,77',0,0,Abdul Illal Osumanu (Pittsburgh Riverhounds) Substitution at 77',Abdul Illal Osumanu Substitution,17827,0.0,0.0,0.0,0.0,0.0,0.0,2,403199,2025-06-01 04:59:44
+13102,726719,14,45341568,76,2,5040,84',0,0,Taimu Okiyoshi (Rhode Island FC) Substitution at 84',Taimu Okiyoshi Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,1,337738,2025-06-01 04:59:44
+13102,726719,14,45341568,76,2,5040,84',0,0,Taimu Okiyoshi (Rhode Island FC) Substitution at 84',Taimu Okiyoshi Substitution,22164,0.0,0.0,0.0,0.0,0.0,0.0,2,292944,2025-06-01 04:59:44
+13102,726720,1,45340453,94,1,1080,18',0,0,Beckett Howell (Richmond Kickers) Yellow Card at 18',Beckett Howell Yellow Card,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,360311,2025-06-01 04:59:44
+13102,726720,2,45340528,94,1,1740,29',0,0,Adam Luckhurst (North Carolina FC) Yellow Card at 29',Adam Luckhurst Yellow Card,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,330015,2025-06-01 04:59:44
+13102,726720,3,45341026,76,2,2700,45',0,0,Rafael Duizit Mentzingen (North Carolina FC) Substitution at 45',Rafael Duizit Mentzingen Substit,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,273658,2025-06-01 04:59:44
+13102,726720,3,45341026,76,2,2700,45',0,0,Rafael Duizit Mentzingen (North Carolina FC) Substitution at 45',Rafael Duizit Mentzingen Substit,9725,0.0,0.0,0.0,0.0,0.0,0.0,2,236428,2025-06-01 04:59:44
+13102,726720,4,45341346,76,2,4260,71',0,0,Landon Johnson (Richmond Kickers) Substitution at 71',Landon Johnson Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,366098,2025-06-01 04:59:44
+13102,726720,5,45341347,76,2,4260,71',0,0,Hayden Anderson (Richmond Kickers) Substitution at 71',Hayden Anderson Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,381429,2025-06-01 04:59:44
+13102,726720,6,45341348,76,2,4260,71',0,0,Maximiliano Schenfeld (Richmond Kickers) Substitution at 71',Maximiliano Schenfeld Substituti,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,273619,2025-06-01 04:59:44
+13102,726720,6,45341348,76,2,4260,71',0,0,Maximiliano Schenfeld (Richmond Kickers) Substitution at 71',Maximiliano Schenfeld Substituti,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,360311,2025-06-01 04:59:44
+13102,726720,5,45341347,76,2,4260,71',0,0,Hayden Anderson (Richmond Kickers) Substitution at 71',Hayden Anderson Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,391738,2025-06-01 04:59:44
+13102,726720,4,45341346,76,2,4260,71',0,0,Landon Johnson (Richmond Kickers) Substitution at 71',Landon Johnson Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,236870,2025-06-01 04:59:44
+13102,726720,7,45341405,94,2,4680,78',0,0,James Vaughan (Richmond Kickers) Yellow Card at 78',James Vaughan Yellow Card,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,51841,2025-06-01 04:59:44
+13102,726720,7,45341405,94,2,4680,78',0,0,James Vaughan (Richmond Kickers) Yellow Card at 78',James Vaughan Yellow Card,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,288325,2025-06-01 04:59:44
+13102,726720,8,45341468,70,2,4860,81',1,0,Adam Luckhurst (North Carolina FC) Goal at 81',Adam Luckhurst Goal,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,330015,2025-06-01 04:59:44
+13102,726720,9,45341499,76,2,4920,82',0,0,Andrew Richman (Richmond Kickers) Substitution at 82',Andrew Richman Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,400731,2025-06-01 04:59:44
+13102,726720,9,45341499,76,2,4920,82',0,0,Andrew Richman (Richmond Kickers) Substitution at 82',Andrew Richman Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,51841,2025-06-01 04:59:44
+13102,726720,9,45341499,76,2,4920,82',0,0,Andrew Richman (Richmond Kickers) Substitution at 82',Andrew Richman Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,288325,2025-06-01 04:59:44
+13102,726720,10,45341560,76,2,5100,85',0,0,Finn Sundstrom (North Carolina FC) Substitution at 85',Finn Sundstrom Substitution,9725,0.0,0.0,0.0,0.0,0.0,0.0,1,384323,2025-06-01 04:59:44
+13102,726720,10,45341560,76,2,5100,85',0,0,Finn Sundstrom (North Carolina FC) Substitution at 85',Finn Sundstrom Substitution,9725,0.0,0.0,0.0,0.0,0.0,0.0,2,294178,2025-06-01 04:59:44
+13102,726720,11,45341641,94,2,5280,88',0,0,Andrew Richman (Richmond Kickers) Yellow Card at 88',Andrew Richman Yellow Card,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,400731,2025-06-01 04:59:44
+13102,726720,12,45341668,76,2,5280,88',0,0,Guilherme França (Richmond Kickers) Substitution at 88',Guilherme França Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,381589,2025-06-01 04:59:44
+13102,726720,12,45341668,76,2,5280,88',0,0,Guilherme França (Richmond Kickers) Substitution at 88',Guilherme França Substitution,17545,0.0,0.0,0.0,0.0,0.0,0.0,2,381590,2025-06-01 04:59:44
+13102,726720,13,45341854,94,2,5400,90'+9',0,0,Landon Johnson (Richmond Kickers) Yellow Card at 99',Landon Johnson Yellow Card,17545,0.0,0.0,0.0,0.0,0.0,0.0,1,366098,2025-06-01 04:59:44
+13102,726721,1,45342954,94,1,1320,22',0,0,Turner Humphrey (Las Vegas Lights FC) Yellow Card at 22',Turner Humphrey Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,379567,2025-06-01 04:59:44
+13102,726721,2,45342982,94,1,1500,25',0,0,Christopher Pearson (Las Vegas Lights FC) Yellow Card at 25',Christopher Pearson Yellow Card,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,338070,2025-06-01 04:59:44
+13102,726721,3,45343060,70,1,2160,36',1,0,Ryan Spaulding (Sacramento Republic FC) Goal at 36',Ryan Spaulding Goal,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,246392,2025-06-01 04:59:44
+13102,726721,4,45343068,70,1,2220,37',1,0,Cristian Parano (Sacramento Republic FC) Goal at 37',Cristian Parano Goal,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,272615,2025-06-01 04:59:44
+13102,726721,5,45343228,70,2,3180,53',1,0,Michelle Benítez (Sacramento Republic FC) Goal at 53',Michelle Benítez Goal,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,241490,2025-06-01 04:59:44
+13102,726721,8,45343249,76,2,3300,55',0,0,Valentin Noël (Las Vegas Lights FC) Substitution at 55',Valentin Noël Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,293819,2025-06-01 04:59:44
+13102,726721,8,45343249,76,2,3300,55',0,0,Valentin Noël (Las Vegas Lights FC) Substitution at 55',Valentin Noël Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,279283,2025-06-01 04:59:44
+13102,726721,6,45343231,76,2,3300,55',0,0,Johnny Rodriguez (Las Vegas Lights FC) Substitution at 55',Johnny Rodriguez Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,296273,2025-06-01 04:59:44
+13102,726721,7,45343248,76,2,3300,55',0,0,Christian Pinzon (Las Vegas Lights FC) Substitution at 55',Christian Pinzon Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,346190,2025-06-01 04:59:44
+13102,726721,8,45343249,76,2,3300,55',0,0,Valentin Noël (Las Vegas Lights FC) Substitution at 55',Valentin Noël Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,276694,2025-06-01 04:59:44
+13102,726721,6,45343231,76,2,3300,55',0,0,Johnny Rodriguez (Las Vegas Lights FC) Substitution at 55',Johnny Rodriguez Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,346970,2025-06-01 04:59:44
+13102,726721,7,45343248,76,2,3300,55',0,0,Christian Pinzon (Las Vegas Lights FC) Substitution at 55',Christian Pinzon Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,170229,2025-06-01 04:59:44
+13102,726721,9,45343251,76,2,3360,56',0,0,Juan Sebastian Herrera (Sacramento Republic FC) Substitution at 56',Juan Sebastian Herrera Substitut,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,135017,2025-06-01 04:59:44
+13102,726721,9,45343251,76,2,3360,56',0,0,Juan Sebastian Herrera (Sacramento Republic FC) Substitution at 56',Juan Sebastian Herrera Substitut,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,291516,2025-06-01 04:59:44
+13102,726721,10,45343274,70,2,3480,58',1,0,Russell Cicerone (Sacramento Republic FC) Goal at 58',Russell Cicerone Goal,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,230600,2025-06-01 04:59:44
+13102,726721,11,45343281,76,2,3840,64',0,0,Rodrigo Lopez (Sacramento Republic FC) Substitution at 64',Rodrigo Lopez Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,344568,2025-06-01 04:59:44
+13102,726721,11,45343281,76,2,3840,64',0,0,Rodrigo Lopez (Sacramento Republic FC) Substitution at 64',Rodrigo Lopez Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,124544,2025-06-01 04:59:44
+13102,726721,11,45343281,76,2,3840,64',0,0,Rodrigo Lopez (Sacramento Republic FC) Substitution at 64',Rodrigo Lopez Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,103806,2025-06-01 04:59:44
+13102,726721,11,45343281,76,2,3840,64',0,0,Rodrigo Lopez (Sacramento Republic FC) Substitution at 64',Rodrigo Lopez Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,246392,2025-06-01 04:59:44
+13102,726721,12,45343282,76,2,3900,65',0,0,Dominik Wanner (Sacramento Republic FC) Substitution at 65',Dominik Wanner Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,231179,2025-06-01 04:59:44
+13102,726721,12,45343282,76,2,3900,65',0,0,Dominik Wanner (Sacramento Republic FC) Substitution at 65',Dominik Wanner Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,230600,2025-06-01 04:59:44
+13102,726721,14,45343287,76,2,3960,66',0,0,Maliek Howell (Las Vegas Lights FC) Substitution at 66',Maliek Howell Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,282410,2025-06-01 04:59:44
+13102,726721,13,45343286,76,2,3960,66',0,0,Elias Gärtig (Las Vegas Lights FC) Substitution at 66',Elias Gärtig Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,1,390092,2025-06-01 04:59:44
+13102,726721,13,45343286,76,2,3960,66',0,0,Elias Gärtig (Las Vegas Lights FC) Substitution at 66',Elias Gärtig Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,379567,2025-06-01 04:59:44
+13102,726721,14,45343287,76,2,3960,66',0,0,Maliek Howell (Las Vegas Lights FC) Substitution at 66',Maliek Howell Substitution,18987,0.0,0.0,0.0,0.0,0.0,0.0,2,361320,2025-06-01 04:59:44
+13102,726721,16,45343307,76,2,4500,75',0,0,Aaron Edwards (Sacramento Republic FC) Substitution at 75',Aaron Edwards Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,400721,2025-06-01 04:59:44
+13102,726721,16,45343307,76,2,4500,75',0,0,Aaron Edwards (Sacramento Republic FC) Substitution at 75',Aaron Edwards Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,331100,2025-06-01 04:59:44
+13102,726721,15,45343306,76,2,4500,75',0,0,Da'Vian Kimbrough (Sacramento Republic FC) Substitution at 75',Da'Vian Kimbrough Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,1,371801,2025-06-01 04:59:44
+13102,726721,15,45343306,76,2,4500,75',0,0,Da'Vian Kimbrough (Sacramento Republic FC) Substitution at 75',Da'Vian Kimbrough Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,272615,2025-06-01 04:59:44
+13102,726721,16,45343307,76,2,4500,75',0,0,Aaron Edwards (Sacramento Republic FC) Substitution at 75',Aaron Edwards Substitution,17828,0.0,0.0,0.0,0.0,0.0,0.0,2,202672,2025-06-01 04:59:44
+13102,726722,1,45340577,94,1,360,6',0,0,Conor Doyle (South Georgia Tormenta FC) Yellow Card at 6',Conor Doyle Yellow Card,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,150495,2025-06-01 04:59:44
+13102,726722,2,45340913,70,1,1680,28',1,0,Sebastián Vivas (South Georgia Tormenta FC) Goal at 28',Sebastián Vivas Goal,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,265386,2025-06-01 04:59:44
+13102,726722,3,45341104,94,1,2340,39',0,0,Daniel Crisostomo (Tampa Bay Rowdies) Yellow Card at 39',Daniel Crisostomo Yellow Card,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,273790,2025-06-01 04:59:44
+13102,726722,4,45341421,76,2,2700,45',0,0,Laurence Wyke (Tampa Bay Rowdies) Substitution at 45',Laurence Wyke Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,283264,2025-06-01 04:59:44
+13102,726722,5,45341422,76,2,2700,45',0,0,Alexander Rodriguez (Tampa Bay Rowdies) Substitution at 45',Alexander Rodriguez Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,128065,2025-06-01 04:59:44
+13102,726722,5,45341422,76,2,2700,45',0,0,Alexander Rodriguez (Tampa Bay Rowdies) Substitution at 45',Alexander Rodriguez Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,2,29517,2025-06-01 04:59:44
+13102,726722,4,45341421,76,2,2700,45',0,0,Laurence Wyke (Tampa Bay Rowdies) Substitution at 45',Laurence Wyke Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,2,220502,2025-06-01 04:59:44
+13102,726722,6,45341610,94,2,3240,54',0,0,Thomas Vancaeyezeele (Tampa Bay Rowdies) Yellow Card at 54',Thomas Vancaeyezeele Yellow Card,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,272025,2025-06-01 04:59:44
+13102,726722,7,45341788,76,2,3840,64',0,0,Woobens Pacius (Tampa Bay Rowdies) Substitution at 64',Woobens Pacius Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,324768,2025-06-01 04:59:44
+13102,726722,7,45341788,76,2,3840,64',0,0,Woobens Pacius (Tampa Bay Rowdies) Substitution at 64',Woobens Pacius Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,2,272025,2025-06-01 04:59:44
+13102,726722,9,45341895,76,2,4200,70',0,0,Alon Drey (South Georgia Tormenta FC) Substitution at 70',Alon Drey Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,361285,2025-06-01 04:59:44
+13102,726722,8,45341894,76,2,4200,70',0,0,Callum Stretch (South Georgia Tormenta FC) Substitution at 70',Callum Stretch Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,295349,2025-06-01 04:59:44
+13102,726722,9,45341895,76,2,4200,70',0,0,Alon Drey (South Georgia Tormenta FC) Substitution at 70',Alon Drey Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,2,150495,2025-06-01 04:59:44
+13102,726722,8,45341894,76,2,4200,70',0,0,Callum Stretch (South Georgia Tormenta FC) Substitution at 70',Callum Stretch Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,2,347441,2025-06-01 04:59:44
+13102,726722,10,45342120,70,2,4740,79',1,0,Woobens Pacius (Tampa Bay Rowdies) Goal at 79',Woobens Pacius Goal,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,324768,2025-06-01 04:59:44
+13102,726722,11,45342138,76,2,4860,81',0,0,Endri Mustali (Tampa Bay Rowdies) Substitution at 81',Endri Mustali Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,389362,2025-06-01 04:59:44
+13102,726722,14,45342196,76,2,4860,81',0,0,Taylor Gray (South Georgia Tormenta FC) Substitution at 81',Taylor Gray Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,339151,2025-06-01 04:59:44
+13102,726722,13,45342195,76,2,4860,81',0,0,Aaron Walker (South Georgia Tormenta FC) Substitution at 81',Aaron Walker Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,252979,2025-06-01 04:59:44
+13102,726722,12,45342160,76,2,4860,81',0,0,Joseph Skinner (Tampa Bay Rowdies) Substitution at 81',Joseph Skinner Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,303347,2025-06-01 04:59:44
+13102,726722,14,45342196,76,2,4860,81',0,0,Taylor Gray (South Georgia Tormenta FC) Substitution at 81',Taylor Gray Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,2,315564,2025-06-01 04:59:44
+13102,726722,13,45342195,76,2,4860,81',0,0,Aaron Walker (South Georgia Tormenta FC) Substitution at 81',Aaron Walker Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,2,265386,2025-06-01 04:59:44
+13102,726722,11,45342138,76,2,4860,81',0,0,Endri Mustali (Tampa Bay Rowdies) Substitution at 81',Endri Mustali Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,2,233038,2025-06-01 04:59:44
+13102,726722,12,45342160,76,2,4860,81',0,0,Joseph Skinner (Tampa Bay Rowdies) Substitution at 81',Joseph Skinner Substitution,17361,0.0,0.0,0.0,0.0,0.0,0.0,2,252820,2025-06-01 04:59:44
+13102,726722,15,45342305,94,2,5220,87',0,0,Austin Pack (South Georgia Tormenta FC) Yellow Card at 87',Austin Pack Yellow Card,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,235763,2025-06-01 04:59:44
+13102,726722,16,45342340,76,2,5340,89',0,0,Mason Tunbridge (South Georgia Tormenta FC) Substitution at 89',Mason Tunbridge Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,1,348717,2025-06-01 04:59:44
+13102,726722,16,45342340,76,2,5340,89',0,0,Mason Tunbridge (South Georgia Tormenta FC) Substitution at 89',Mason Tunbridge Substitution,19181,0.0,0.0,0.0,0.0,0.0,0.0,2,326111,2025-06-01 04:59:44
+13102,726722,17,45342460,70,2,5400,90'+4',1,0,Ollie Bassett (Tampa Bay Rowdies) Goal at 94',Ollie Bassett Goal,17361,0.0,0.0,0.0,0.0,0.0,0.0,1,227437,2025-06-01 04:59:44

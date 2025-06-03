@@ -1,0 +1,36 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13182,729691,1,44816140,94,1,960,16',0,0,Valentin Depietri (Talleres (Córdoba)) Yellow Card at 16',Valentin Depietri Yellow Card,19,0.0,0.0,0.0,0.0,0.0,0.0,1,292245.0,2025-03-06 12:58:13
+13182,729691,2,44816241,94,1,1200,20',0,0,Gastón Benavídez (Talleres (Córdoba)) Yellow Card at 20',Gastón Benavídez Yellow Card,19,0.0,0.0,0.0,0.0,0.0,0.0,1,287688.0,2025-03-06 12:58:13
+13182,729691,3,44816250,94,1,1320,22',0,0,Enzo Pérez (River Plate) Yellow Card at 22',Enzo Pérez Yellow Card,16,0.0,0.0,0.0,0.0,0.0,0.0,1,127319.0,2025-03-06 12:58:13
+13182,729691,4,44816290,94,1,1500,25',0,0,Germán Pezzella (River Plate) Yellow Card at 25',Germán Pezzella Yellow Card,16,0.0,0.0,0.0,0.0,0.0,0.0,1,138341.0,2025-03-06 12:58:13
+13182,729691,5,44816464,76,1,2220,37',0,0,Facundo Colidio (River Plate) Substitution at 37',Facundo Colidio Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,1,275941.0,2025-03-06 12:58:13
+13182,729691,5,44816464,76,1,2220,37',0,0,Facundo Colidio (River Plate) Substitution at 37',Facundo Colidio Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,2,195334.0,2025-03-06 12:58:13
+13182,729691,6,44816854,94,2,3540,59',0,0,Santiago Simón (River Plate) Yellow Card at 59',Santiago Simón Yellow Card,16,0.0,0.0,0.0,0.0,0.0,0.0,1,297057.0,2025-03-06 12:58:13
+13182,729691,7,44816856,76,2,3780,63',0,0,Rick  (Talleres (Córdoba)) Substitution at 63',Rick  Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-03-06 12:58:13
+13182,729691,7,44816856,76,2,3780,63',0,0,Rick  (Talleres (Córdoba)) Substitution at 63',Rick  Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,2,292245.0,2025-03-06 12:58:13
+13182,729691,8,44816857,76,2,3960,66',0,0,Gonzalo Martínez (River Plate) Substitution at 66',Gonzalo Martínez Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,1,276286.0,2025-03-06 12:58:13
+13182,729691,8,44816857,76,2,3960,66',0,0,Gonzalo Martínez (River Plate) Substitution at 66',Gonzalo Martínez Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,1,146941.0,2025-03-06 12:58:13
+13182,729691,8,44816857,76,2,3960,66',0,0,Gonzalo Martínez (River Plate) Substitution at 66',Gonzalo Martínez Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,2,376473.0,2025-03-06 12:58:13
+13182,729691,9,44816886,76,2,4200,70',0,0,Manuel Lanzini (River Plate) Substitution at 70',Manuel Lanzini Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,1,149381.0,2025-03-06 12:58:13
+13182,729691,10,44816887,76,2,4200,70',0,0,Paulo Díaz (River Plate) Substitution at 70',Paulo Díaz Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,1,184465.0,2025-03-06 12:58:13
+13182,729691,9,44816886,76,2,4200,70',0,0,Manuel Lanzini (River Plate) Substitution at 70',Manuel Lanzini Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,2,297057.0,2025-03-06 12:58:13
+13182,729691,10,44816887,76,2,4200,70',0,0,Paulo Díaz (River Plate) Substitution at 70',Paulo Díaz Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,2,219086.0,2025-03-06 12:58:13
+13182,729691,11,44816924,76,2,4440,74',0,0,Nahuel Bustos (Talleres (Córdoba)) Substitution at 74',Nahuel Bustos Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,1,233845.0,2025-03-06 12:58:13
+13182,729691,11,44816924,76,2,4440,74',0,0,Nahuel Bustos (Talleres (Córdoba)) Substitution at 74',Nahuel Bustos Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,2,283772.0,2025-03-06 12:58:13
+13182,729691,12,44816925,76,2,4500,75',0,0,Emanuel Reynoso (Talleres (Córdoba)) Substitution at 75',Emanuel Reynoso Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,1,233326.0,2025-03-06 12:58:13
+13182,729691,12,44816925,76,2,4500,75',0,0,Emanuel Reynoso (Talleres (Córdoba)) Substitution at 75',Emanuel Reynoso Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,2,123409.0,2025-03-06 12:58:13
+13182,729691,13,44816943,94,2,4680,78',0,0,Matías Galarza (Talleres (Córdoba)) Yellow Card at 78',Matías Galarza Yellow Card,19,0.0,0.0,0.0,0.0,0.0,0.0,1,297328.0,2025-03-06 12:58:13
+13182,729691,14,44816959,94,2,4920,82',0,0,Juan Portilla (Talleres (Córdoba)) Yellow Card at 82',Juan Portilla Yellow Card,19,0.0,0.0,0.0,0.0,0.0,0.0,1,94976.0,2025-03-06 12:58:13
+13182,729691,15,44816973,94,2,5040,84',0,0,Diego Ortegoza (Talleres (Córdoba)) Yellow Card at 84',Diego Ortegoza Yellow Card,19,0.0,0.0,0.0,0.0,0.0,0.0,1,285696.0,2025-03-06 12:58:13
+13182,729691,16,44817039,76,3,5400,90',0,0,Matías Kranevitter (River Plate) Substitution at 90',Matías Kranevitter Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,1,195645.0,2025-03-06 12:58:13
+13182,729691,17,44817040,76,3,5400,90',0,0,Matías Rojas (River Plate) Substitution at 90',Matías Rojas Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,1,121767.0,2025-03-06 12:58:13
+13182,729691,17,44817040,76,3,5400,90',0,0,Matías Rojas (River Plate) Substitution at 90',Matías Rojas Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,1,378732.0,2025-03-06 12:58:13
+13182,729691,17,44817040,76,3,5400,90',0,0,Matías Rojas (River Plate) Substitution at 90',Matías Rojas Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,2,172539.0,2025-03-06 12:58:13
+13182,729691,16,44817039,76,3,5400,90',0,0,Matías Kranevitter (River Plate) Substitution at 90',Matías Kranevitter Substitution,16,0.0,0.0,0.0,0.0,0.0,0.0,2,127319.0,2025-03-06 12:58:13
+13182,729691,18,44817081,94,3,6000,100',0,0,Miguel Borja (River Plate) Yellow Card at 100',Miguel Borja Yellow Card,16,0.0,0.0,0.0,0.0,0.0,0.0,1,167195.0,2025-03-06 12:58:13
+13182,729691,19,44817118,76,3,6300,105',0,0,Joaquín Mosqueira (Talleres (Córdoba)) Substitution at 105',Joaquín Mosqueira Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,1,358259.0,2025-03-06 12:58:13
+13182,729691,20,44817119,76,3,6300,105',0,0,Blas Riveros (Talleres (Córdoba)) Substitution at 105',Blas Riveros Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,1,228577.0,2025-03-06 12:58:13
+13182,729691,19,44817118,76,3,6300,105',0,0,Joaquín Mosqueira (Talleres (Córdoba)) Substitution at 105',Joaquín Mosqueira Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,2,94976.0,2025-03-06 12:58:13
+13182,729691,20,44817119,76,3,6300,105',0,0,Blas Riveros (Talleres (Córdoba)) Substitution at 105',Blas Riveros Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,2,297328.0,2025-03-06 12:58:13
+13182,729691,21,44817145,76,4,7140,119',0,0,Cristian Tarragona (Talleres (Córdoba)) Substitution at 119',Cristian Tarragona Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,1,212444.0,2025-03-06 12:58:13
+13182,729691,21,44817145,76,4,7140,119',0,0,Cristian Tarragona (Talleres (Córdoba)) Substitution at 119',Cristian Tarragona Substitution,19,0.0,0.0,0.0,0.0,0.0,0.0,2,285613.0,2025-03-06 12:58:13

@@ -1,0 +1,29 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+13190,732047,1,45345015,94,Leonardo Mifflin (Los Chankas) Yellow Card at 16',Leonardo Mifflin Yellow Card,1,960,16',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,274047,Leonardo Mifflin,2025-06-02 04:54:51
+13190,732047,2,45345024,98,Miguel Graneros (Alianza Atlético) Penalty - Scored at 18',Miguel Graneros Penalty - Scored,1,1080,18',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,224050,Miguel Graneros,2025-06-02 04:54:51
+13190,732047,3,45345081,70,Isaac Camargo (Los Chankas) Goal at 21',Isaac Camargo Goal,1,1260,21',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334088,Isaac Camargo,2025-06-02 04:54:51
+13190,732047,4,45345352,94,Christian Vásquez (Alianza Atlético) Yellow Card at 48',Christian Vásquez Yellow Card,1,2700,45'+3',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,272398,Christian Vásquez,2025-06-02 04:54:51
+13190,732047,5,45345503,76,Alexis Cossio (Alianza Atlético) Substitution at 57',Alexis Cossio Substitution,2,3420,57',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,193424,Alexis Cossio,2025-06-02 04:54:51
+13190,732047,5,45345503,76,Alexis Cossio (Alianza Atlético) Substitution at 57',Alexis Cossio Substitution,2,3420,57',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,272398,Christian Vásquez,2025-06-02 04:54:51
+13190,732047,6,45345530,76,Flavio Fernández (Los Chankas) Substitution at 64',Flavio Fernández Substitution,2,3840,64',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,315890,Flavio Fernández,2025-06-02 04:54:51
+13190,732047,7,45345531,76,Pablo Bueno (Los Chankas) Substitution at 64',Pablo Bueno Substitution,2,3840,64',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,118665,Pablo Bueno,2025-06-02 04:54:51
+13190,732047,6,45345530,76,Flavio Fernández (Los Chankas) Substitution at 64',Flavio Fernández Substitution,2,3840,64',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312612,Franco Torres,2025-06-02 04:54:51
+13190,732047,7,45345531,76,Pablo Bueno (Los Chankas) Substitution at 64',Pablo Bueno Substitution,2,3840,64',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334088,Isaac Camargo,2025-06-02 04:54:51
+13190,732047,8,45345541,94,Erick Perleche (Alianza Atlético) Yellow Card at 66',Erick Perleche Yellow Card,2,3960,66',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288628,Erick Perleche,2025-06-02 04:54:51
+13190,732047,9,45345553,76,Rodrigo Castro (Alianza Atlético) Substitution at 68',Rodrigo Castro Substitution,2,4080,68',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,83309,Rodrigo Castro,2025-06-02 04:54:51
+13190,732047,9,45345553,76,Rodrigo Castro (Alianza Atlético) Substitution at 68',Rodrigo Castro Substitution,2,4080,68',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,316524,Guillermo Larios,2025-06-02 04:54:51
+13190,732047,10,45345573,76,Federico Illanes (Alianza Atlético) Substitution at 69',Federico Illanes Substitution,2,4140,69',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,216158,Federico Illanes,2025-06-02 04:54:51
+13190,732047,11,45345577,70,Erick Perleche (Alianza Atlético) Goal at 69',Erick Perleche Goal,2,4140,69',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288628,Erick Perleche,2025-06-02 04:54:51
+13190,732047,10,45345573,76,Federico Illanes (Alianza Atlético) Substitution at 69',Federico Illanes Substitution,2,4140,69',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,379470,Hernan Lupu,2025-06-02 04:54:51
+13190,732047,12,45345689,94,Guillermo Larios (Alianza Atlético) Yellow Card at 76',Guillermo Larios Yellow Card,2,4560,76',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,316524,Guillermo Larios,2025-06-02 04:54:51
+13190,732047,13,45345718,94,Santiago González (Los Chankas) Yellow Card at 77',Santiago González Yellow Card,2,4620,77',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,108090,Santiago González,2025-06-02 04:54:51
+13190,732047,14,45345719,76,Kevin Sánchez (Los Chankas) Substitution at 82',Kevin Sánchez Substitution,2,4920,82',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,331530,Kevin Sánchez,2025-06-02 04:54:51
+13190,732047,14,45345719,76,Kevin Sánchez (Los Chankas) Substitution at 82',Kevin Sánchez Substitution,2,4920,82',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,224189,Oshiro Takeuchi,2025-06-02 04:54:51
+13190,732047,15,45345720,76,Ángelo Pizzorno (Los Chankas) Substitution at 83',Ángelo Pizzorno Substitution,2,4980,83',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,251966,Ángelo Pizzorno,2025-06-02 04:54:51
+13190,732047,15,45345720,76,Ángelo Pizzorno (Los Chankas) Substitution at 83',Ángelo Pizzorno Substitution,2,4980,83',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,274047,Leonardo Mifflin,2025-06-02 04:54:51
+13190,732047,16,45345731,76,Jimmy Pérez (Alianza Atlético) Substitution at 84',Jimmy Pérez Substitution,2,5040,84',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,315911,Jimmy Pérez,2025-06-02 04:54:51
+13190,732047,17,45345732,76,Mauro Pérez (Alianza Atlético) Substitution at 84',Mauro Pérez Substitution,2,5040,84',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,216671,Mauro Pérez,2025-06-02 04:54:51
+13190,732047,16,45345731,76,Jimmy Pérez (Alianza Atlético) Substitution at 84',Jimmy Pérez Substitution,2,5040,84',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,360171,Luis Olmedo,2025-06-02 04:54:51
+13190,732047,17,45345732,76,Mauro Pérez (Alianza Atlético) Substitution at 84',Mauro Pérez Substitution,2,5040,84',5267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,224050,Miguel Graneros,2025-06-02 04:54:51
+13190,732047,18,45345802,76,Josue Tunqui (Los Chankas) Substitution at 90',Josue Tunqui Substitution,2,5400,90',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,398832,Josue Tunqui,2025-06-02 04:54:51
+13190,732047,18,45345802,76,Josue Tunqui (Los Chankas) Substitution at 90',Josue Tunqui Substitution,2,5400,90',22168,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288659,Jordan Guivin,2025-06-02 04:54:51
