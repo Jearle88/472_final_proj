@@ -117,10 +117,78 @@ def filter_team_data_by_schema(team_id, data_directory, output_file="team_data_f
     print(f"\nSuccess! All team data saved to {output_file}")
     print(f"Total records found: {len(combined_data)}")
 
-    # Create specialized extracts
-    extract_team_specific_data(team_data_collection, team_id)
-
     return team_data_collection
+
+
+def filter_multiple_teams_data(team_ids, data_directory, consolidated_output="all_teams_consolidated.csv"):
+    """
+    Filter data for multiple teams and create one consolidated output file.
+
+    Args:
+        team_ids (list): List of team IDs to filter for
+        data_directory (str): Path to directory containing CSV files
+        consolidated_output (str): Name of consolidated output CSV file
+    """
+    print(f"=== CONSOLIDATING DATA FOR TEAMS: {team_ids} ===")
+
+    all_teams_data = []
+
+    for team_id in team_ids:
+        print(f"\n--- Processing Team ID: {team_id} ---")
+        team_data_collection = filter_team_data_by_schema(
+            team_id,
+            data_directory,
+            f"temp_team_{team_id}_complete.csv"
+        )
+
+        if team_data_collection:
+            # Combine all data for this team
+            team_all_data = []
+            for table_name, data in team_data_collection.items():
+                # Add team_id column to ensure we can identify which team each record belongs to
+                data_with_team = data.copy()
+                data_with_team['processed_team_id'] = team_id
+                team_all_data.append(data_with_team)
+
+            if team_all_data:
+                team_combined = pd.concat(team_all_data, ignore_index=True, sort=False)
+                all_teams_data.append(team_combined)
+                print(f"Team {team_id}: {len(team_combined)} total records collected")
+
+        # Clean up temporary file
+        temp_file = f"temp_team_{team_id}_complete.csv"
+        if os.path.exists(temp_file):
+            os.remove(temp_file)
+
+    if all_teams_data:
+        # Consolidate all teams into one DataFrame
+        consolidated_df = pd.concat(all_teams_data, ignore_index=True, sort=False)
+
+        # Save consolidated data
+        consolidated_df.to_csv(consolidated_output, index=False)
+
+        print(f"\n=== CONSOLIDATION COMPLETE ===")
+        print(f"Total records across all teams: {len(consolidated_df)}")
+        print(f"Consolidated data saved to: {consolidated_output}")
+
+        # Show breakdown by team
+        if 'processed_team_id' in consolidated_df.columns:
+            team_breakdown = consolidated_df['processed_team_id'].value_counts().sort_index()
+            print("\nRecords per team:")
+            for team_id, count in team_breakdown.items():
+                print(f"  Team {team_id}: {count} records")
+
+        # Show breakdown by table type
+        if 'table_type' in consolidated_df.columns:
+            table_breakdown = consolidated_df['table_type'].value_counts()
+            print("\nRecords by table type:")
+            for table_type, count in table_breakdown.items():
+                print(f"  {table_type}: {count} records")
+
+        return consolidated_df
+    else:
+        print("No data found for any of the specified teams.")
+        return None
 
 
 def extract_team_specific_data(team_data_collection, team_id):
@@ -324,35 +392,41 @@ def get_event_details(team_id, data_directory, event_id=None):
 # Example usage
 if __name__ == "__main__":
     # Configuration
-    TEAM_ID = 83 # Change this to your desired team ID
+    TEAM_IDs = [83, 382, 360,103,256,360,373,331]  # Change this to your desired team IDs
     DATA_DIR = "C:/Users/Johnt/OneDrive/Documents/GitHub/472_final_proj/archive/base_data"  # Change this to your data directory path
 
     print("=== TEAM DATA EXTRACTION TOOL ===")
-    print(f"Target Team ID: {TEAM_ID}")
+    print(f"Target Team IDs: {TEAM_IDs}")
     print(f"Data Directory: {DATA_DIR}\n")
 
-    # Step 1: Analyze available data
-    print("=== SCHEMA ANALYSIS ===")
-    found_tables = analyze_team_schema(TEAM_ID, DATA_DIR)
+    # NEW: Create consolidated output for all teams
+    consolidated_data = filter_multiple_teams_data(
+        TEAM_IDs,
+        DATA_DIR,
+        "all_teams_consolidated_data.csv"
+    )
 
-    # Step 2: Extract all team data
-    print("\n=== DATA EXTRACTION ===")
-    team_data = filter_team_data_by_schema(TEAM_ID, DATA_DIR, f"team_{TEAM_ID}_complete.csv")
+    # Optional: Still create individual team analysis if needed
+    print(f"\n=== INDIVIDUAL TEAM ANALYSIS (Optional) ===")
+    for TEAM_ID in TEAM_IDs:
+        print(f"\n--- Analyzing Team {TEAM_ID} ---")
 
-    # Step 3: Get event details
-    if team_data and ('keyEvents' in team_data or 'plays_2024' in team_data):
-        print("\n=== EVENT ANALYSIS ===")
-        events = get_event_details(TEAM_ID, DATA_DIR)
+        # Step 1: Analyze available data
+        found_tables = analyze_team_schema(TEAM_ID, DATA_DIR)
 
-        # Example: Get details for a specific event
-        # Uncomment the line below and replace with actual event ID
-        # specific_event = get_event_details(TEAM_ID, DATA_DIR, event_id=12345)
+        # Step 2: Extract all team data (individual files)
+        team_data = filter_team_data_by_schema(TEAM_ID, DATA_DIR, f"team_{TEAM_ID}_complete.csv")
 
-    print(f"\n=== SUMMARY ===")
-    print(f"Team {TEAM_ID} data extraction complete!")
+        # Step 3: Get event details
+        if team_data and ('keyEvents' in team_data or 'plays_2024' in team_data):
+            events = get_event_details(TEAM_ID, DATA_DIR)
+
+    print(f"\n=== FINAL SUMMARY ===")
     print("Generated files:")
-    print(f"  - team_{TEAM_ID}_complete.csv (all data)")
-    print(f"  - team_{TEAM_ID}_performance.csv (stats & standings)")
-    print(f"  - team_{TEAM_ID}_key_events.csv (events)")
-    print(f"  - team_{TEAM_ID}_plays.csv (plays)")
-    print(f"  - team_{TEAM_ID}_fixtures.csv (matches)")
+    print("  - all_teams_consolidated_data.csv (ALL TEAMS COMBINED)")
+    for TEAM_ID in TEAM_IDs:
+        print(f"  - team_{TEAM_ID}_complete.csv (individual team data)")
+        print(f"  - team_{TEAM_ID}_performance.csv (stats & standings)")
+        print(f"  - team_{TEAM_ID}_key_events.csv (events)")
+        print(f"  - team_{TEAM_ID}_plays.csv (plays)")
+        print(f"  - team_{TEAM_ID}_fixtures.csv (matches)")

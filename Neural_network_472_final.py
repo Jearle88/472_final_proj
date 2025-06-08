@@ -9,9 +9,9 @@ import numpy as np
 from collections import defaultdict
 
 # === Configuration ===
-csv_path = "C:/Users/Johnt/Downloads/fixtures.csv"
-training_team_ids = [627, 628, 629, 630, 631, 632, 633, 634, 635, 636]  # 10 teams for training
-prediction_team_id = 637  # New team to predict
+csv_path = "C:/Users/Johnt/OneDrive/Documents/GitHub/472_final_proj/all_teams_consolidated_data.csv"
+training_team_ids = [382]  # 10 teams for training
+prediction_team_id = 83  # New team to predict
 
 # === Load and Prepare Data ===
 df = pd.read_csv(csv_path)
