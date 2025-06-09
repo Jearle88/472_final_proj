@@ -9,7 +9,7 @@ import numpy as np
 from collections import defaultdict
 
 # === Configuration ===
-csv_path = "C:/Users/Johnt/OneDrive/Documents/GitHub/472_final_proj/all_teams_consolidated_data.csv"
+csv_path = "all_teams_consolidated_data.csv"
 training_team_ids = [382]  # 10 teams for training
 prediction_team_id = 83  # New team to predict
 
