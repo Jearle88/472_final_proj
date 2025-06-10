@@ -31,16 +31,16 @@ features = [
 ]
 df = merged[features + ["win", "home_teamId"]].dropna()
 
-# Discretization with safe fallback
-def discretize_columns_safe(df, cols, bins=3):
+# Discretization with 4 bins
+def discretize_columns_safe(df, cols, bins=4):
     for col in cols:
         try:
-            df[col] = pd.qcut(df[col], q=bins, labels=["low", "medium", "high"], duplicates='drop')
+            df[col] = pd.qcut(df[col], q=bins, labels=[f"bin{i}" for i in range(bins)], duplicates='drop')
         except ValueError:
             df[col] = "unknown"
     return df
 
-df = discretize_columns_safe(df.copy(), features)
+df = discretize_columns_safe(df.copy(), features, bins=4)
 
 # Partitioning teams
 unique_teams = sorted(df["home_teamId"].unique())
@@ -68,11 +68,9 @@ def info_gain(data, attr, target):
         weighted_entropy += (len(subset) / len(data)) * entropy(subset[target])
     return total_entropy - weighted_entropy
 
-def id3(data, features, target):
+def id3(data, features, target, depth=0, max_depth=5, min_samples_split=5):
     labels = data[target]
-    if len(labels.unique()) == 1:
-        return labels.iloc[0]
-    if len(features) == 0:
+    if len(labels.unique()) == 1 or not features or depth == max_depth or len(data) < min_samples_split:
         return labels.mode()[0]
 
     gains = [info_gain(data, attr, target) for attr in features]
@@ -84,24 +82,32 @@ def id3(data, features, target):
         if subset.empty:
             tree[best_attr][val] = labels.mode()[0]
         else:
-            subtree = id3(subset, [f for f in features if f != best_attr], target)
+            subtree = id3(
+                subset,
+                [f for f in features if f != best_attr],
+                target,
+                depth=depth + 1,
+                max_depth=max_depth,
+                min_samples_split=min_samples_split
+            )
             tree[best_attr][val] = subtree
 
     return tree
 
-def predict(tree, instance):
+def predict(tree, instance, default="Yes"):
     if not isinstance(tree, dict):
         return tree
     attr = next(iter(tree))
-    value = instance[attr]
+    value = instance.get(attr, None)
     if value in tree[attr]:
-        return predict(tree[attr][value], instance)
+        return predict(tree[attr][value], instance, default)
     else:
-        return None
+        return default  # fallback to majority class
 
 # Train and evaluate
-tree = id3(train_df, features, "win")
-y_pred = [predict(tree, row) for _, row in test_df[features].iterrows()]
+majority_class = train_df["win"].mode()[0]
+tree = id3(train_df, features, "win", max_depth=5, min_samples_split=5)
+y_pred = [predict(tree, row, default=majority_class) for _, row in test_df[features].iterrows()]
 accuracy = accuracy_score(test_df["win"], y_pred)
 conf_matrix = confusion_matrix(test_df["win"], y_pred, labels=["Yes", "No"])
 
