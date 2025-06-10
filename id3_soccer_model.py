@@ -1,9 +1,7 @@
-
 import pandas as pd
 import numpy as np
 from collections import Counter
 from math import log2
-from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 
 # Load datasets
@@ -31,7 +29,7 @@ features = [
     "home_possessionPct", "home_wonCorners", "home_totalShots",
     "home_shotsOnTarget", "home_totalPasses", "home_passPct"
 ]
-df = merged[features + ["win"]].dropna()
+df = merged[features + ["win", "home_teamId"]].dropna()
 
 # Discretization with safe fallback
 def discretize_columns_safe(df, cols, bins=3):
@@ -44,12 +42,16 @@ def discretize_columns_safe(df, cols, bins=3):
 
 df = discretize_columns_safe(df.copy(), features)
 
-# Split into training and test sets
-X = df[features]
-y = df["win"]
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-train_df = X_train.copy()
-train_df["win"] = y_train
+# Partitioning teams
+unique_teams = sorted(df["home_teamId"].unique())
+n = len(unique_teams)
+train_ids = set(unique_teams[:int(n * 0.7)])
+val_ids = set(unique_teams[int(n * 0.7):int(n * 0.8)])
+test_ids = set(unique_teams[int(n * 0.8):])
+
+train_df = df[df["home_teamId"].isin(train_ids)].drop(columns=["home_teamId"])
+val_df = df[df["home_teamId"].isin(val_ids)].drop(columns=["home_teamId"])
+test_df = df[df["home_teamId"].isin(test_ids)].drop(columns=["home_teamId"])
 
 # ID3 Functions
 def entropy(labels):
@@ -99,13 +101,13 @@ def predict(tree, instance):
 
 # Train and evaluate
 tree = id3(train_df, features, "win")
-y_pred = [predict(tree, row) for _, row in X_test.iterrows()]
-accuracy = accuracy_score(y_test, y_pred)
-conf_matrix = confusion_matrix(y_test, y_pred, labels=["Yes", "No"])
+y_pred = [predict(tree, row) for _, row in test_df[features].iterrows()]
+accuracy = accuracy_score(test_df["win"], y_pred)
+conf_matrix = confusion_matrix(test_df["win"], y_pred, labels=["Yes", "No"])
 
 # Output
 print("Decision Tree:")
 print(tree)
-print("\nAccuracy:", accuracy)
+print("\nAccuracy on test set:", accuracy)
 print("\nConfusion Matrix:")
 print(conf_matrix)
