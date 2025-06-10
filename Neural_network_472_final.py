@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score
 import numpy as np
 
-# === Configuration ===
+
 def load_team_ids_from_csv(file_path, column_name):
     """
     Load all unique team IDs from a given column in a CSV file.
@@ -31,21 +31,21 @@ split_index = int(len(TEAM_IDs) * 0.8)
 
 train_team_ids = TEAM_IDs[:split_index]   # Bottom 80%
 test_team_ids = TEAM_IDs[split_index:]    # Top 20%
-# === Load Data ===
+#  Load Data
 df = pd.read_csv(csv_path)
 print("=== Data Analysis ===")
 print(f"Dataset shape: {df.shape}")
 print(f"All columns: {list(df.columns)}")
 
-# === SIMPLE: Just specify which columns are structural ===
-# You need to manually set these to match your CSV
-DATE_COLUMN = 'date'
-HOME_TEAM_COLUMN = 'homeTeamId'  # Corrected from 'home_team_id'
-AWAY_TEAM_COLUMN = 'awayTeamId'  # Corrected from 'away_team_id'
 
-# Optional - if you have these columns
-HOME_SCORE_COLUMN = 'homeTeamScore'  # Corrected from 'home_score'
-AWAY_SCORE_COLUMN = 'awayTeamScore'  # Corrected from 'away_score'
+#  manually set these to match your CSV
+DATE_COLUMN = 'date'
+HOME_TEAM_COLUMN = 'homeTeamId'
+AWAY_TEAM_COLUMN = 'awayTeamId'
+
+
+HOME_SCORE_COLUMN = 'homeTeamScore'
+AWAY_SCORE_COLUMN = 'awayTeamScore'
 
 print(f"\nUsing structural columns:")
 print(f"Date: {DATE_COLUMN}")
@@ -62,7 +62,7 @@ if AWAY_SCORE_COLUMN:
     structural_columns.append(AWAY_SCORE_COLUMN)
 
 # FEATURE COLUMNS = ALL columns except structural ones
-#Feature_columns = [col for col in df.columns if col not in structural_columns]
+#feature_columns = [col for col in df.columns if col not in structural_columns]
 # other test for fetarue cols
 feature_columns=["possessionPct", "passPct", "totalShots", "shotsOnTarget","wonCorners","totalPasses"]
 print(f"\nFEATURE COLUMNS (from CSV headings): {feature_columns}")
@@ -73,7 +73,7 @@ df[DATE_COLUMN] = pd.to_datetime(df[DATE_COLUMN])
 df = df.sort_values(DATE_COLUMN)
 
 
-# === Create Team Records ===
+# Create Team Records
 def create_team_records(df, team_ids):
     """Create records for teams using CSV column headings directly"""
     all_records = []
@@ -98,7 +98,7 @@ def create_team_records(df, team_ids):
 
             # Determine if home or away, and if won
             if row[HOME_TEAM_COLUMN] == team_id:
-                # Team is home
+
                 record['is_home'] = 1
                 record['opponent_id'] = row[AWAY_TEAM_COLUMN]
 
@@ -110,7 +110,7 @@ def create_team_records(df, team_ids):
                 else:
                     record['won'] = 0  # Default if no scores
             else:
-                # Team is away
+
                 record['is_home'] = 0
                 record['opponent_id'] = row[HOME_TEAM_COLUMN]
 
@@ -142,12 +142,12 @@ def create_team_records(df, team_ids):
     return pd.DataFrame(all_records)
 
 
-# === Create Training and Prediction Data ===
-print("\n=== Creating Training Data ===")
+# create training and predction data
+print("\nCreating Training Data ")
 training_data = create_team_records(df, train_team_ids)
 print(f"Training data shape: {training_data.shape}")
 
-print("\n=== Creating Prediction Data ===")
+print("\n Creating Prediction Data ")
 prediction_data = create_team_records(df, test_team_ids)
 print(f"Prediction data shape: {prediction_data.shape}")
 
@@ -155,8 +155,8 @@ if len(training_data) == 0 or len(prediction_data) == 0:
     print("ERROR: No data found! Check your team IDs and column names.")
     exit()
 
-# === Prepare Features ===
-# Use: is_home + ALL your CSV feature columns
+# PRep fetaures
+
 model_features = ['is_home'] + feature_columns
 # #odel_features =  feature_columns
 
@@ -169,7 +169,7 @@ for i, feature in enumerate(model_features, 1):
 training_clean = training_data.dropna(subset=['won'])
 prediction_clean = prediction_data.dropna(subset=['won'])
 
-# OPTIONAL: Drop rows that are missing too many features (e.g. more than 2 missing)
+ #Drop rows that are missing too many features (any row missing more than 2 is dropped
 training_clean = training_clean.dropna(thresh=len(model_features) - 2)
 prediction_clean = prediction_clean.dropna(thresh=len(model_features) - 2)
 
@@ -180,7 +180,7 @@ print(f"\nCleaned data shapes:")
 print(f"Training: {training_clean.shape}")
 print(f"Prediction: {prediction_clean.shape}")
 
-# === Prepare for Neural Network ===
+#Prepare for Neural Network
 X_train = training_clean[model_features].values
 y_train = training_clean['won'].values
 
@@ -192,12 +192,12 @@ scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_pred_scaled = scaler.transform(X_pred)
 
-# Split for validation
+# Split for validation and convert to tensors
 X_train_split, X_val, y_train_split, y_val = train_test_split(
     X_train_scaled, y_train, test_size=0.2, random_state=42
 )
 
-# Convert to tensors
+
 X_train_tensor = torch.tensor(X_train_split, dtype=torch.float32)
 y_train_tensor = torch.tensor(y_train_split, dtype=torch.float32).unsqueeze(1)
 X_val_tensor = torch.tensor(X_val, dtype=torch.float32)
@@ -205,11 +205,13 @@ y_val_tensor = torch.tensor(y_val, dtype=torch.float32).unsqueeze(1)
 X_pred_tensor = torch.tensor(X_pred_scaled, dtype=torch.float32)
 
 
-# === Neural Network ===
+#  the actual  neural network
 class WinPredictor(nn.Module):
     def __init__(self, input_dim):
         super(WinPredictor, self).__init__()
-        if input_dim < 10:
+
+        if input_dim < 1:# this value should be changed depnding on how many layers you want
+           #shallow NEtwork
             self.model = nn.Sequential(
                 nn.Linear(input_dim, 8),
                 nn.ReLU(),
@@ -217,6 +219,7 @@ class WinPredictor(nn.Module):
                 nn.Sigmoid()
             )
         else:
+            #deep network
             self.model = nn.Sequential(
                 nn.Linear(input_dim, 128),
                 nn.ReLU(),
@@ -239,7 +242,7 @@ model = WinPredictor(len(model_features))
 criterion = nn.BCELoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
-print(f"\n=== Training Neural Network ===")
+print(f"\nTraining Neural Network:")
 print(f"Input features: {len(model_features)}")
 print(f"Training samples: {len(X_train_tensor)}")
 
@@ -265,7 +268,7 @@ for epoch in range(epochs):
             print(
                 f"Epoch {epoch + 1}, Loss: {loss.item():.4f}, Val Loss: {val_loss.item():.4f}, Val Acc: {val_accuracy:.3f}")
 
-# === Final Predictions ===
+#Final Predictions
 model.eval()
 with torch.no_grad():
     pred_outputs = model(X_pred_tensor)
@@ -276,7 +279,7 @@ with torch.no_grad():
     predicted_wins = pred_binary.sum()
     accuracy = accuracy_score(y_pred_true, pred_binary)
 
-    print(f"\n=== RESULTS ===")
+    print(f"\n RESULTS ")
     print(f"Team {test_team_ids} Analysis:")
     print(f"Total games: {len(pred_probabilities)}")
     print(f"Actual wins: {actual_wins}")
