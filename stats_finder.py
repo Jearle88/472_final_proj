@@ -6,8 +6,8 @@ from pathlib import Path
 
 def filter_team_data_by_schema(team_id, data_directory, output_file="team_data_filtered.csv"):
     """
-    Filter data from multiple CSV files based on team ID using the known database schema.
-    Focuses on relevant tables: teams, teamStats, standings, keyEvents_2024, plays_2024_EN, etc.
+    Filter data from multiple CSV files based on team ID by dynamically detecting team columns.
+    Reads column names from CSV files instead of using hardcoded mappings.
 
     Args:
         team_id (int): The team ID to filter for (e.g., 656)
@@ -24,19 +24,6 @@ def filter_team_data_by_schema(team_id, data_directory, output_file="team_data_f
 
     print(f"Found {len(csv_files)} CSV files to process...")
 
-    # Define table priorities and their expected team ID columns these can be changed to what ever stats
-    table_mappings = {
-        'teams': {'team_col': 'teamId', 'priority': 1},
-        'teamStats': {'team_col': 'teamId', 'priority': 2},
-        'standings': {'team_col': 'teamId', 'priority': 2},
-        'keyEvents': {'team_col': 'teamId', 'priority': 3},
-        'plays_2024': {'team_col': 'teamId', 'priority': 3},
-        'lineup_2024': {'team_col': 'teamId', 'priority': 4},
-        'fixtures': {'team_col': ['homeTeamId', 'awayTeamId'], 'priority': 3},
-        'playerStats': {'team_col': 'teamId', 'priority': 4},
-        'players': {'team_col': 'teamId', 'priority': 5}
-    }
-
     team_data_collection = {}
 
     # Process each CSV file
@@ -49,40 +36,27 @@ def filter_team_data_by_schema(team_id, data_directory, output_file="team_data_f
             df = pd.read_csv(file_path)
             df.columns = df.columns.str.strip()
 
-            # Determine table type from filename
-            table_type = None
-            for table_name in table_mappings.keys():
-                if table_name.lower() in filename:
-                    table_type = table_name
-                    break
+            # Dynamically find team ID columns by checking column names
+            possible_team_cols = []
+            for col in df.columns:
+                col_lower = col.lower()
+                # Look for columns that likely contain team IDs
+                if any(pattern in col_lower for pattern in ['teamid', 'team_id', 'hometeamid', 'awayteamid']):
+                    possible_team_cols.append(col)
 
-            if not table_type:
-                print(f"  Unknown table type, checking for team columns...")
-                # Fallback: look for any team ID column
-                possible_team_cols = ['teamId', 'team_id', 'homeTeamId', 'awayTeamId']
-                found_team_col = None
-                for col in possible_team_cols:
-                    if col in df.columns:
-                        found_team_col = col
-                        break
-
-                if found_team_col:
-                    team_data = df[df[found_team_col] == team_id].copy()
-                    if not team_data.empty:
-                        team_data['source_file'] = filename
-                        team_data['table_type'] = 'unknown'
-                        team_data_collection[f'unknown_{filename}'] = team_data
-                        print(f"  Found {len(team_data)} records (unknown table type)")
+            if not possible_team_cols:
+                print(f"  No team ID columns found in {filename}")
                 continue
 
-            # Process known table types
-            team_cols = table_mappings[table_type]['team_col']
-            if isinstance(team_cols, str):
-                team_cols = [team_cols]
+            # Determine table type from filename (remove file extension and special characters)
+            table_type = os.path.splitext(filename)[0].replace('_', '').replace('-', '').lower()
+
+            print(f"  Found team columns: {possible_team_cols}")
 
             all_team_data = []
-            for team_col in team_cols:
+            for team_col in possible_team_cols:
                 if team_col in df.columns:
+                    # Check if this column contains the team_id we're looking for
                     team_data = df[df[team_col] == team_id].copy()
                     if not team_data.empty:
                         team_data['source_file'] = filename
@@ -93,7 +67,9 @@ def filter_team_data_by_schema(team_id, data_directory, output_file="team_data_f
 
             if all_team_data:
                 combined_table_data = pd.concat(all_team_data, ignore_index=True)
-                team_data_collection[table_type] = combined_table_data
+                # Use filename as key if multiple files have same table type
+                table_key = f"{table_type}_{filename}" if table_type in team_data_collection else table_type
+                team_data_collection[table_key] = combined_table_data
             else:
                 print(f"  No data found for team {team_id}")
 
@@ -261,25 +237,12 @@ def extract_team_specific_data(team_data_collection, team_id):
 
 def analyze_team_schema(team_id, data_directory):
     """
-    Analyze what data is available for a team based on the known schema.
+    Analyze what data is available for a team by dynamically detecting columns.
     """
     csv_files = glob.glob(os.path.join(data_directory, "*.csv"))
 
-    print(f"Schema-based analysis for team ID {team_id}...")
+    print(f"Dynamic schema analysis for team ID {team_id}...")
     print(f"Checking {len(csv_files)} CSV files...\n")
-
-    # Expected tables and what they contain
-    expected_tables = {
-        'teams': 'Basic team information (name, colors, venue, etc.)',
-        'teamStats': 'Team performance statistics',
-        'standings': 'League standings and rankings',
-        'keyEvents': 'Key events in matches',
-        'plays_2024': 'Detailed play-by-play data',
-        'fixtures': 'Match fixtures (home/away games)',
-        'lineup_2024': 'Team lineups',
-        'playerStats': 'Individual player statistics',
-        'players': 'Player roster information'
-    }
 
     found_tables = {}
 
@@ -289,41 +252,38 @@ def analyze_team_schema(team_id, data_directory):
             df = pd.read_csv(file_path)
             df.columns = df.columns.str.strip()
 
-            # Check each expected table
-            for table_name, description in expected_tables.items():
-                if table_name.lower() in filename:
-                    # Look for team data
-                    team_cols = ['teamId', 'homeTeamId', 'awayTeamId']
-                    team_data_count = 0
+            # Dynamically find team ID columns
+            team_cols = []
+            for col in df.columns:
+                col_lower = col.lower()
+                if any(pattern in col_lower for pattern in ['teamid', 'team_id', 'hometeamid', 'awayteamid']):
+                    team_cols.append(col)
 
-                    for col in team_cols:
-                        if col in df.columns:
-                            team_data_count += len(df[df[col] == team_id])
+            if team_cols:
+                team_data_count = 0
+                for col in team_cols:
+                    if col in df.columns:
+                        team_data_count += len(df[df[col] == team_id])
 
-                    if team_data_count > 0:
-                        found_tables[table_name] = {
-                            'file': filename,
-                            'records': team_data_count,
-                            'description': description,
-                            'columns': list(df.columns)
-                        }
-                        print(f"✓ {table_name.upper()}: {team_data_count} records")
-                        print(f"  File: {filename}")
-                        print(f"  Purpose: {description}")
-                        print(
-                            f"  Key columns: {[col for col in df.columns if any(keyword in col.lower() for keyword in ['team', 'event', 'play', 'goal', 'shot', 'win', 'loss'])]}")
-                        print()
-                    break
+                if team_data_count > 0:
+                    table_name = os.path.splitext(filename)[0]
+                    found_tables[table_name] = {
+                        'file': filename,
+                        'records': team_data_count,
+                        'team_columns': team_cols,
+                        'all_columns': list(df.columns)
+                    }
+                    print(f"✓ {table_name.upper()}: {team_data_count} records")
+                    print(f"  File: {filename}")
+                    print(f"  Team columns found: {team_cols}")
+                    print(f"  Total columns: {len(df.columns)}")
+                    print()
 
         except Exception as e:
             continue
 
-    # Show missing tables
-    missing_tables = set(expected_tables.keys()) - set(found_tables.keys())
-    if missing_tables:
-        print("Missing or empty tables:")
-        for table in missing_tables:
-            print(f"  - {table}: {expected_tables[table]}")
+    if not found_tables:
+        print("No tables with team data found.")
 
     return found_tables
 
@@ -388,13 +348,27 @@ def get_event_details(team_id, data_directory, event_id=None):
         print("No event data found")
         return None
 
+def load_team_ids_from_csv(file_path, column_name):
+    """
+    Load all unique team IDs from a given column in a CSV file.
 
+    Args:
+        file_path (str): Path to the CSV file.
+        column_name (str): Name of the column containing team IDs.
+
+    Returns:
+        list: A list of unique team IDs as integers.
+    """
+    df = pd.read_csv(file_path)
+    df[column_name] = pd.to_numeric(df[column_name], errors='coerce')
+    team_ids = df[column_name].dropna().astype(int).unique().tolist()
+    return team_ids
 # Example usage
 if __name__ == "__main__":
     # Configuration
-    TEAM_IDs = [83, 382, 360,103,256,360,373,331]  # Change this to your desired team IDs
-    DATA_DIR = "C:/Users/Johnt/OneDrive/Documents/GitHub/472_final_proj/archive/base_data"  # Change this to your data directory path
-
+     # Change this to your desired team IDs
+    DATA_DIR = "C:/Users/Johnt/OneDrive/Documents/GitHub/472_final_proj/test_data"  # Change this to your data directory path
+    TEAM_IDs= load_team_ids_from_csv( "C:/Users/Johnt/OneDrive/Documents/GitHub/472_final_proj/archive/base_data/teams.csv", "teamId")
     print("=== TEAM DATA EXTRACTION TOOL ===")
     print(f"Target Team IDs: {TEAM_IDs}")
     print(f"Data Directory: {DATA_DIR}\n")
@@ -406,6 +380,7 @@ if __name__ == "__main__":
         "all_teams_consolidated_data.csv"
     )
 
+    """
     # Optional: Still create individual team analysis if needed
     print(f"\n=== INDIVIDUAL TEAM ANALYSIS (Optional) ===")
     for TEAM_ID in TEAM_IDs:
@@ -420,7 +395,7 @@ if __name__ == "__main__":
         # Step 3: Get event details
         if team_data and ('keyEvents' in team_data or 'plays_2024' in team_data):
             events = get_event_details(TEAM_ID, DATA_DIR)
-
+   
     print(f"\n=== FINAL SUMMARY ===")
     print("Generated files:")
     print("  - all_teams_consolidated_data.csv (ALL TEAMS COMBINED)")
@@ -430,3 +405,4 @@ if __name__ == "__main__":
         print(f"  - team_{TEAM_ID}_key_events.csv (events)")
         print(f"  - team_{TEAM_ID}_plays.csv (plays)")
         print(f"  - team_{TEAM_ID}_fixtures.csv (matches)")
+    """
